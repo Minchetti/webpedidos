@@ -1,0 +1,32 @@
+ERROR - 2018-10-17 13:43:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-17 13:43:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-17 13:44:11 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-17 13:53:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-17 13:53:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-17 13:53:50 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-17 13:54:22 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-17 14:23:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-17 14:23:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-17 14:25:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-17 14:25:05 --> 404 Page Not Found: Assets/js

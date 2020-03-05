@@ -1,0 +1,49 @@
+ERROR - 2018-08-20 09:07:24 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-20 09:54:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-20 09:54:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-20 09:54:43 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0080-10', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0080-10', 'JUN200024')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-20 09:54:56 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('', '')
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('', '')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-20 10:00:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-20 10:00:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-20 10:01:06 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0080-10', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0080-10', 'JUN200024')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-20 10:04:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-20 10:04:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-20 10:04:20 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-20 15:40:49 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161
+ERROR - 2018-08-20 15:40:51 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161
+ERROR - 2018-08-20 15:40:53 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161
+ERROR - 2018-08-20 15:40:54 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161
+ERROR - 2018-08-20 15:40:54 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161
+ERROR - 2018-08-20 15:40:54 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161
+ERROR - 2018-08-20 15:40:54 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161
+ERROR - 2018-08-20 15:40:59 --> Severity: error --> Exception: syntax error, unexpected '*', expecting end of file C:\laragon\www\webpedidos\application\config\database.php 161

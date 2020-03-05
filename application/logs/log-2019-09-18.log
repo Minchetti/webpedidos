@@ -1,0 +1,205 @@
+ERROR - 2019-09-18 01:24:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:24:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:24:45 --> Severity: error --> Exception: Call to undefined function geraSenha() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 61
+ERROR - 2019-09-18 01:26:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:26:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:26:50 --> Severity: error --> Exception: Call to undefined function geraSenha() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 85
+ERROR - 2019-09-18 01:38:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:38:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:38:44 --> Severity: Warning --> Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 01:38:44 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 01:41:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:41:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:41:27 --> Severity: Warning --> Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 148
+ERROR - 2019-09-18 01:41:27 --> Severity: Warning --> Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 01:41:27 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 01:42:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 01:42:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:02:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:02:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:05:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:05:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:05:51 --> Severity: Warning --> Use of undefined constant result - assumed 'result' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 148
+ERROR - 2019-09-18 09:05:51 --> Severity: Warning --> Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:05:51 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:09:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:09:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:09:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:09:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:10:55 --> Severity: Warning --> Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:10:55 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:11:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:11:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:11:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:11:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:12:22 --> Severity: Warning --> Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:12:22 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:14:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:14:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:14:31 --> Severity: Notice --> Trying to get property 'status' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:15:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:15:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:15:32 --> Severity: Notice --> Trying to get property 'status' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:19:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:19:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:20:17 --> Severity: Warning --> Use of undefined constant status - assumed 'status' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 148
+ERROR - 2019-09-18 09:20:17 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 148
+ERROR - 2019-09-18 09:20:17 --> Severity: Notice --> Trying to get property 'status' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:20:17 --> Severity: Notice --> Trying to get property 'status' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 151
+ERROR - 2019-09-18 09:20:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:20:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:21:35 --> Severity: Notice --> Trying to get property 'status' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 149
+ERROR - 2019-09-18 09:21:35 --> Severity: Notice --> Trying to get property 'status' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 151
+ERROR - 2019-09-18 09:21:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:21:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:21:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:21:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:22:24 --> Severity: Notice --> Trying to get property 'status' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 151
+ERROR - 2019-09-18 09:22:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:22:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:23:15 --> Severity: error --> Exception: Call to undefined function log_page() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 159
+ERROR - 2019-09-18 09:23:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:23:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 09:24:04 --> Severity: Notice --> Undefined variable: logger C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 160
+ERROR - 2019-09-18 09:24:04 --> Severity: error --> Exception: Call to a member function message() on null C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 160
+ERROR - 2019-09-18 10:10:04 --> Severity: Warning --> require_once(../../mailer/class.phpmailer.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 5
+ERROR - 2019-09-18 10:10:05 --> Severity: Compile Error --> require_once(): Failed opening required '../../mailer/class.phpmailer.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 5
+ERROR - 2019-09-18 10:11:06 --> Severity: Warning --> require_once(../../mailasder/class.phpmailer.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 5
+ERROR - 2019-09-18 10:11:06 --> Severity: Compile Error --> require_once(): Failed opening required '../../mailasder/class.phpmailer.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 5
+ERROR - 2019-09-18 10:11:12 --> Severity: Warning --> require_once(../../mailer/class.phpmailer.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 5
+ERROR - 2019-09-18 10:11:12 --> Severity: Compile Error --> require_once(): Failed opening required '../../mailer/class.phpmailer.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 5
+ERROR - 2019-09-18 10:54:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 10:54:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 10:54:59 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 237
+ERROR - 2019-09-18 11:03:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:03:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:03:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:03:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:04:20 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 235
+ERROR - 2019-09-18 11:14:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:14:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:15:24 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 235
+ERROR - 2019-09-18 11:20:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:20:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:35:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:35:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:36:13 --> Severity: Warning --> pg_fetch_array() expects parameter 1 to be resource, array given C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 136
+ERROR - 2019-09-18 11:37:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:37:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:38:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:38:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:38:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:38:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:46:11 --> Severity: Warning --> pg_fetch_array() expects parameter 1 to be resource, array given C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 136
+ERROR - 2019-09-18 11:46:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:46:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:47:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:47:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:48:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:48:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:48:51 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 136
+ERROR - 2019-09-18 11:48:51 --> Severity: Warning --> pg_fetch_array() expects parameter 1 to be resource, null given C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 136
+ERROR - 2019-09-18 11:49:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:49:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:52:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:52:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:53:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:53:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:53:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:53:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:54:14 --> Severity: Warning --> pg_fetch_array() expects parameter 1 to be resource, boolean given C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 176
+ERROR - 2019-09-18 11:56:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 11:56:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 12:01:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 12:01:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 12:01:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 12:01:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 12:02:03 --> Severity: Warning --> pg_fetch_array() expects parameter 1 to be resource, boolean given C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 176
+ERROR - 2019-09-18 12:07:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 12:07:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 14:29:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 14:29:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:09:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:09:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:10:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:10:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:10:22 --> Severity: Notice --> Undefined variable: data3 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 187
+ERROR - 2019-09-18 15:10:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:10:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:10:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:10:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:17:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:17:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:21:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:21:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:21:36 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-18 15:21:36 --> Severity: 4096 --> Object of class DateTime could not be converted to string C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-18 15:21:36 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 1: ..."webloginid", "senha", "dtinsercao") VALUES (Array, '100fc77...
+                                                             ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha", "dtinsercao") VALUES (Array, '100fc77491f5343360b96eedba9d5e04', )
+ERROR - 2019-09-18 15:27:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:27:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:32:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:32:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:32:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:32:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:39:47 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-18 15:39:47 --> Severity: 4096 --> Object of class DateTime could not be converted to string C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-18 15:39:47 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 1: ..."webloginid", "senha", "dtinsercao") VALUES (Array, 'f692f85...
+                                                             ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha", "dtinsercao") VALUES (Array, 'f692f85cd84b800723c7107c2f505456', )
+ERROR - 2019-09-18 15:41:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:41:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:47:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:47:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:47:41 --> Severity: error --> Exception: Class 'Date' not found C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 189
+ERROR - 2019-09-18 15:54:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 15:54:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:02:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:02:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:03:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:03:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:11:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:11:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:13:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:13:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:17:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:17:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:17:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:17:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:17:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:17:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:18:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:18:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:18:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:18:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:19:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:19:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:19:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:19:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:22:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:22:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:25:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:25:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:25:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:25:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:27:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:27:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:27:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:27:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:29:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:29:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:34:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:34:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:35:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:35:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:36:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:36:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:37:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:37:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:54:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 16:54:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-18 20:24:17 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated C:\wamp64\www\system\libraries\Form_validation.php 1234
+ERROR - 2019-09-18 20:35:08 --> Severity: 8192 --> idn_to_ascii(): INTL_IDNA_VARIANT_2003 is deprecated C:\wamp64\www\system\libraries\Form_validation.php 1234
+ERROR - 2019-09-18 20:35:08 --> Unable to connect to the database
+ERROR - 2019-09-18 20:50:05 --> Unable to connect to the database

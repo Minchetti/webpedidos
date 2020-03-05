@@ -1,0 +1,1287 @@
+ERROR - 2019-09-11 09:07:44 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:07:51 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:07:52 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:07:58 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:08:00 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:08:09 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:08:22 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:08:50 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:11:28 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:13:39 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:13:47 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:13:48 --> Query error: ERRO:  relação "vw_web_login" não existe
+LINE 2: FROM "vw_web_login"
+             ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "usuario" = 'FITASSUL2'
+AND "senha" = '796f8c3e1a5359f09d21fa39b3911e02'
+ERROR - 2019-09-11 09:17:44 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 86
+ERROR - 2019-09-11 09:17:44 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:17:44 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:17:44 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:17:44 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 91
+ERROR - 2019-09-11 09:17:44 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 94
+ERROR - 2019-09-11 09:17:44 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 100
+ERROR - 2019-09-11 09:18:39 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 86
+ERROR - 2019-09-11 09:18:39 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:18:39 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:18:39 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:18:39 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 91
+ERROR - 2019-09-11 09:18:39 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 94
+ERROR - 2019-09-11 09:18:39 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 100
+ERROR - 2019-09-11 09:19:09 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 86
+ERROR - 2019-09-11 09:19:09 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:19:09 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:19:09 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:19:09 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 91
+ERROR - 2019-09-11 09:19:09 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 94
+ERROR - 2019-09-11 09:19:09 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 100
+ERROR - 2019-09-11 09:19:25 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 86
+ERROR - 2019-09-11 09:19:25 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:19:25 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:19:25 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:19:25 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 91
+ERROR - 2019-09-11 09:19:25 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 94
+ERROR - 2019-09-11 09:19:25 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 100
+ERROR - 2019-09-11 09:22:25 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 86
+ERROR - 2019-09-11 09:22:25 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:22:25 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:22:25 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:22:25 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 91
+ERROR - 2019-09-11 09:22:25 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 94
+ERROR - 2019-09-11 09:22:25 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 100
+ERROR - 2019-09-11 09:23:24 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 86
+ERROR - 2019-09-11 09:23:24 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:23:24 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:23:24 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:23:24 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 91
+ERROR - 2019-09-11 09:23:24 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 94
+ERROR - 2019-09-11 09:23:24 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 100
+ERROR - 2019-09-11 09:25:23 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:25:23 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:25:23 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:25:23 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:25:23 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:25:23 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:25:23 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:27:50 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:27:50 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:27:50 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:27:50 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:27:50 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:27:50 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:27:50 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:28:13 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:28:13 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:28:13 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:28:13 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:28:13 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:28:13 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:28:13 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:28:29 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:28:29 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:28:29 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:28:29 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:28:29 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:28:29 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:28:29 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:29:59 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:29:59 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:29:59 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:29:59 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:29:59 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:29:59 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:29:59 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:30:03 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:30:03 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:30:03 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:30:03 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:30:03 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:30:03 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:30:03 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:30:17 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:30:17 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:30:17 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:30:17 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:30:17 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:30:17 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:30:17 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:31:18 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:31:18 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:31:18 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:31:18 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:31:18 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:31:18 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:31:18 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:31:23 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-11 09:31:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:31:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:36:59 --> Query error: ERRO:  relação "setor" não existe
+LINE 3: JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key...
+             ^ - Invalid query: SELECT "f"."id", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND   (
+"f"."matricula" LIKE  'AB%'
+OR "f"."nome" LIKE  'AB%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-09-11 09:36:59 --> Query error: ERRO:  relação "setor" não existe
+LINE 3: JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key...
+             ^ - Invalid query: SELECT "f"."id", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND   (
+"f"."matricula" LIKE  'ABA%'
+OR "f"."nome" LIKE  'ABA%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-09-11 09:36:59 --> Query error: ERRO:  relação "setor" não existe
+LINE 3: JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key...
+             ^ - Invalid query: SELECT "f"."id", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND   (
+"f"."matricula" LIKE  'ABAE%'
+OR "f"."nome" LIKE  'ABAE%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-09-11 09:37:00 --> Query error: ERRO:  relação "setor" não existe
+LINE 3: JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key...
+             ^ - Invalid query: SELECT "f"."id", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND   (
+"f"."matricula" LIKE  'ABAETE%'
+OR "f"."nome" LIKE  'ABAETE%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-09-11 09:37:00 --> Query error: ERRO:  relação "setor" não existe
+LINE 3: JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key...
+             ^ - Invalid query: SELECT "f"."id", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND   (
+"f"."matricula" LIKE  'ABAETE%'
+OR "f"."nome" LIKE  'ABAETE%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-09-11 09:37:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:37:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:37:55 --> Query error: ERRO:  relação "setor" não existe
+LINE 3: JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key...
+             ^ - Invalid query: SELECT "f"."id", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND   (
+"f"."matricula" LIKE  'AB%'
+OR "f"."nome" LIKE  'AB%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-09-11 09:45:37 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:45:39 --> Severity: Notice --> Undefined property: stdClass::$funcionariofilialid C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 95
+ERROR - 2019-09-11 09:47:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:47:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:49:23 --> Severity: Warning --> pg_query(): No PostgreSQL link opened yet C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 342
+ERROR - 2019-09-11 09:50:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:50:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 09:51:05 --> Severity: Warning --> pg_query(): No PostgreSQL link opened yet C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 339
+ERROR - 2019-09-11 10:04:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:04:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:04:17 --> Query error: ERRO:  operador não existe: uuid ~~ unknown
+LINE 3: WHERE "funcionarioid" LIKE '''.ff56ceff-1cb3-46fe-a966-5d080...
+                              ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" LIKE '''.ff56ceff-1cb3-46fe-a966-5d0804f3d81a.'''
+ERROR - 2019-09-11 10:06:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:06:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:06:27 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "'.ff56ceff-1cb3-46fe-a966-5d0804f3d81a.'"
+LINE 3: WHERE "funcionarioid" = '''.ff56ceff-1cb3-46fe-a966-5d0804f3...
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = '''.ff56ceff-1cb3-46fe-a966-5d0804f3d81a.'''
+ERROR - 2019-09-11 10:07:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:07:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:08:17 --> Severity: Warning --> pg_query(): No PostgreSQL link opened yet C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 348
+ERROR - 2019-09-11 10:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:08:58 --> Severity: Warning --> pg_query(): No PostgreSQL link opened yet C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 348
+ERROR - 2019-09-11 10:09:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:09:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:09:37 --> Severity: Warning --> pg_query(): No PostgreSQL link opened yet C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 348
+ERROR - 2019-09-11 10:10:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:10:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:18:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:18:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:19:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:19:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:20:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:20:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:22:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:22:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:22:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:22:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:23:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:23:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:24:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:25:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:25:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:27:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:27:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$descricao C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$data_cadastro C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 419
+ERROR - 2019-09-11 10:27:50 --> Severity: Notice --> Undefined property: stdClass::$obs C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 420
+ERROR - 2019-09-11 10:43:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:43:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:44:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:44:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:45:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:45:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:52:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:52:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:53:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 10:53:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:03:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:03:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:10:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:10:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:12:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:12:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:17:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:17:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:17:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:17:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:19:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:19:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:19:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:19:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:20:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:20:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:20:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:20:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:21:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:21:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:21:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:21:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:21:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:21:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:25:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:25:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:26:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:26:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:26:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:26:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:27:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:27:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:27:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:27:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:27:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:27:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:28:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:28:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:29:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:29:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:29:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:29:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:30:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:30:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:34:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:34:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:35:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:35:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:35:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:35:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:36:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:36:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:37:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:37:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:37:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:37:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:37:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:37:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:38:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:38:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:41:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:41:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:56:09 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-11 11:56:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:56:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:56:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:56:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:57:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 11:57:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 12:01:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 12:01:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 12:01:22 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 12:01:24 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 12:05:41 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 12:06:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 12:06:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 12:06:36 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 12:07:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 12:07:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 12:07:04 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 15:22:04 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "'..'"
+LINE 3: WHERE "empresasiteid" = '''..'''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "empresasiteid" = '''..'''
+ERROR - 2019-09-11 15:22:12 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "'..'"
+LINE 3: WHERE "empresasiteid" = '''..'''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "empresasiteid" = '''..'''
+ERROR - 2019-09-11 15:22:18 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "'..'"
+LINE 3: WHERE "empresasiteid" = '''..'''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "empresasiteid" = '''..'''
+ERROR - 2019-09-11 15:23:13 --> Severity: 4096 --> Object of class CI_DB_pdo_result could not be converted to string C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 88
+ERROR - 2019-09-11 15:23:18 --> Severity: 4096 --> Object of class CI_DB_pdo_result could not be converted to string C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 88
+ERROR - 2019-09-11 15:30:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:30:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:30:55 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 15:32:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:32:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:32:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:32:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:32:45 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 15:33:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:33:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:33:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:33:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:33:54 --> Severity: error --> Exception: Too few arguments to function Usuario_model::buscar(), 0 passed in C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php on line 407 and exactly 1 expected C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 82
+ERROR - 2019-09-11 15:36:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:36:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:36:54 --> Severity: Notice --> Undefined property: Usuario::$buscar C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-09-11 15:36:54 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 415
+ERROR - 2019-09-11 15:37:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:37:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:37:20 --> Severity: Notice --> Undefined property: Usuario::$buscar C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-09-11 15:37:20 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 415
+ERROR - 2019-09-11 15:39:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:39:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:39:42 --> Severity: Notice --> Undefined variable: empresaid C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 407
+ERROR - 2019-09-11 15:39:42 --> Severity: Notice --> Undefined variable: usuarios C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 15:39:42 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 15:40:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:40:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:42:45 --> Severity: Notice --> Undefined variable: empresaid C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 407
+ERROR - 2019-09-11 15:42:45 --> Severity: Notice --> Undefined variable: usuarios C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 15:42:45 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 15:44:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:44:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:44:02 --> Severity: Notice --> Undefined variable: usuarios C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 15:44:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 418
+ERROR - 2019-09-11 15:45:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 15:45:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:49 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-11 16:00:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:00:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:01:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:01:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:10:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:10:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:26:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:26:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:27:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:27:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:27:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:27:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:28:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:28:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:29:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:29:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:29:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:29:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:30:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:30:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:30:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:30:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:31:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:31:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:32:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:32:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:33:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:33:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:34:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 16:34:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 19:26:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 19:26:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 19:53:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 19:53:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 19:54:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 19:54:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:22:11 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 421
+ERROR - 2019-09-11 21:22:58 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 421
+ERROR - 2019-09-11 21:22:58 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 421
+ERROR - 2019-09-11 21:22:59 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 421
+ERROR - 2019-09-11 21:23:00 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 421
+ERROR - 2019-09-11 21:24:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:24:46 --> Severity: Notice --> Undefined property: Usuario::$database C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 421
+ERROR - 2019-09-11 21:24:46 --> Severity: error --> Exception: Call to a member function get_where() on null C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 421
+ERROR - 2019-09-11 21:38:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:38:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:38:26 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:38:26 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:39:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:39:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:47:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:47:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:47:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:47:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:47:46 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:46 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:46 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:46 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:46 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:46 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:46 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:47:47 --> Severity: Notice --> Undefined variable: cdusu C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 432
+ERROR - 2019-09-11 21:47:47 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:48:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:48:28 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:51:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:51:22 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:52:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:52:31 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:54:02 --> Severity: Warning --> pg_query(): Query failed: ERRO:  sintaxe de entrada ï¿½ invï¿½lida para uuid: &quot;&quot;
+LINE 1: SELECT nome FROM funcionarios WHERE id = ''
+                                                 ^ C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 433
+ERROR - 2019-09-11 21:56:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:56:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:56:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:56:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:56:03 --> Severity: Warning --> pg_close(): No PostgreSQL link opened yet C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 463
+ERROR - 2019-09-11 21:56:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:56:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:57:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:57:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:57:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:57:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:59:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 21:59:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:41:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:41:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:41:37 --> Query error: ERRO:  coluna f.n2ome não existe
+LINE 1: SELECT "f"."n2ome"
+               ^
+HINT:  Perhaps you meant to reference the column "f.nome". - Invalid query: SELECT "f"."n2ome"
+FROM "funcionarios" "f"
+WHERE "f"."id" IS NULL
+ERROR - 2019-09-11 22:43:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:43:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:43:20 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:44:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:44:26 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:26 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:26 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:26 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:26 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:27 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:27 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:27 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:27 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:27 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:27 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:44:27 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:45:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:45:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:45:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-11 22:45:42 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:42 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:42 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:42 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:42 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:42 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-11 22:45:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440

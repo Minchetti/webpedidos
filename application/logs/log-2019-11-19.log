@@ -1,0 +1,289 @@
+ERROR - 2019-11-19 08:35:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 08:35:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:00:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:00:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:00:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:00:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:00:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:00:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:01:03 --> Query error: ERRO:  faltando entrada para tabela "u" na cláusula FROM
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_func...
+                                                       ^ - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 09:03:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:03:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:03:53 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\Relatorio_model.php 186
+ERROR - 2019-11-19 09:04:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:04:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:04:27 --> Query error: ERRO:  coluna "33100093" não existe
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AN...
+                                                       ^ - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 09:07:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:07:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 09:07:16 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND ...
+                                                     ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 10:41:02 --> Query error: ERRO:  coluna "33100093" não existe
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AN...
+                                                       ^ - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 10:41:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:41:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:41:07 --> Query error: ERRO:  coluna "33100093" não existe
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AN...
+                                                       ^ - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 10:48:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:48:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:49:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:49:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:49:45 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\Relatorio_model.php 186
+ERROR - 2019-11-19 10:50:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:50:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 10:50:58 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 8: JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND ...
+                                                     ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 11:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 11:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 11:06:20 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 8: JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND ...
+                                                     ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 11:08:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 11:08:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 14:55:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 14:55:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 14:55:36 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND ...
+                                                     ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75008280'
+AND "f"."matricula" = '33021887'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 15:52:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 15:52:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 15:53:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 15:53:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 15:53:13 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND ...
+                                                     ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75008280'
+AND "f"."matricula" = '33021887'
+AND "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 16:02:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:02:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:02:18 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND ...
+                                                     ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75008280'
+AND "f"."matricula" = '33021887'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 16:02:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:02:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:02:51 --> Severity: error --> Exception: syntax error, unexpected '"', expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\Relatorio_model.php 186
+ERROR - 2019-11-19 16:03:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:03:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:03:15 --> Query error: ERRO:  coluna "33100093" não existe
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AN...
+                                                       ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75008280'
+AND "f"."matricula" = '33021887'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 16:03:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:03:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:03:36 --> Severity: error --> Exception: syntax error, unexpected '"', expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\Relatorio_model.php 186
+ERROR - 2019-11-19 16:04:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:04:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:04:04 --> Severity: error --> Exception: syntax error, unexpected '$matricula_user' (T_VARIABLE), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\Relatorio_model.php 186
+ERROR - 2019-11-19 16:04:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:04:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:04:58 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND ...
+                                                     ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = 33100093 AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75008280'
+AND "f"."matricula" = '33021887'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 16:05:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:05:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:05:26 --> Query error: ERRO:  coluna "33100093" não existe
+LINE 9: JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AN...
+                                                       ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "33100093" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75008280'
+AND "f"."matricula" = '33021887'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-19 16:07:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:07:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:08:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:08:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:13:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:13:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:14:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:14:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:14:55 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 457
+ERROR - 2019-11-19 16:14:55 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 457
+ERROR - 2019-11-19 16:20:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:20:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:35:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:35:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:43:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:43:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:46:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-19 16:46:55 --> 404 Page Not Found: Assets/js

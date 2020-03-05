@@ -1,0 +1,93 @@
+ERROR - 2020-01-31 12:02:50 --> Query error: ERRO:  coluna pe.nume2ro não existe
+LINE 1: SELECT CAST(pe.nume2ro AS INTEGER) as numero, "f"."nome", "p...
+                    ^
+HINT:  Perhaps you meant to reference the column "pe.numero". - Invalid query: SELECT CAST(pe.nume2ro AS INTEGER) as numero, "f"."nome", "pe"."data_emissao", "pe"."status", "pe"."obs", "pe"."aprovar", "pe"."entrega_turno" AS "turno", "pe"."entrega_local" AS "entrega", "fs"."nome" AS "solicitante", "fa"."nome" AS "aprovador", "pe"."id_centro_custo" AS "cc", "s"."nome" AS "setor"
+FROM "pedidos" "pe"
+JOIN "funcionarios" "f" ON (f.matricula, f.key_clientes) = (pe.key_funcionarios, pe.key_clientes)
+JOIN "funcionarios" "fa" ON (fa.matricula, fa.key_clientes) = (pe.key_funcionarios_aprovador, pe.key_clientes)
+JOIN "funcionarios" "fs" ON (fs.matricula, fs.key_clientes) = (pe.key_funcionarios_solicitante, pe.key_clientes)
+JOIN "setor" "s" ON "s"."id_centro_custo" = "pe"."id_centro_custo" AND "s"."id_depto" = "pe"."id_depto"
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2020-01-31 12:06:47 --> Query error: ERRO:  coluna pe.nume2ro não existe
+LINE 1: SELECT CAST(pe.nume2ro AS INTEGER) as numero, "f"."nome", "p...
+                    ^
+HINT:  Perhaps you meant to reference the column "pe.numero". - Invalid query: SELECT CAST(pe.nume2ro AS INTEGER) as numero, "f"."nome", "pe"."data_emissao", "pe"."status", "pe"."obs", "pe"."aprovar", "pe"."entrega_turno" AS "turno", "pe"."entrega_local" AS "entrega", "fs"."nome" AS "solicitante", "fa"."nome" AS "aprovador", "pe"."id_centro_custo" AS "cc", "s"."nome" AS "setor"
+FROM "pedidos" "pe"
+JOIN "funcionarios" "f" ON (f.matricula, f.key_clientes) = (pe.key_funcionarios, pe.key_clientes)
+JOIN "funcionarios" "fa" ON (fa.matricula, fa.key_clientes) = (pe.key_funcionarios_aprovador, pe.key_clientes)
+JOIN "funcionarios" "fs" ON (fs.matricula, fs.key_clientes) = (pe.key_funcionarios_solicitante, pe.key_clientes)
+JOIN "setor" "s" ON "s"."id_centro_custo" = "pe"."id_centro_custo" AND "s"."id_depto" = "pe"."id_depto"
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2020-01-31 12:06:49 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 12:06:49 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 12:06:51 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 12:06:51 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 12:06:51 --> Query error: ERRO:  coluna pe.nume2ro não existe
+LINE 1: SELECT CAST(pe.nume2ro AS INTEGER) as numero, "f"."nome", "p...
+                    ^
+HINT:  Perhaps you meant to reference the column "pe.numero". - Invalid query: SELECT CAST(pe.nume2ro AS INTEGER) as numero, "f"."nome", "pe"."data_emissao", "pe"."status", "pe"."obs", "pe"."aprovar", "pe"."entrega_turno" AS "turno", "pe"."entrega_local" AS "entrega", "fs"."nome" AS "solicitante", "fa"."nome" AS "aprovador", "pe"."id_centro_custo" AS "cc", "s"."nome" AS "setor"
+FROM "pedidos" "pe"
+JOIN "funcionarios" "f" ON (f.matricula, f.key_clientes) = (pe.key_funcionarios, pe.key_clientes)
+JOIN "funcionarios" "fa" ON (fa.matricula, fa.key_clientes) = (pe.key_funcionarios_aprovador, pe.key_clientes)
+JOIN "funcionarios" "fs" ON (fs.matricula, fs.key_clientes) = (pe.key_funcionarios_solicitante, pe.key_clientes)
+JOIN "setor" "s" ON "s"."id_centro_custo" = "pe"."id_centro_custo" AND "s"."id_depto" = "pe"."id_depto"
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2020-01-31 12:07:06 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 12:07:06 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:05:54 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:05:54 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:39:21 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:39:21 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:39:55 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:39:55 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:40:02 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:40:02 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:40:03 --> Query error: ERRO:  coluna "tr2ue" não existe
+LINE 4: ...atricula, fa.ativo) = (pe.key_funcionarios_aprovador, tr2ue)
+                                                                 ^ - Invalid query: SELECT CAST(pe.numero AS INTEGER) as numero, "f"."nome", "pe"."data_emissao", "pe"."status", "pe"."obs", "pe"."aprovar", "pe"."entrega_turno" AS "turno", "pe"."entrega_local" AS "entrega", "fs"."nome" AS "solicitante", "fa"."nome" AS "aprovador", "pe"."id_centro_custo" AS "cc", "s"."nome" AS "setor"
+FROM "pedidos" "pe"
+JOIN "funcionarios" "f" ON (f.matricula, f.key_clientes) = (pe.key_funcionarios, pe.key_clientes)
+JOIN "funcionarios" "fa" ON (fa.matricula, fa.ativo) = (pe.key_funcionarios_aprovador, tr2ue)
+JOIN "funcionarios" "fs" ON (fs.matricula, fs.ativo) = (pe.key_funcionarios_solicitante, tr22ue)
+JOIN "setor" "s" ON "s"."id_centro_custo" = "pe"."id_centro_custo" AND "s"."id_depto" = "pe"."id_depto"
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2020-01-31 14:40:07 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:40:07 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:40:33 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:40:33 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:41:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-01-31 14:41:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-01-31 14:41:28 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 14:41:28 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-31 15:04:54 --> Severity: error --> Exception: Call to undefined method Requisicao_model::contarRequisicoes() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 607
+ERROR - 2020-01-31 17:16:58 --> Query error: ERRO:  erro de sintaxe em ou próximo a "3"
+LINE 4: AND extract (month from data_emissao) 3
+                                              ^ - Invalid query: SELECT "numero"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) 3
+AND extract (year from data_emissao) 2020
+ERROR - 2020-01-31 17:17:35 --> Query error: ERRO:  erro de sintaxe em ou próximo a "3"
+LINE 4: AND extract (month from data_emissao) 3
+                                              ^ - Invalid query: SELECT "num2ero"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) 3
+AND extract (year from data_emissao) 2020
+ERROR - 2020-01-31 17:18:47 --> Query error: ERRO:  coluna "num2ero" não existe
+LINE 1: SELECT "num2ero"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "num2ero"
+FROM "pedidos"
+WHERE extract (month from data_emissao) = 3
+AND extract (year from data_emissao) = 2020
+ERROR - 2020-01-31 17:48:28 --> Severity: error --> Exception: syntax error, unexpected ',' C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 373
+ERROR - 2020-01-31 17:49:02 --> Severity: error --> Exception: syntax error, unexpected ',' C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 373

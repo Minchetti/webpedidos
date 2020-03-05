@@ -1,0 +1,153 @@
+ERROR - 2018-09-12 10:18:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 10:18:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 10:24:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 10:24:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 10:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 10:26:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 11:03:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 11:03:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 11:05:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 11:05:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 11:38:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 11:38:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 11:38:36 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 11:38:36 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 11:38:36 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 11:38:36 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 11:38:49 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, , null, 22, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (22, '0', '71.340.830/0001-06', 'ASDASD', '')
+ERROR - 2018-09-12 13:54:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 13:54:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 13:55:57 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:55:57 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:55:57 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:55:57 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:56:06 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASDASD, null, 23, 0, ADSDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (23, '0', '71.340.830/0001-06', 'ADSDASD', 'ASDASD')
+ERROR - 2018-09-12 13:58:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 13:58:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 13:58:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:58:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:58:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:58:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 13:58:22 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, 111123SDASD, null, 24, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (24, '0', '71.340.830/0001-06', 'ASDASD', '111123SDASD')
+ERROR - 2018-09-12 14:00:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:00:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:00:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:00:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:00:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:00:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:01:02 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASDASD, null, 25, 0, ASDADA). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (25, '0', '71.340.830/0001-06', 'ASDADA', 'ASDASD')
+ERROR - 2018-09-12 14:01:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:01:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:01:53 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, 123123, null, 26, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (26, '0', '71.340.830/0001-06', 'ASDASD', '123123')
+ERROR - 2018-09-12 14:10:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:10:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:11:08 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:11:09 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:11:09 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:11:09 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:11:14 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, OBSSS, null, 27, 0, NOMEEE). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (27, '0', '71.340.830/0001-06', 'NOMEEE', 'OBSSS')
+ERROR - 2018-09-12 14:18:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:18:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:18:49 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:18:49 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:18:49 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:18:49 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:19:00 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, OBAN, null, 28, 0, NOM). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (28, '0', '71.340.830/0001-06', 'NOM', 'OBAN')
+ERROR - 2018-09-12 14:23:02 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, OBAN, null, 29, 0, NOM). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (29, '0', '71.340.830/0001-06', 'NOM', 'OBAN')
+ERROR - 2018-09-12 14:23:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:23:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:23:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:23:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:23:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:23:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:23:50 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASDASD, null, 30, 0, DASDAS). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (30, '0', '71.340.830/0001-06', 'DASDAS', 'ASDASD')
+ERROR - 2018-09-12 14:24:40 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASDASD, null, 31, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (31, '0', '71.340.830/0001-06', 'ASDASD', 'ASDASD')
+ERROR - 2018-09-12 14:29:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:29:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:30:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:30:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:30:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:30:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:30:26 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, DASDAS, null, 32, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (32, '0', '71.340.830/0001-06', 'ASDASD', 'DASDAS')
+ERROR - 2018-09-12 14:36:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:36:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:36:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:36:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:36:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:36:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:36:43 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASDASD, null, 33, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (33, '0', '71.340.830/0001-06', 'ASDASD', 'ASDASD')
+ERROR - 2018-09-12 14:38:48 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:38:48 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:39:13 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:39:13 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:39:13 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:39:13 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:39:25 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASDASD2, null, 34, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (34, '0', '71.340.830/0001-06', 'ASDASD', 'ASDASD2')
+ERROR - 2018-09-12 14:40:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:40:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:41:21 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:41:21 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:41:21 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:41:21 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:41:30 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASD, null, 35, 0, ASDASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (35, '0', '71.340.830/0001-06', 'ASDASD', 'ASD')
+ERROR - 2018-09-12 14:49:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:49:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:49:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:49:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:49:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:49:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:49:34 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASD, null, 36, 0, ASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (36, '0', '71.340.830/0001-06', 'ASD', 'ASD')
+ERROR - 2018-09-12 14:52:11 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:52:11 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:52:33 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:52:33 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:52:33 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:52:33 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:52:41 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-12, null, null, ASD, null, 37, 0, ASD). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (37, '0', '71.340.830/0001-06', 'ASD', 'ASD')
+ERROR - 2018-09-12 14:54:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:54:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 14:55:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:55:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:55:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:55:04 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 14:55:11 --> Query error: ERRO:  valor nulo na coluna "descricao" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (97, null, 71.340.830/0001-06, 2018-09-12, null, null, ASD, null, 38, 0, ASD). - Invalid query: INSERT INTO "templates" ("numero", "codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES ('97', 38, '0', '71.340.830/0001-06', 'ASD', 'ASD')
+ERROR - 2018-09-12 15:05:29 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 15:05:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 15:05:41 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 15:05:41 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 15:05:41 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 15:05:41 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 15:05:45 --> Query error: ERRO:  coluna "key_clientes" da relação "templates_funcionarios" não existe
+LINE 1: INSERT INTO "templates_funcionarios" ("codigo", "key_cliente...
+                                                        ^ - Invalid query: INSERT INTO "templates_funcionarios" ("codigo", "key_clientes", "key_funcionarios", "key_templates") VALUES (151,'44.013.159/0031-31','33021887',39)
+ERROR - 2018-09-12 16:02:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 16:02:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 16:02:21 --> Query error: ERRO:  coluna "key_clientes" da relação "templates_funcionarios" não existe
+LINE 1: INSERT INTO "templates_funcionarios" ("codigo", "key_cliente...
+                                                        ^ - Invalid query: INSERT INTO "templates_funcionarios" ("codigo", "key_clientes", "key_funcionarios", "key_templates") VALUES (152,'44.013.159/0031-31','33021887',40)
+ERROR - 2018-09-12 16:08:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 16:08:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-12 16:08:47 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 16:08:47 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 16:08:47 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 16:08:47 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-12 16:08:57 --> Query error: ERRO:  relação "templates_funcionarios_itens" não existe
+LINE 1: INSERT INTO "templates_funcionarios_itens" ("key_partnumber"...
+                    ^ - Invalid query: INSERT INTO "templates_funcionarios_itens" ("key_partnumber", "key_produtos", "key_templates_funcionarios", "quantidade") VALUES ('9001818','001818',153,1)

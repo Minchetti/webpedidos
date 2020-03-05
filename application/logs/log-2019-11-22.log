@@ -1,0 +1,30 @@
+ERROR - 2019-11-22 14:39:02 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 52
+ERROR - 2019-11-22 14:51:58 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 52
+ERROR - 2019-11-22 17:12:09 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::use() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 98
+ERROR - 2019-11-22 17:52:23 --> Query error: ERRO:  coluna "mat2ricula" não existe
+LINE 3: WHERE "mat2ricula" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "funcionarios.matricula". - Invalid query: SELECT "email"
+FROM "funcionarios"
+WHERE "mat2ricula" = '33100093'
+ERROR - 2019-11-22 17:53:36 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 54
+ERROR - 2019-11-22 17:53:59 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 17:55:57 --> Query error: ERRO:  coluna "mat2ricula" não existe
+LINE 3: WHERE "mat2ricula" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "funcionarios.matricula". - Invalid query: SELECT "email"
+FROM "funcionarios"
+WHERE "mat2ricula" = '33100093'
+ERROR - 2019-11-22 18:05:48 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 104
+ERROR - 2019-11-22 18:05:49 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 18:06:22 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 105
+ERROR - 2019-11-22 18:06:22 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 18:06:58 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 106
+ERROR - 2019-11-22 18:06:58 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 18:08:56 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 107
+ERROR - 2019-11-22 18:08:56 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 18:09:46 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 18:15:44 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 18:16:25 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-22 18:16:58 --> Severity: Notice --> Undefined property: Recebimento::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-11-22 18:16:58 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99

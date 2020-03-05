@@ -1,0 +1,720 @@
+ERROR - 2019-11-11 02:10:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:10:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:11:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:11:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:11:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:11:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:14:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:14:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:14:50 --> Query error: ERRO:  atualização ou exclusão em tabela "web_grupos_acesso" viola restrição de chave estrangeira "web_login_grupoacessoid_fkey" em "web_login"
+DETAIL:  Chave (grupoacessoid)=(101) ainda é referenciada pela tabela "web_login". - Invalid query: DELETE FROM "web_grupos_acesso"
+WHERE "grupoacessonome" = 'TESTE3'
+ERROR - 2019-11-11 02:16:49 --> Severity: Warning --> Creating default object from empty value C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 77
+ERROR - 2019-11-11 02:16:49 --> Severity: Warning --> Creating default object from empty value C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 78
+ERROR - 2019-11-11 02:16:49 --> Severity: Warning --> Creating default object from empty value C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 79
+ERROR - 2019-11-11 02:16:49 --> Severity: Warning --> Creating default object from empty value C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 80
+ERROR - 2019-11-11 02:18:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:18:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:19:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:19:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:19:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:20:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:20:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:20:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:20:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:20:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:26:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:26:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:27:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:27:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:28:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 02:28:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:28:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:28:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:28:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:28:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:28:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:29:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:29:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:32:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:32:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:32:31 --> Query error: ERRO:  relação "vend1as" não existe
+LINE 2: FROM "vend1as" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-11-11) as Data_Entrega, (cast(nf.emissao as date), 2019-11-11) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vend1as" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-11 02:40:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:40:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:40:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:40:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:41:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:41:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:42:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:45:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:45:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:46:02 --> Query error: ERRO:  relação "vend2as" não existe
+LINE 2: FROM "vend2as" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-11-11) as Data_Entrega, (cast(nf.emissao as date), 2019-11-11) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vend2as" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-11 02:53:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:53:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:53:41 --> Query error: ERRO:  relação "vend2as" não existe
+LINE 2: FROM "vend2as" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", "v"."data_emissao" AS "Data_Entrega", "nf"."emissao" AS "Data_Faturamento", "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vend2as" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-11 02:58:14 --> Query error: ERRO:  relação "vend2as" não existe
+LINE 2: FROM "vend2as" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", "v"."data_emissao" AS "Data_Entrega", "nf"."emissao" AS "Data_Faturamento", "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vend2as" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-11 02:58:17 --> Query error: ERRO:  relação "vend2as" não existe
+LINE 2: FROM "vend2as" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", "v"."data_emissao" AS "Data_Entrega", "nf"."emissao" AS "Data_Faturamento", "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vend2as" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-11 02:58:36 --> Query error: ERRO:  relação "vend2as" não existe
+LINE 2: FROM "vend2as" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", "v"."data_emissao" AS "Data_Entrega", "nf"."emissao" AS "Data_Faturamento", "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vend2as" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."data_emissao" >= '01/01/2018'
+AND "v"."data_emissao" <= '01/10/2019'
+AND "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-11 02:58:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:58:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 02:58:41 --> Query error: ERRO:  relação "vend2as" não existe
+LINE 2: FROM "vend2as" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", "v"."data_emissao" AS "Data_Entrega", "nf"."emissao" AS "Data_Faturamento", "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vend2as" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."data_emissao" >= '01/01/2018'
+AND "v"."data_emissao" <= '01/10/2019'
+AND "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-11 11:57:24 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-11-11) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '11/11/19', '11/12/2019', 'TESTE 11/11')
+ERROR - 2019-11-11 11:59:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 11:59:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:09:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:09:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:09:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:09:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:11:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:11:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:16:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:16:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:19:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:19:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:19:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:19:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:20:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:20:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:20:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:20:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:21:02 --> Query error: ERRO:  coluna "key_pro4dutos" não existe
+LINE 1: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 12:41:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:41:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:42:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:42:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:42:44 --> Query error: ERRO:  coluna "key_pro4dutos" não existe
+LINE 1: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000318')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 12:46:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:46:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:46:37 --> Query error: ERRO:  coluna "key_pro4dutos" não existe
+LINE 1: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 12:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:56:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:56:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:56:46 --> Query error: ERRO:  coluna "key_pro4dutos" não existe
+LINE 1: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 12:57:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:57:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 12:57:19 --> Query error: ERRO:  coluna "key_pro4dutos" não existe
+LINE 1: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000318')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 13:01:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:01:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:02:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:02:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:02:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:02:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:02:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:02:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:02:59 --> Query error: ERRO:  coluna "key_pro4dutos" não existe
+LINE 1: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_pro4dutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75008272')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 13:03:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:03:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:03:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 13:03:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:03:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:03:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:03:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:04:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:04:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:05:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:05:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:05:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:05:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:05:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:05:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:09:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:09:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:13:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:21:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:21:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:26:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:26:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:26:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:26:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:26:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:26:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:39:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:39:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:39:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:39:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:40:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:40:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:40:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:40:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:41:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:41:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:41:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:41:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:42:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:42:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:42:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:42:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:43:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:43:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:43:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:43:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:43:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:43:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:44:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:44:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 13:44:58 --> Query error: ERRO:  coluna "key_prod1utos" não existe
+LINE 1: SELECT "key_prod1utos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_prod1utos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 14:04:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:04:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:06:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:06:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:06:39 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:06:39 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:06:39 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:06:39 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:06:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:07:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:07:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:08:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:08:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:08:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:08:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:09:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:09:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 14:09:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:09:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:09:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:09:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:10:06 --> Query error: ERRO:  coluna "key_p2rodutos" não existe
+LINE 1: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 14:11:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:11:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:11:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:11:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:14:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:14:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:34:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 14:34:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 15:55:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 15:55:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 15:55:14 --> Query error: ERRO:  coluna "key_p2rodutos" não existe
+LINE 1: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 15:55:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 15:55:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:09:04 --> Query error: ERRO:  coluna "key_p2rodutos" não existe
+LINE 1: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 16:16:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:16:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:16:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:16:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:16:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:16:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:16:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:16:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:17:05 --> Query error: ERRO:  coluna "key_p2rodutos" não existe
+LINE 1: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000318')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 16:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:34:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:34:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 16:35:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:35:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:35:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:35:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:35:50 --> Query error: ERRO:  coluna "key_p2rodutos" não existe
+LINE 1: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "par...
+               ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos2.key_produtos". - Invalid query: SELECT "key_p2rodutos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos2('44.013.159/0031-31', '75000091')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-11 16:35:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:35:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:36:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:36:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:36:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 16:36:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 17:11:32 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 17:11:32 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 17:11:32 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 17:11:32 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 17:19:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 17:19:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 17:19:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 17:27:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 17:27:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 17:27:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 17:27:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 18:07:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 18:07:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:44:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:44:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:52:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:53:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:53:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:53:32 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT "webloginid"
+FROM "web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-11-11 20:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:53:51 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT "webloginid"
+FROM "web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-11-11 20:54:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:54:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 20:55:01 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT "webloginid"
+FROM "web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-11-11 21:00:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:00:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:00:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:00:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:00:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:00:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:07:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:07:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:09:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:09:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:09:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:09:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:10:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:10:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:16:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:16:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:16:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:20:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:20:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 21:20:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:20:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:20:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:20:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:25:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:25:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:26:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 21:26:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:13:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:13:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:13:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:13:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:15:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:15:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:23:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:23:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:24:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:24:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:24:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:24:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:25:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:25:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:25:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:25:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:25:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:25:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:25:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:25:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:26:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:26:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:26:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:26:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:26:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:26:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:26:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:26:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:26:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:26:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-11 22:27:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:27:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:28:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:28:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:28:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:28:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:29:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:29:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:30:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:30:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:30:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:30:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:30:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:30:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:40:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:40:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:40:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:40:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:46:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:46:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:46:19 --> Query error: ERRO:  relação "funcio3narios" não existe
+LINE 3: JOIN "funcio3narios" "f" ON "f"."matricula" = "pe"."key_func...
+             ^ - Invalid query: SELECT CAST(pe.numero AS INTEGER) as numero, "f"."nome", "pe"."data_emissao", "pe"."status", "pe"."obs", "pe"."aprovar", "pe"."entrega_turno" AS "turno", "pe"."entrega_local" AS "entrega", "fs"."nome" AS "solicitante", "fa"."nome" AS "aprovador", "pe"."id_centro_custo" AS "cc", "s"."nome" AS "setor"
+FROM "pedidos" "pe"
+JOIN "funcio3narios" "f" ON "f"."matricula" = "pe"."key_funcionarios"
+JOIN "funcionarios" "fa" ON "fa"."matricula" = "pe"."key_funcionarios_aprovador"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "pe"."key_funcionarios_solicitante"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "pe"."id_centro_custo" AND "s"."id_depto" = "pe"."id_depto"
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2019-11-11 22:48:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:48:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:48:12 --> Query error: ERRO:  relação "funcio3narios" não existe
+LINE 3: JOIN "funcio3narios" "f" ON "f"."matricula" = "pe"."key_func...
+             ^ - Invalid query: SELECT CAST(pe.numero AS INTEGER) as numero, "f"."nome", "pe"."data_emissao", "pe"."status", "pe"."obs", "pe"."aprovar", "pe"."entrega_turno" AS "turno", "pe"."entrega_local" AS "entrega", "fs"."nome" AS "solicitante", "fa"."nome" AS "aprovador", "pe"."id_centro_custo" AS "cc", "s"."nome" AS "setor"
+FROM "pedidos" "pe"
+JOIN "funcio3narios" "f" ON "f"."matricula" = "pe"."key_funcionarios"
+JOIN "funcionarios" "fa" ON "fa"."matricula" = "pe"."key_funcionarios_aprovador"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "pe"."key_funcionarios_solicitante"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "pe"."id_centro_custo" AND "s"."id_depto" = "pe"."id_depto"
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2019-11-11 22:48:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:48:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:49:00 --> Query error: ERRO:  relação "funcio3narios" não existe
+LINE 3: JOIN "funcio3narios" "f" ON "f"."matricula" = "pe"."key_func...
+             ^ - Invalid query: SELECT CAST(pe.numero AS INTEGER) as numero, "f"."nome", "pe"."data_emissao", "pe"."status", "pe"."obs", "pe"."aprovar", "pe"."entrega_turno" AS "turno", "pe"."entrega_local" AS "entrega", "fs"."nome" AS "solicitante", "fa"."nome" AS "aprovador", "pe"."id_centro_custo" AS "cc", "s"."nome" AS "setor"
+FROM "pedidos" "pe"
+JOIN "funcio3narios" "f" ON "f"."matricula" = "pe"."key_funcionarios"
+JOIN "funcionarios" "fa" ON "fa"."matricula" = "pe"."key_funcionarios_aprovador"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "pe"."key_funcionarios_solicitante"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "pe"."id_centro_custo" AND "s"."id_depto" = "pe"."id_depto"
+WHERE "pe"."key_funcionarios_solicitante" = '33100093'
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2019-11-11 22:49:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 22:49:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 23:01:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 23:01:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 23:13:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-11 23:13:07 --> 404 Page Not Found: Assets/js

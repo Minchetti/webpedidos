@@ -1,0 +1,7 @@
+ERROR - 2018-08-10 13:54:57 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10

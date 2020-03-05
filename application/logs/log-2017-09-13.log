@@ -1,0 +1,26 @@
+ERROR - 2017-09-13 00:41:13 --> Query error: ERRO:  relação "web_usuario_senhas_old" não existe
+LINE 2: FROM "web_usuario_senhas_old"
+             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_usuario_senhas_old"
+WHERE "key_usuario" = 'LUCIANO'
+ERROR - 2017-09-13 00:41:19 --> Query error: ERRO:  relação "web_usuario_senhas_old" não existe
+LINE 2: FROM "web_usuario_senhas_old"
+             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_usuario_senhas_old"
+WHERE "key_usuario" = 'LUCIANO'
+ERROR - 2017-09-13 00:41:29 --> Query error: ERRO:  relação "web_usuario_senhas_old" não existe
+LINE 2: FROM "web_usuario_senhas_old"
+             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_usuario_senhas_old"
+WHERE "key_usuario" = 'LUCIANO'
+ERROR - 2017-09-13 00:55:28 --> Severity: 4096 --> Object of class CI_DB_pdo_result could not be converted to string C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 79
+ERROR - 2017-09-13 00:55:28 --> Severity: Notice --> Object of class CI_DB_pdo_result to string conversion C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 79
+ERROR - 2017-09-13 00:56:43 --> Severity: 4096 --> Object of class CI_DB_pdo_result could not be converted to string C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 79
+ERROR - 2017-09-13 00:56:43 --> Severity: Notice --> Object of class CI_DB_pdo_result to string conversion C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 79
+ERROR - 2017-09-13 00:58:37 --> Severity: 4096 --> Object of class CI_DB_pdo_result could not be converted to string C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 79
+ERROR - 2017-09-13 01:01:12 --> Severity: Notice --> Array to string conversion C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 29
+ERROR - 2017-09-13 02:18:49 --> Query error: ERRO:  relação "web_parametros" não existe
+LINE 2: FROM "web_parametros"
+             ^ - Invalid query: SELECT "mostrar_valor"
+FROM "web_parametros"
+WHERE "key_fiscal_empresas" = 2

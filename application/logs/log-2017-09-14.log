@@ -1,0 +1,452 @@
+ERROR - 2017-09-14 15:17:41 --> Severity: Notice --> Undefined property: stdClass::$senhaValidade C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 31
+ERROR - 2017-09-14 15:19:39 --> Severity: Notice --> Undefined property: stdClass::$senhaValidade C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 32
+ERROR - 2017-09-14 15:19:41 --> Severity: Notice --> Undefined property: stdClass::$senhaValidade C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 32
+ERROR - 2017-09-14 15:24:38 --> Severity: Notice --> Undefined property: stdClass::$senhaValidade C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 32
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$senhaValidade C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 32
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$key_fiscal_empresas C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 48
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$aprova_pedido C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 49
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$rel_consumo C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 50
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$rel_pedidos_aprovados C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 51
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$rel_comparacao C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 52
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$id_grupo_acesso C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 55
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios_filial C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 56
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Undefined variable: parametro C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 58
+ERROR - 2017-09-14 15:30:58 --> Severity: Notice --> Trying to get property of non-object C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 58
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$senhaValidade C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 32
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$key_fiscal_empresas C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 48
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$aprova_pedido C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 49
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$rel_consumo C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 50
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$rel_pedidos_aprovados C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 51
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$rel_comparacao C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 52
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$id_grupo_acesso C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 55
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios_filial C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 56
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Undefined variable: parametro C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 58
+ERROR - 2017-09-14 15:30:59 --> Severity: Notice --> Trying to get property of non-object C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 58
+ERROR - 2017-09-14 15:33:04 --> Severity: Notice --> Undefined property: stdClass::$senhaValidade C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 33
+ERROR - 2017-09-14 15:33:04 --> Severity: Notice --> Undefined property: stdClass::$key_fiscal_empresas C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 49
+ERROR - 2017-09-14 15:33:04 --> Severity: Notice --> Undefined property: stdClass::$aprova_pedido C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 50
+ERROR - 2017-09-14 15:33:04 --> Severity: Notice --> Undefined property: stdClass::$rel_consumo C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 51
+ERROR - 2017-09-14 15:33:05 --> Severity: Notice --> Undefined property: stdClass::$rel_pedidos_aprovados C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 52
+ERROR - 2017-09-14 15:33:05 --> Severity: Notice --> Undefined property: stdClass::$rel_comparacao C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 53
+ERROR - 2017-09-14 15:33:05 --> Severity: Notice --> Undefined property: stdClass::$id_grupo_acesso C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 56
+ERROR - 2017-09-14 15:33:05 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios_filial C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 57
+ERROR - 2017-09-14 15:33:05 --> Severity: Notice --> Undefined variable: parametro C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 59
+ERROR - 2017-09-14 15:33:05 --> Severity: Notice --> Trying to get property of non-object C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 59
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined property: stdClass::$key_fiscal_empresas C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 49
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined property: stdClass::$aprova_pedido C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 50
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined property: stdClass::$rel_consumo C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 51
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined property: stdClass::$rel_pedidos_aprovados C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 52
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined property: stdClass::$rel_comparacao C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 53
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined property: stdClass::$id_grupo_acesso C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 56
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios_filial C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 57
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Undefined variable: parametro C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 59
+ERROR - 2017-09-14 15:35:14 --> Severity: Notice --> Trying to get property of non-object C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 59
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined property: stdClass::$key_fiscal_empresas C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 49
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined property: stdClass::$aprova_pedido C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 50
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined property: stdClass::$rel_consumo C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 51
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined property: stdClass::$rel_pedidos_aprovados C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 52
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined property: stdClass::$rel_comparacao C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 53
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined property: stdClass::$id_grupo_acesso C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 56
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios_filial C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 57
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Undefined variable: parametro C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 59
+ERROR - 2017-09-14 15:35:38 --> Severity: Notice --> Trying to get property of non-object C:\Apache24\htdocs\developement\webpedidos\application\controllers\Autenticacao.php 59
+ERROR - 2017-09-14 15:42:28 --> Query error: ERRO:  coluna "data_publicacao" não existe
+LINE 1: SELECT "messagem" as "mensagem", "data_publicacao", "data_ex...
+                                         ^
+HINT:  Perhaps you meant to reference the column "web_mensagens.dtpublicacao". - Invalid query: SELECT "messagem" as "mensagem", "data_publicacao", "data_expiracao"
+FROM "web_mensagens"
+WHERE "key_fiscal_empresas" = 8
+AND "data_expiracao" >= '2017-09-14'
+ORDER BY "data_publicacao" DESC
+ LIMIT 1
+ERROR - 2017-09-14 15:42:52 --> Query error: ERRO:  relação "sugestoes" não existe
+LINE 2: FROM "sugestoes"
+             ^ - Invalid query: SELECT "codigo", "matricula", "setor", "sugestao", "dtsugestao", "status", "resposta", "dtresposta", "tipo"
+FROM "sugestoes"
+WHERE "status" != ''
+AND "matricula" = '0'
+ORDER BY "codigo" DESC
+ERROR - 2017-09-14 15:57:35 --> Query error: ERRO:  coluna "data_publicacao" não existe
+LINE 1: SELECT "messagem" as "mensagem", "data_publicacao", "data_ex...
+                                         ^
+HINT:  Perhaps you meant to reference the column "web_mensagens.dtpublicacao". - Invalid query: SELECT "messagem" as "mensagem", "data_publicacao", "data_expiracao"
+FROM "web_mensagens"
+WHERE "key_fiscal_empresas" = 8
+AND "data_expiracao" >= '2017-09-14'
+ORDER BY "data_publicacao" DESC
+ LIMIT 1
+ERROR - 2017-09-14 17:53:53 --> Severity: Warning --> Illegal string offset 'validadeSenha' C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:53:53 --> Severity: error --> Exception: DateTime::__construct(): Failed to parse time string (2) at position 0 (2): Unexpected character C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:54:02 --> Severity: Warning --> Illegal string offset 'validadeSenha' C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:54:02 --> Severity: error --> Exception: DateTime::__construct(): Failed to parse time string (2) at position 0 (2): Unexpected character C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:54:14 --> Severity: Warning --> Illegal string offset 'validadeSenha' C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:54:14 --> Severity: error --> Exception: DateTime::__construct(): Failed to parse time string (2) at position 0 (2): Unexpected character C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:54:32 --> Severity: Warning --> Illegal string offset 'validadeSenha' C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:54:32 --> Severity: error --> Exception: DateTime::__construct(): Failed to parse time string (2) at position 0 (2): Unexpected character C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:56:24 --> Severity: Warning --> Illegal string offset 'validadeSenha' C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:56:24 --> Severity: error --> Exception: DateTime::__construct(): Failed to parse time string (2) at position 0 (2): Unexpected character C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:56:44 --> Severity: Warning --> Illegal string offset 'validadeSenha' C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:56:44 --> Severity: error --> Exception: DateTime::__construct(): Failed to parse time string (2) at position 0 (2): Unexpected character C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:56:54 --> Severity: Warning --> Illegal string offset 'validadeSenha' C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 17:56:54 --> Severity: error --> Exception: DateTime::__construct(): Failed to parse time string (2) at position 0 (2): Unexpected character C:\Apache24\htdocs\developement\webpedidos\application\models\usuario\Usuario_model.php 51
+ERROR - 2017-09-14 18:22:16 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:21 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:26 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PRO%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:27 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROT%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:27 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROTE%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:28 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROTET%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:28 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROTETO%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:29 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROTETOR%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:30 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROTETO%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:30 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROTET%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:30 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROTE%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:31 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROT%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:31 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PRO%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:31 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:32 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:38 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:45 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:50 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:52 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:52 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '1111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:52 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '11111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:54 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '1111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:54 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:54 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:55 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:55 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:56 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '1111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:56 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:57 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:57 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:58 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '1111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:58 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '11111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:59 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '1111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:22:59 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '111%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:00 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:00 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:02 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PRO%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:03 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PROT%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:04 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'PRO%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:04 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:06 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'BLU%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:06 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'BLUS%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:07 --> Query error: ERRO:  função fc_web_produtos_permitidos(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE51...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('60.892.403/0015-10', '1RE510')
+WHERE "descricao" LIKE  'BLUSA%'
+ LIMIT 10
+ERROR - 2017-09-14 18:23:29 --> 404 Page Not Found: Assets/js
+ERROR - 2017-09-14 18:23:29 --> 404 Page Not Found: Assets/js
+ERROR - 2017-09-14 18:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:03 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:03 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:03 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:03 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:03 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:03 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:05 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:08 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:08 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:08 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:10 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:10 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:10 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:14 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:14 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:17 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:17 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:18 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:18 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:18 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:18 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:18 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:18 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:19 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:19 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:21 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:21 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:21 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:22 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:25 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:26 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:27 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:28 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:30 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:30 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:30 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:31 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:31 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:32 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:33 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:33 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 18:32:33 --> 404 Page Not Found: Assets/images
+ERROR - 2017-09-14 20:24:01 --> Query error: ERRO:  coluna ps.naoaprovado_motivo não existe
+LINE 1: ... "cc", "s"."nome" AS "setor", "ps"."naoaprovado", "ps"."naoa...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "ps.nooaprovado_motivo". - Invalid query: SELECT "ps"."solicitacaoid" AS "numero", "f"."nome", "ps"."data_emissao", "ps"."entrega_local" AS "entrega", "ps"."entrega_turno" AS "turno", "fs"."nome" AS "solicitante", "ps"."id_centro_custo" AS "cc", "s"."nome" AS "setor", "ps"."naoaprovado", "ps"."naoaprovado_motivo", "ps"."obs", "fa"."nome" AS "aprovador", "ps"."key_clientes", "ps"."key_funcionarios" AS "matricula", "ps"."key_funcionarios_solicitante", "ps"."key_clientes_solicitante", "ps"."id_depto" AS "depto"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo" AND "s"."id_depto" = "ps"."id_depto"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ LIMIT 10

@@ -1,0 +1,124 @@
+ERROR - 2020-02-21 15:42:57 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 15:42:57 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 15:43:11 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 15:43:11 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:50 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:51 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:51 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:51 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:51 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:51 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:44:51 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:45:04 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2020-02-21 15:45:05 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 1589
+ERROR - 2020-02-21 15:45:05 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 1: ...('1','2020-02-21',NULL,'2020-02-21 15:45:05',Array,'LOJA',1,...
+                                                             ^ - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_externo", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2020-02-21',NULL,'2020-02-21 15:45:05',Array,'LOJA',1,'75008280','44.013.159/0031-31','44.013.159/0031-31','44.013.159/0001-16','44.013.159/0001-16','33021887','33100093','33100093',73310,'')
+ERROR - 2020-02-21 15:46:26 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 15:46:26 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:35 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:36 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:36 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:36 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:36 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:46:36 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 15:47:34 --> Query error: ERRO:  coluna "local3ent" da relação "localentrega_externo" não existe
+LINE 1: INSERT INTO "localentrega_externo" ("local3ent", "cep", "num...
+                                            ^ - Invalid query: INSERT INTO "localentrega_externo" ("local3ent", "cep", "numero", "rua", "bairro", "cidade", "estado", "funcionarioid") VALUES ('CEP', '37500019', '144', 'RUA PREFEITO TIGRE MAIA', 'CENTRO', 'ITAJUBÃ¡', 'MG', 'ff49693a-37c5-4313-8f2f-ec2f3c51351c')
+ERROR - 2020-02-21 15:47:34 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 1589
+ERROR - 2020-02-21 15:47:34 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 1: ...('1','2020-02-21',NULL,'2020-02-21 15:47:34',Array,'LOJA',1,...
+                                                             ^ - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_externo", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2020-02-21',NULL,'2020-02-21 15:47:34',Array,'LOJA',1,'75008280','44.013.159/0031-31','44.013.159/0031-31','44.013.159/0001-16','44.013.159/0001-16','33021887','33100093','33100093',73311,'')
+ERROR - 2020-02-21 16:08:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:08:03 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:16 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:08:55 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2020-02-21 16:08:56 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 1589
+ERROR - 2020-02-21 16:08:56 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 1: ...('1','2020-02-21',NULL,'2020-02-21 16:08:56',Array,'LOJA',1,...
+                                                             ^ - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_externo", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2020-02-21',NULL,'2020-02-21 16:08:56',Array,'LOJA',1,'75008280','44.013.159/0031-31','44.013.159/0031-31','44.013.159/0001-16','44.013.159/0001-16','33021887','33100093','33100093',73312,'')
+ERROR - 2020-02-21 16:17:23 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:17:23 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:32 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:33 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:33 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:17:33 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:18:05 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2020-02-21 16:18:05 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 1589
+ERROR - 2020-02-21 16:18:05 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 1: ...('1','2020-02-21',NULL,'2020-02-21 16:18:05',Array,'LOJA',1,...
+                                                             ^ - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_externo", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2020-02-21',NULL,'2020-02-21 16:18:05',Array,'LOJA',1,'75008280','44.013.159/0031-31','44.013.159/0031-31','44.013.159/0001-16','44.013.159/0001-16','33021887','33100093','33100093',73313,'')
+ERROR - 2020-02-21 16:23:45 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:23:45 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:24:45 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:24:45 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:24:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:25:10 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2020-02-21 16:28:07 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:28:07 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:29:40 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:29:40 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:30:01 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:30:04 --> 404 Page Not Found: Assets/images
+ERROR - 2020-02-21 16:30:44 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *

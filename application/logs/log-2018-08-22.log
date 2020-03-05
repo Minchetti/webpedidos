@@ -1,0 +1,148 @@
+ERROR - 2018-08-22 10:56:24 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\sugestoes\Sugestao.php 79
+ERROR - 2018-08-22 10:56:24 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\sugestoes\Sugestao.php 79
+ERROR - 2018-08-22 10:56:35 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\sugestoes\Sugestao.php 79
+ERROR - 2018-08-22 10:56:35 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\sugestoes\Sugestao.php 79
+ERROR - 2018-08-22 10:57:04 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\sugestoes\Sugestao.php 79
+ERROR - 2018-08-22 10:57:04 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\sugestoes\Sugestao.php 79
+ERROR - 2018-08-22 13:35:15 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-22 13:35:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 13:35:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 13:36:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 13:36:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 13:37:04 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-22 13:37:06 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-22 13:37:07 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-22 13:37:07 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'ASDAD%'
+ LIMIT 10
+ERROR - 2018-08-22 13:37:07 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'ASDAD%'
+ LIMIT 10
+ERROR - 2018-08-22 13:53:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 13:53:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 14:10:01 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'ASDADJN%'
+ LIMIT 10
+ERROR - 2018-08-22 14:10:01 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'ASDADJN%'
+ LIMIT 10
+ERROR - 2018-08-22 15:42:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 15:42:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 15:44:48 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 15:44:48 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 15:45:06 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 15:45:06 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 15:45:06 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 15:45:07 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 15:54:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 15:54:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 15:56:30 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', '')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 15:56:46 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'adda')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 15:56:46 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addad')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 15:56:46 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addad')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 15:56:47 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addada')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 15:56:48 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addadas')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 15:56:48 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addadasd')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 15:56:49 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addadasdd')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 16:04:06 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addadasdd')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 16:04:07 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addadasdd')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 16:07:38 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('71.340.830/0004-59', 'addadasdd')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-22 16:17:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 16:17:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 16:19:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 16:19:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 16:19:23 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:19:23 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:19:23 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:19:23 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:19:41 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-22 16:19:41 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-22 16:19:41 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-22 16:19:41 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-22 16:19:41 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-08-22',NULL,'2018-08-22 16:19:41','',1,'75008280','44.013.159/0031-31','44.013.159/0031-31','','','33021887','0','0',47341,'')
+ERROR - 2018-08-22 16:20:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 16:20:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-22 16:20:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:20:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:20:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:20:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-22 16:21:06 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-22 16:21:06 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-22 16:21:06 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-22 16:21:06 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-22 16:21:06 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-08-22',NULL,'2018-08-22 16:21:06','',1,'75008280','44.013.159/0031-31','44.013.159/0031-31','','','33021887','0','0',47342,'')

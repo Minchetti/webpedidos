@@ -1,0 +1,89 @@
+ERROR - 2019-08-30 14:26:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 14:26:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 14:40:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 14:40:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 14:59:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 14:59:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 14:59:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 14:59:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:00:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:00:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:01:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:01:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:01:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:01:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:01:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:01:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:06:23 --> Severity: error --> Exception: syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 162
+ERROR - 2019-08-30 15:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:08:36 --> Severity: error --> Exception: syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 162
+ERROR - 2019-08-30 15:09:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:09:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:09:33 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 162
+ERROR - 2019-08-30 15:14:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:14:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:14:54 --> Severity: Warning --> Use of undefined constant grupo_acesso - assumed 'grupo_acesso' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 153
+ERROR - 2019-08-30 15:14:54 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 208
+ERROR - 2019-08-30 15:16:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:16:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:16:27 --> Severity: Warning --> Use of undefined constant grupo_acesso - assumed 'grupo_acesso' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 153
+ERROR - 2019-08-30 15:16:27 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-08-30 15:19:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:19:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:19:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:19:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:20:10 --> Severity: Warning --> Use of undefined constant grupo_acesso - assumed 'grupo_acesso' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 153
+ERROR - 2019-08-30 15:20:10 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-08-30 15:21:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:21:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:21:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:21:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:21:51 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-08-30 15:22:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:22:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:23:26 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-08-30 15:27:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:27:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:27:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:27:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:27:51 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 225
+ERROR - 2019-08-30 15:29:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:29:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:29:26 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 225
+ERROR - 2019-08-30 15:34:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:34:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:34:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:34:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:34:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:34:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:34:48 --> Severity: Warning --> Use of undefined constant Object - assumed 'Object' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 179
+ERROR - 2019-08-30 15:34:48 --> Severity: error --> Exception: Call to undefined function keys() C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 179
+ERROR - 2019-08-30 15:37:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:37:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:37:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:37:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:37:39 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 228
+ERROR - 2019-08-30 15:38:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:38:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:39:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:39:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:40:16 --> Severity: Notice --> Undefined variable: returning C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 228
+ERROR - 2019-08-30 15:41:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:41:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:43:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:43:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:44:10 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("key_funcionarios", "key_clientes", "...
+                    ^ - Invalid query: INSERT INTO "usuario" ("key_funcionarios", "key_clientes", "nome", "grupo_acesso", "primacesso", "email", "consumo", "pedidos_aprovados", "rel_comparacao", "ativo") VALUES ('33021887', '44.013.159/0031-31', 'abb', '3', 'true', 'minchettimarcello@gmail.com', 'false', 'false', 'true', 'true')
+ERROR - 2019-08-30 15:49:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:49:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 15:50:16 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("key_funcionarios", "key_clientes", "...
+                    ^ - Invalid query: INSERT INTO "usuario" ("key_funcionarios", "key_clientes", "nome", "grupo_acesso", "primacesso", "email", "consumo", "pedidos_aprovados", "rel_comparacao", "ativo") VALUES ('33101316', '44.013.159/0080-10', 'bebel', '2', 'true', 'minchettimarcello@gmail.com', 'false', 'true', 'false', 'true')
+ERROR - 2019-08-30 16:03:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 16:03:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 16:04:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-30 16:04:49 --> 404 Page Not Found: Assets/js

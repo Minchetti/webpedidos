@@ -1,0 +1,220 @@
+ERROR - 2019-09-25 11:36:54 --> Query error: ERRO:  erro de sintaxe em ou próximo a "="
+LINE 1: UPDATE "suge2stoes" SET  = ''
+                                 ^ - Invalid query: UPDATE "suge2stoes" SET  = ''
+ERROR - 2019-09-25 11:37:57 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 11:39:47 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 11:45:31 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 11:46:55 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 11:47:24 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 11:54:50 --> Query error: ERRO:  relação "suge2stoes" não existe
+LINE 1: UPDATE "suge2stoes" SET "xasdfasdasd" = ''
+               ^ - Invalid query: UPDATE "suge2stoes" SET "xasdfasdasd" = ''
+ERROR - 2019-09-25 11:59:04 --> Query error: ERRO:  relação "suge2stoes" não existe
+LINE 1: UPDATE "suge2stoes" SET "resposta" = 'asdadasdasd', "status"...
+               ^ - Invalid query: UPDATE "suge2stoes" SET "resposta" = 'asdadasdasd', "status" = 'Respondido', "dtresposta" = '25/09/2019'
+ERROR - 2019-09-25 11:59:57 --> Query error: ERRO:  relação "suge2stoes" não existe
+LINE 1: UPDATE "suge2stoes" SET "resposta" = 'asdasd', "status" = 'R...
+               ^ - Invalid query: UPDATE "suge2stoes" SET "resposta" = 'asdasd', "status" = 'Respondido', "dtresposta" = '25/09/2019'
+WHERE "usuario" = '6'
+ERROR - 2019-09-25 12:07:02 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 12:08:02 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 12:08:33 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::post() C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 45
+ERROR - 2019-09-25 12:11:21 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 12:11:36 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-25 12:16:38 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "sugestoes_pkey"
+DETAIL:  Chave (codigo)=(13) já existe. - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33017702', 'RC-BR BT OP PM', '2019-09-25', 'Aguardando', 'DASDASDADASD', 2)
+ERROR - 2019-09-25 12:16:56 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "sugestoes_pkey"
+DETAIL:  Chave (codigo)=(14) já existe. - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33017702', 'RC-BR BT OP PM', '2019-09-25', 'Aguardando', 'DASDASDADASD', 2)
+ERROR - 2019-09-25 14:03:58 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:28 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:29 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:29 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:29 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:30 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:30 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:30 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:30 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:31 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:04:34 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 4
+ERROR - 2019-09-25 14:05:16 --> Severity: error --> Exception: syntax error, unexpected 'private' (T_PRIVATE) C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 13
+ERROR - 2019-09-25 14:05:19 --> Severity: error --> Exception: syntax error, unexpected 'private' (T_PRIVATE) C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 13
+ERROR - 2019-09-25 14:05:29 --> Severity: error --> Exception: syntax error, unexpected 'private' (T_PRIVATE) C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 13
+ERROR - 2019-09-25 14:05:56 --> Severity: Notice --> Undefined variable: html C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 11
+ERROR - 2019-09-25 14:05:56 --> Severity: Warning --> DOMDocument::loadHTML(): Empty string supplied as input C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 11
+ERROR - 2019-09-25 14:05:56 --> Severity: error --> Exception: Call to undefined method DOMDocument::getElementsByClassName() C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 12
+ERROR - 2019-09-25 14:05:57 --> Severity: Notice --> Undefined variable: html C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 11
+ERROR - 2019-09-25 14:05:57 --> Severity: Warning --> DOMDocument::loadHTML(): Empty string supplied as input C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 11
+ERROR - 2019-09-25 14:05:57 --> Severity: error --> Exception: Call to undefined method DOMDocument::getElementsByClassName() C:\wamp64\www\webpedidos\application\models\sugestoes\Sugestao_model.php 12
+ERROR - 2019-09-25 14:06:07 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:06:08 --> Severity: error --> Exception: syntax error, unexpected '$doc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 6
+ERROR - 2019-09-25 14:06:45 --> Severity: Notice --> Undefined variable: html C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:06:45 --> Severity: Warning --> DOMDocument::loadHTML(): Empty string supplied as input C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:06:45 --> Severity: error --> Exception: Call to undefined method DOMDocument::getElementsByClassName() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 14
+ERROR - 2019-09-25 14:06:46 --> Severity: Notice --> Undefined variable: html C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:06:46 --> Severity: Warning --> DOMDocument::loadHTML(): Empty string supplied as input C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:06:46 --> Severity: error --> Exception: Call to undefined method DOMDocument::getElementsByClassName() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 14
+ERROR - 2019-09-25 14:07:26 --> Severity: Warning --> DOMDocument::loadHTML() expects at least 1 parameter, 0 given C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:07:26 --> Severity: error --> Exception: Call to undefined method DOMDocument::getElementsByClassName() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 14
+ERROR - 2019-09-25 14:10:26 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:10:58 --> Severity: Warning --> Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:10:58 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:10:59 --> Severity: Warning --> Use of undefined constant document - assumed 'document' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:10:59 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:12:08 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:12:09 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:12:09 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:12:09 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:12:10 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:12:10 --> Severity: error --> Exception: Call to undefined function getElementById() C:\wamp64\www\webpedidos\application\controllers\sugestoes\Sugestao.php 13
+ERROR - 2019-09-25 14:26:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:26:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:28:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:28:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:29:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:29:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:29:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:29:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:38:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:38:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:54:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 14:54:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:29:06 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\wamp64\www\webpedidos\application\views\relatorios\relatorio.php 17
+ERROR - 2019-09-25 15:29:06 --> Severity: Notice --> Undefined index: userlogado C:\wamp64\www\webpedidos\application\views\relatorios\relatorio.php 19
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Scripts/jquery.maskedinput-1.1.4.pack.js
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Scripts/jquery-1.2.6.pack.js
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:29:06 --> 404 Page Not Found: Loginphp/index
+ERROR - 2019-09-25 15:29:38 --> 404 Page Not Found: Loginphp/index
+ERROR - 2019-09-25 15:29:40 --> 404 Page Not Found: Loginphp/index
+ERROR - 2019-09-25 15:29:40 --> 404 Page Not Found: Loginphp/index
+ERROR - 2019-09-25 15:29:41 --> 404 Page Not Found: Loginphp/index
+ERROR - 2019-09-25 15:29:41 --> 404 Page Not Found: Loginphp/index
+ERROR - 2019-09-25 15:29:41 --> 404 Page Not Found: Loginphp/index
+ERROR - 2019-09-25 15:29:42 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\wamp64\www\webpedidos\application\views\relatorios\relatorio.php 17
+ERROR - 2019-09-25 15:29:42 --> 404 Page Not Found: Scripts/jquery.maskedinput-1.1.4.pack.js
+ERROR - 2019-09-25 15:29:43 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:29:43 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:29:43 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:29:44 --> Severity: Notice --> session_start(): A session had already been started - ignoring C:\wamp64\www\webpedidos\application\views\relatorios\relatorio.php 17
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.maskedinput-1.1.4.pack.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery-1.2.6.pack.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.maskedinput-1.1.4.pack.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:29:44 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery-1.2.6.pack.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery.maskedinput-1.1.4.pack.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:29:52 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:31:04 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:31:05 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Css/relatorio.css
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery-ui.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/funcoesRelConsumo.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery.dataTables.js
+ERROR - 2019-09-25 15:31:06 --> 404 Page Not Found: Scripts/jquery.blockUI.js
+ERROR - 2019-09-25 15:40:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:40:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:42:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:42:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:44:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:44:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:45:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:45:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:46:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:46:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:53:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:53:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:54:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:54:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:57:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:57:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:57:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 15:57:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:12:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:12:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:12:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:12:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:28:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:28:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:36:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:36:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:36:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:36:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:36:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:36:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:42:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 16:42:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 21:42:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-25 21:42:39 --> 404 Page Not Found: Assets/js

@@ -1,0 +1,46 @@
+ERROR - 2018-08-27 10:35:53 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 10:35:53 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 10:36:00 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 10:36:00 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 10:36:00 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 10:36:00 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 10:36:00 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-08-27',NULL,'2018-08-27 10:36:00','',3,'75100099','44.013.159/0077-14','44.013.159/0077-14','','','33054028','0','0',47350,'')
+ERROR - 2018-08-27 13:34:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 13:34:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 13:38:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 13:38:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 13:41:58 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 13:41:58 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 13:46:44 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 13:46:44 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 13:46:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 13:46:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 13:47:09 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 13:47:09 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 13:47:09 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 13:47:09 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 13:47:09 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-08-27',NULL,'2018-08-27 13:47:09','',1,'75008280','44.013.159/0031-31','44.013.159/0031-31','','','33021887','0','0',47351,'')
+ERROR - 2018-08-27 14:11:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 14:11:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 14:11:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 14:11:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 14:11:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 14:12:03 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 14:12:03 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 14:12:03 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 14:12:03 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 14:12:03 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-08-27',NULL,'2018-08-27 14:12:03','LOJA',1,'75307015','44.013.159/0001-16','44.013.159/0001-16','','','33040248','0','0',47352,'')
+ERROR - 2018-08-27 14:22:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 14:22:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 14:31:59 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 14:31:59 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-27 14:36:46 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-27 14:36:56 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 14:36:56 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-27 14:36:57 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 14:36:57 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 113
+ERROR - 2018-08-27 14:36:57 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-08-27',NULL,'2018-08-27 14:36:56','',1,'80500043','01.449.930/0001-90','01.449.930/0001-90','','','33090292','0','0',47353,'')

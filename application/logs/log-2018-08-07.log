@@ -1,0 +1,692 @@
+ERROR - 2018-08-07 10:46:29 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDA%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:37 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:39 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:40 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:46:41 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'ASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:48:40 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 10:49:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 10:49:26 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDA%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:26 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDAS%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:26 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:26 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDASDF%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:27 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDASDFW%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDASDF%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:34 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDAS%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:35 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'SDA%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:35 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:35 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:36 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:36 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:36 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:38 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASV%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:43 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:49:46 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASC%'
+ LIMIT 10
+ERROR - 2018-08-07 10:51:52 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASCGD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:51:53 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASCGDFG%'
+ LIMIT 10
+ERROR - 2018-08-07 10:51:53 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASCGDFG%'
+ LIMIT 10
+ERROR - 2018-08-07 10:51:54 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASCGDFG%'
+ LIMIT 10
+ERROR - 2018-08-07 10:51:55 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'ASCGDFG%'
+ LIMIT 10
+ERROR - 2018-08-07 10:52:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 10:52:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 10:53:32 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:37 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:38 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:39 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'ASDD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:42 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'ASD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:46 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'A%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:48 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'A%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:49 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFS%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:50 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDF%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:50 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDF%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:50 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDFS%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:50 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDFSDF%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:50 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDFSDF%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:51 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDFSDF%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:52 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDFSD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:53 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDFSD%'
+ LIMIT 10
+ERROR - 2018-08-07 10:53:54 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00023')
+WHERE "descricao" LIKE  'AFSDFSD%'
+ LIMIT 10
+ERROR - 2018-08-07 11:12:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:12:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:15:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:15:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:15:49 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:16:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:16:49 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '222%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:50 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '2222%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:51 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '22222%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:55 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '2222%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:56 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '222%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:57 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:58 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 11:16:58 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0012-42', 'HEA00063')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 11:17:09 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 11:18:10 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'HHH%'
+ LIMIT 10
+ERROR - 2018-08-07 11:18:12 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'HHHJ%'
+ LIMIT 10
+ERROR - 2018-08-07 11:18:13 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'HHHJH%'
+ LIMIT 10
+ERROR - 2018-08-07 11:18:13 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'HHHJ%'
+ LIMIT 10
+ERROR - 2018-08-07 11:18:14 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'HHH%'
+ LIMIT 10
+ERROR - 2018-08-07 11:18:16 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 11:24:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:24:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 11:25:03 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 11:25:11 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'SDS%'
+ LIMIT 10
+ERROR - 2018-08-07 11:25:13 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'SDSA%'
+ LIMIT 10
+ERROR - 2018-08-07 11:25:14 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'SDSAS%'
+ LIMIT 10
+ERROR - 2018-08-07 12:21:02 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  'SDSAS%'
+ LIMIT 10
+ERROR - 2018-08-07 15:52:01 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 15:52:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 15:52:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 15:52:12 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'SDA%'
+ LIMIT 10
+ERROR - 2018-08-07 15:52:13 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'SDAS%'
+ LIMIT 10
+ERROR - 2018-08-07 15:52:13 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'SDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:52:13 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  'SDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 15:53:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 15:53:21 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:27 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:27 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:27 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDA%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:27 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:27 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:28 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDASD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:28 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDASDD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:28 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDASDDD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:29 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDASDDDD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:29 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  'AASDASDDDDD%'
+ LIMIT 10
+ERROR - 2018-08-07 15:53:31 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'A...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', 'ANH00005')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 16:00:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 16:00:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 16:05:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 16:05:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-07 16:05:26 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', '')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-07 16:05:35 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', '')
+WHERE "descricao" LIKE  'HHH%'
+ LIMIT 10
+ERROR - 2018-08-07 16:05:36 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', '')
+WHERE "descricao" LIKE  'HHHH%'
+ LIMIT 10
+ERROR - 2018-08-07 16:05:36 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', '')
+WHERE "descricao" LIKE  'HHHHH%'
+ LIMIT 10
+ERROR - 2018-08-07 16:05:37 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', '')
+WHERE "descricao" LIKE  'HHHHHH%'
+ LIMIT 10
+ERROR - 2018-08-07 16:05:37 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', '')
+WHERE "descricao" LIKE  'HHHHHHH%'
+ LIMIT 10
+ERROR - 2018-08-07 16:05:38 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0001-16', '')
+WHERE "descricao" LIKE  'HHHHHHHH%'
+ LIMIT 10

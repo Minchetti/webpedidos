@@ -1,0 +1,63 @@
+ERROR - 2019-09-06 15:16:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 15:16:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:21:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:21:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:22:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:22:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:22:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:22:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:23:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:23:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:23:53 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "33021887"
+LINE 1: ...a", "senhavalidade", "email", "ativo") VALUES (2, '33021887'...
+                                                             ^ - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33021887', '33021887', 'ggg', '', 'c4dc23e9707707777adeed3598c0d0d4', '06/09/2020', '3', 'true')
+ERROR - 2019-09-06 16:24:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:24:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:24:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:24:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 16:24:58 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "33021887"
+LINE 1: ...a", "senhavalidade", "email", "ativo") VALUES (2, '33021887'...
+                                                             ^ - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33021887', '33021887', 'ddddddddd', '', 'c4dc23e9707707777adeed3598c0d0d4', '06/09/2020', '3', 'true')
+ERROR - 2019-09-06 17:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:19 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:10:45 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:45 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:45 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:45 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:45 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:45 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:45 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:46 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:46 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:46 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:46 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:46 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:47 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:48 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:10:48 --> Severity: Notice --> Undefined property: stdClass::$id C:\wamp64\www\webpedidos\application\controllers\funcionario\Funcionario.php 39
+ERROR - 2019-09-06 17:13:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:13:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:13:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-06 17:13:04 --> 404 Page Not Found: Assets/js

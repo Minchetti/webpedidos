@@ -1,0 +1,347 @@
+ERROR - 2019-11-14 00:17:32 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 00:17:46 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 00:20:45 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 00:23:02 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 00:24:11 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 00:24:52 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 00:25:36 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 00:59:37 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 01:03:45 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 01:06:50 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 14:39:24 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 2: WHERE "webloginid" = ''
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+WHERE "webloginid" = ''
+ERROR - 2019-11-14 15:27:12 --> Severity: error --> Exception: syntax error, unexpected 'print_r' (T_STRING) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 15:28:09 --> Severity: error --> Exception: syntax error, unexpected 'print_r' (T_STRING) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 15:33:22 --> Severity: error --> Exception: syntax error, unexpected '$novaSenha' (T_VARIABLE) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 312
+ERROR - 2019-11-14 15:33:56 --> Severity: error --> Exception: syntax error, unexpected '$novaSenha' (T_VARIABLE) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 312
+ERROR - 2019-11-14 15:34:42 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 15:34:42 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 454
+ERROR - 2019-11-14 15:34:42 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 454
+ERROR - 2019-11-14 15:34:42 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 15:41:03 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 15:41:03 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 454
+ERROR - 2019-11-14 15:41:03 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 454
+ERROR - 2019-11-14 15:41:03 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 15:44:57 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 454
+ERROR - 2019-11-14 15:44:57 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 454
+ERROR - 2019-11-14 15:44:57 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 15:45:39 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 454
+ERROR - 2019-11-14 15:45:39 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 15:46:11 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 15:46:11 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 15:46:29 --> Query error: ERRO:  coluna "weblog2inid" não existe
+LINE 1: SELECT "weblog2inid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblog2inid"
+FROM "web_login"
+WHERE "usuario" IS NULL
+ERROR - 2019-11-14 15:47:29 --> Query error: ERRO:  coluna "weblog2inid" não existe
+LINE 1: SELECT "weblog2inid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblog2inid"
+FROM "web_login"
+WHERE "usuario" IS NULL
+ERROR - 2019-11-14 15:51:01 --> Query error: ERRO:  coluna "weblog2inid" não existe
+LINE 1: SELECT "weblog2inid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblog2inid"
+FROM "web_login"
+WHERE "usuario" IS NULL
+ERROR - 2019-11-14 15:52:08 --> Query error: ERRO:  coluna "weblog2inid" não existe
+LINE 1: SELECT "weblog2inid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblog2inid"
+FROM "web_login"
+WHERE "usuario" IS NULL
+ERROR - 2019-11-14 15:59:50 --> Query error: ERRO:  coluna "weblog2inid" não existe
+LINE 1: SELECT "weblog2inid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblog2inid"
+FROM "web_login"
+WHERE "usuario" IS NULL
+ERROR - 2019-11-14 16:01:45 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 16:01:45 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 16:13:21 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 16:13:21 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 16:21:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:21:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:21:16 --> Query error: ERRO:  relação "vendas2" não existe
+LINE 2: FROM "vendas2" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-11-14) as Data_Entrega, (cast(nf.emissao as date), 2019-11-14) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas2" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-14 16:22:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:22:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:32:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:32:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:32:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:32:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:33:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:33:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:33:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:33:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:34:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:34:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:34:48 --> Query error: ERRO:  relação "ven2das" não existe
+LINE 2: FROM "ven2das" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-11-14) as Data_Entrega, (cast(nf.emissao as date), 2019-11-14) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "ven2das" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-14 16:35:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:35:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:37:23 --> Query error: ERRO:  relação "ven2das" não existe
+LINE 2: FROM "ven2das" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-11-14) as Data_Entrega, (cast(nf.emissao as date), 2019-11-14) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "ven2das" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-14 16:37:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:37:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:37:48 --> Query error: ERRO:  relação "ven2das" não existe
+LINE 2: FROM "ven2das" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-11-14) as Data_Entrega, (cast(nf.emissao as date), 2019-11-14) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "ven2das" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."data_emissao" >= '01/01/2017'
+AND "v"."data_emissao" <= '14/11/2019'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-14 16:46:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:46:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:47:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:47:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:47:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:47:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:47:23 --> Query error: ERRO:  coluna "dd" não existe
+LINE 1: ..." as "requisicao", (cast(v.data_emissao as date), dd/mm/YYYY...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.id" or the column "fu.id". - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), dd/mm/YYYY) as Data_Entrega, (cast(nf.emissao as date), dd/mm/YYYY) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-14 16:47:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:47:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:48:08 --> Severity: error --> Exception: syntax error, unexpected 'dd' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\Relatorio_model.php 168
+ERROR - 2019-11-14 16:48:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:48:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:49:01 --> Query error: ERRO:  coluna "dd/mm/YYYY" não existe
+LINE 1: ..." as "requisicao", (cast(v.data_emissao as date), "dd/mm/YYY...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), "dd/mm/YYYY") as Data_Entrega, (cast(nf.emissao as date), "dd/mm/YYYY") AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-14 16:49:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:49:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:51:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:51:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-14 16:51:33 --> Query error: ERRO:  relação "venda2s" não existe
+LINE 2: FROM "venda2s" "v"
+             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date)) as Data_Entrega, (cast(nf.emissao as date)) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "venda2s" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+WHERE "v"."id_centro_custo" = '75000318'
+AND "f"."matricula" = '33029639'
+ORDER BY 2
+ LIMIT 1000
+ERROR - 2019-11-14 17:07:41 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 17:07:41 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:07:41 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 17:08:48 --> Severity: Compile Error --> Cannot use [] for reading C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 17:11:15 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 17:11:15 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:11:15 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 17:11:19 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 17:11:19 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:11:19 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 17:11:24 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 306
+ERROR - 2019-11-14 17:11:24 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:11:24 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 17:16:11 --> Severity: error --> Exception: syntax error, unexpected '<' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 305
+ERROR - 2019-11-14 17:20:59 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 309
+ERROR - 2019-11-14 17:20:59 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:20:59 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 17:21:57 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 309
+ERROR - 2019-11-14 17:21:57 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:21:57 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 17:23:48 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 310
+ERROR - 2019-11-14 17:23:48 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:23:48 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-14 17:49:24 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-14 17:49:24 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-14 17:49:25 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'

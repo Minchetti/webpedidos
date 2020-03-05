@@ -1,0 +1,431 @@
+ERROR - 2019-12-18 10:43:47 --> Severity: Warning --> include_once(C:\wamp64\www\webpedidos\application\controllers\recebimento\..\usuario\phpmailer\phpMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 230
+ERROR - 2019-12-18 10:43:47 --> Severity: Warning --> include_once(): Failed opening 'C:\wamp64\www\webpedidos\application\controllers\recebimento\..\usuario\phpmailer\phpMailerAutoload.php' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 230
+ERROR - 2019-12-18 11:00:09 --> Severity: Notice --> Undefined index: nome C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 11:00:09 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:01:52 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:04:49 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:26:54 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 11:26:54 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:27:31 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:33:18 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:33:25 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:34:06 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:34:14 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:44:47 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 16
+ERROR - 2019-12-18 11:44:47 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:51:22 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 11:51:22 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 16
+ERROR - 2019-12-18 11:51:22 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:56:58 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 11:56:58 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 11:56:58 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 11:56:58 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:58:31 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 11:58:31 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 11:58:31 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 11:58:31 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 11:59:18 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 11:59:18 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 11:59:18 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 11:59:18 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 12:00:57 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 12:00:57 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 12:00:57 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 12:00:57 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 12:05:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 12:05:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 12:05:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 12:05:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 12:05:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 12:05:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 12:05:38 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 12:05:38 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 12:05:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 12:06:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 12:06:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 12:06:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 12:06:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 12:06:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 12:06:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 12:06:38 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 12:06:38 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 12:06:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 12:06:52 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 12:06:52 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 12:06:52 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 12:06:52 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 12:06:52 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 12:06:52 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 12:06:52 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 12:06:52 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 12:06:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 12:11:37 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 12:11:37 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 12:11:37 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 12:11:37 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 12:11:37 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 12:11:37 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 12:11:37 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 12:11:37 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 12:11:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:01:07 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:01:07 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:01:07 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:01:07 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:01:07 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:01:07 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:01:07 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 14:01:07 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:01:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 14:05:11 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:05:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:05:11 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 14:05:11 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:05:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:05:20 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:05:20 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:05:20 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:05:20 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:05:20 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:05:20 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:05:20 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 22
+ERROR - 2019-12-18 14:05:20 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:05:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:08:46 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:08:46 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:08:46 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:08:46 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:08:46 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:08:46 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:08:46 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:08:46 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:08:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:09:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:09:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:09:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:09:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:09:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:09:38 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:09:38 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:09:38 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:09:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:09:53 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:09:53 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:09:53 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:09:53 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:09:53 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:09:53 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:09:53 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:09:53 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:09:53 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:13:00 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:13:00 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:13:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:13:35 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:13:35 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:13:35 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:13:35 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:13:35 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:13:35 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:13:35 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:13:35 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:13:35 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:14:47 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:14:47 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:14:47 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:14:47 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:14:47 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:14:47 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:14:47 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:14:47 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:14:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:18:53 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-18 14:19:08 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-18 14:19:50 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:20:43 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:20:43 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:20:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:20:48 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:20:48 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:20:48 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: cod2 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:23:43 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:23:43 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:23:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:26:06 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:26:06 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:26:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:26:40 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:26:40 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:26:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:26:52 --> Severity: Warning --> Illegal string offset 'name' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:26:52 --> Severity: Warning --> Illegal string offset 'text' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:26:52 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:26:52 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:26:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:27:37 --> Severity: Warning --> Illegal string offset 'name' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:27:37 --> Severity: Warning --> Illegal string offset 'text' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 27
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 29
+ERROR - 2019-12-18 14:27:37 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 31
+ERROR - 2019-12-18 14:27:37 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:27:37 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:28:39 --> Severity: Warning --> Illegal string offset 'name' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:28:39 --> Severity: Warning --> Illegal string offset 'text' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 15
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:28:39 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:28:39 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:28:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:28:48 --> Severity: Warning --> Illegal string offset 'name' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 4
+ERROR - 2019-12-18 14:28:48 --> Severity: Warning --> Illegal string offset 'text' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 7
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 8
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 15
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 23
+ERROR - 2019-12-18 14:28:48 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 25
+ERROR - 2019-12-18 14:28:48 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:28:48 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-12-18 14:29:09 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:29:09 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 11
+ERROR - 2019-12-18 14:29:09 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 13
+ERROR - 2019-12-18 14:29:09 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 15
+ERROR - 2019-12-18 14:29:09 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 14:29:09 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:29:09 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:29:15 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:29:15 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 11
+ERROR - 2019-12-18 14:29:15 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 13
+ERROR - 2019-12-18 14:29:15 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 15
+ERROR - 2019-12-18 14:29:15 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 14:29:15 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:29:15 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:29:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:29:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 11
+ERROR - 2019-12-18 14:29:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 13
+ERROR - 2019-12-18 14:29:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 15
+ERROR - 2019-12-18 14:29:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 14:29:45 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:29:45 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:30:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:30:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 11
+ERROR - 2019-12-18 14:30:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 13
+ERROR - 2019-12-18 14:30:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 15
+ERROR - 2019-12-18 14:30:06 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 14:30:06 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:30:06 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:30:13 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 9
+ERROR - 2019-12-18 14:30:13 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 11
+ERROR - 2019-12-18 14:30:13 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 13
+ERROR - 2019-12-18 14:30:13 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 15
+ERROR - 2019-12-18 14:30:13 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-18 14:30:13 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:30:13 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:30:42 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:30:43 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:30:53 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:30:53 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:31:12 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:31:17 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:31:17 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:31:27 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:31:28 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:31:32 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:31:32 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:31:32 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:31:55 --> Severity: Notice --> Undefined index: cod C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 3
+ERROR - 2019-12-18 14:31:55 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:31:55 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:31:56 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:31:57 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:32:01 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:32:01 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:33:47 --> Severity: Notice --> Undefined variable: v1 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:33:47 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:33:47 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:34:01 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-18 14:34:34 --> Severity: Warning --> include_once(C:\wamp64\www\webpedidos\application\controllers\recebimento\..\usuario\phpmailer\phpMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 230
+ERROR - 2019-12-18 14:34:34 --> Severity: Warning --> include_once(): Failed opening 'C:\wamp64\www\webpedidos\application\controllers\recebimento\..\usuario\phpmailer\phpMailerAutoload.php' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 230
+ERROR - 2019-12-18 14:35:28 --> Severity: Notice --> Undefined variable: v1 C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 5
+ERROR - 2019-12-18 14:35:28 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 14:35:28 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 14:45:47 --> Query error: ERRO:  coluna "data_em2issao" não existe
+LINE 1: SELECT "rm", "data_em2issao", "recebido"
+                     ^
+HINT:  Perhaps you meant to reference the column "v.data_emissao". - Invalid query: SELECT "rm", "data_em2issao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159/0001-16'
+ERROR - 2019-12-18 15:30:23 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:30:23 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:30:41 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:30:41 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:30:59 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:31:20 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:31:20 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:31:20 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:32:01 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:32:01 --> Severity: Notice --> Undefined property: stdClass::$data_emissao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 126
+ERROR - 2019-12-18 15:32:51 --> Severity: error --> Exception: syntax error, unexpected ''recebido'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 127
+ERROR - 2019-12-18 15:37:11 --> Severity: error --> Exception: syntax error, unexpected 'var' (T_VAR), expecting end of file C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 40
+ERROR - 2019-12-18 15:37:24 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-18 15:37:24 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 15:37:46 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 15:37:46 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 15:37:49 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 15:37:49 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 15:37:56 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 15:37:56 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 15:38:11 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 15:38:11 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 17:48:30 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 17:48:30 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 17:48:39 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 17:48:39 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 17:48:47 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 17:48:47 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-18 17:49:14 --> Severity: Notice --> Only variables should be passed by reference C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 19
+ERROR - 2019-12-18 17:49:14 --> 404 Page Not Found: recebimento/Recebe/index

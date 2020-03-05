@@ -1,0 +1,293 @@
+ERROR - 2019-07-30 15:25:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:25:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:25:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:25:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:27:28 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-30',NULL,'2019-07-30 15:27:28','LOJA',1,'75050101-MONTAGEM ELE DISJ SEC','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','33090562','110','110',66171,'ASDASDA'), ('1','2019-07-30',NULL,'2019-07-30 15:27:28','LOJA',1,'75050101-MONTAGEM ELE DISJ SEC','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','33090635','110','110',66172,'ASDASDA')
+ERROR - 2019-07-30 15:27:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:27:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:29:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:29:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:29:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:29:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:32:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:32:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:34:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:34:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:35:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:35:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:35:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:35:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:35:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:36:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:36:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:36:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:36:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:36:43 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-30',NULL,'2019-07-30 15:36:42','LOJA',1,'75050101-MONTAGEM ELE DISJ SEC','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','33090562','110','110',66183,'ASDASDA'), ('1','2019-07-30',NULL,'2019-07-30 15:36:42','LOJA',1,'75050101-MONTAGEM ELE DISJ SEC','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','01.449.930/0001-90','33090635','110','110',66184,'ASDASDA')
+ERROR - 2019-07-30 15:37:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:37:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:37:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:37:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:37:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:37:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:37:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:37:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:38:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:38:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:38:16 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-30',NULL,'2019-07-30 15:38:16','LOJA',1,'75050101-MONTAGEM ELE DISJ SEC','54.127.733/0001-10','54.127.733/0001-10','01.449.930/0001-90','01.449.930/0001-90','15931','110','110',66185,'OBS NOVA')
+ERROR - 2019-07-30 15:39:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:39:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:40:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:40:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:40:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:41:05 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-30',NULL,'2019-07-30 15:41:05','LOJA',1,'75050101-MONTAGEM ELE DISJ SEC','01.676.897/0002-11','01.676.897/0002-11','01.449.930/0001-90','01.449.930/0001-90','33300303','110','110',66186,'HAHAHAH')
+ERROR - 2019-07-30 15:41:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:41:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:41:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:41:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:43:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:43:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:43:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:43:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:45:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:45:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:45:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:45:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:45:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:45:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:46:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:46:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:47:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:47:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:47:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:47:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 15:48:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:48:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:51:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 15:51:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:16:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:16:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:16:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:16:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:16:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:16:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:17:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:17:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:18:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:18:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:19:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:19:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:19:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:19:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:19:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:19:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:39:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:39:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:39:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:39:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:48:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:49:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:49:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:49:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:49:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:49:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:49:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:49:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:49:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:49:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:50:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:50:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:50:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:50:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 16:50:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:50:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:54:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:54:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:54:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:54:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:54:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 16:54:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:01:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:01:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:01:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:02:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:02:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:02:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:02:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:02:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:02:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:02:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:03:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:03:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:03:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:03:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:03:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:03:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:04:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:04:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:05:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:05:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:05:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:05:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:05:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:05:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:08:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:08:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:08:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:08:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:08:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:09:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:09:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:10:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:11:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:12:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:12:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:12:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:12:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:20:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:20:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:35:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:35:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:35:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:35:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:35:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:35:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:35:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:35:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:42:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:42:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:58:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:58:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:58:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:58:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 17:59:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:59:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:59:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 17:59:19 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 88
+ERROR - 2019-07-30 17:59:19 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 88
+ERROR - 2019-07-30 17:59:19 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 91
+ERROR - 2019-07-30 17:59:19 --> Severity: Notice --> Trying to get property 'cc' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 91
+ERROR - 2019-07-30 17:59:19 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 92
+ERROR - 2019-07-30 17:59:19 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 92
+ERROR - 2019-07-30 17:59:19 --> Query error: ERRO:  inserção ou atualização em tabela "templates" viola restrição de chave estrangeira "templates_key_clientes_fkey"
+DETAIL:  Chave (key_clientes)=() não está presente na tabela "clientes". - Invalid query: INSERT INTO "templates" ("numero", "key_usuario", "key_clientes", "descricao", "obs", "id_centro_custo", "id_depto") VALUES (47, '174', '', 'GRAND FINALE', 'UAU', NULL, NULL)
+ERROR - 2019-07-30 17:59:19 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php:137) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-07-30 18:01:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:01:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:01:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:01:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:02:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:02:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:02:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:02:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:02:11 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 88
+ERROR - 2019-07-30 18:02:11 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 88
+ERROR - 2019-07-30 18:02:11 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 91
+ERROR - 2019-07-30 18:02:11 --> Severity: Notice --> Trying to get property 'cc' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 91
+ERROR - 2019-07-30 18:02:11 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 92
+ERROR - 2019-07-30 18:02:11 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 92
+ERROR - 2019-07-30 18:02:12 --> Query error: ERRO:  inserção ou atualização em tabela "templates" viola restrição de chave estrangeira "templates_key_clientes_fkey"
+DETAIL:  Chave (key_clientes)=() não está presente na tabela "clientes". - Invalid query: INSERT INTO "templates" ("numero", "key_usuario", "key_clientes", "descricao", "obs", "id_centro_custo", "id_depto") VALUES (48, '174', '', 'GRAND FINALE', 'ASDSA', NULL, NULL)
+ERROR - 2019-07-30 18:02:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:02:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:02:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:02:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:03:01 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 88
+ERROR - 2019-07-30 18:03:01 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 88
+ERROR - 2019-07-30 18:03:01 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 91
+ERROR - 2019-07-30 18:03:01 --> Severity: Notice --> Trying to get property 'cc' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 91
+ERROR - 2019-07-30 18:03:01 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 92
+ERROR - 2019-07-30 18:03:01 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 92
+ERROR - 2019-07-30 18:03:01 --> Query error: ERRO:  inserção ou atualização em tabela "templates" viola restrição de chave estrangeira "templates_key_clientes_fkey"
+DETAIL:  Chave (key_clientes)=() não está presente na tabela "clientes". - Invalid query: INSERT INTO "templates" ("numero", "key_usuario", "key_clientes", "descricao", "obs", "id_centro_custo", "id_depto") VALUES (49, '174', '', 'GRAND FINALE', 'ASDASD', NULL, NULL)
+ERROR - 2019-07-30 18:06:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:06:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:07:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:07:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:07:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:08:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-30 18:08:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-30 18:08:34 --> 404 Page Not Found: Assets/js

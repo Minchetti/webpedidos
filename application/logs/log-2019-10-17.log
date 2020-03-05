@@ -1,0 +1,71 @@
+ERROR - 2019-10-17 12:55:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 12:55:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:20:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:20:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:20:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:20:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:20:23 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "ADMINISTRATIVO"
+LINE 3: WHERE "funcionarioid" = 'ADMINISTRATIVO'
+                                ^ - Invalid query: SELECT "rua" as "local", "numero" as "numero", "cidade" as "cidade", "bairro" as "bairro", "estado" as "estado"
+FROM "localentrega"
+WHERE "funcionarioid" = 'ADMINISTRATIVO'
+ERROR - 2019-10-17 13:21:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:21:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:22:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:22:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:23:03 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "ADMINISTRATIVO"
+LINE 3: WHERE "funcionarioid" = 'ADMINISTRATIVO'
+                                ^ - Invalid query: SELECT "rua" as "local", "numero" as "numero", "cidade" as "cidade", "bairro" as "bairro", "estado" as "estado"
+FROM "localentrega"
+WHERE "funcionarioid" = 'ADMINISTRATIVO'
+ERROR - 2019-10-17 13:26:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:26:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:26:18 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "ADMINISTRATIVO"
+LINE 3: WHERE "funcionarioid" = 'ADMINISTRATIVO'
+                                ^ - Invalid query: SELECT "rua" as "local", "numero" as "numero", "cidade" as "cidade", "bairro" as "bairro", "estado" as "estado"
+FROM "localentrega"
+WHERE "funcionarioid" = 'ADMINISTRATIVO'
+ERROR - 2019-10-17 13:26:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:26:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:27:11 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "ADMINISTRATIVO"
+LINE 3: WHERE "funcionarioid" = 'ADMINISTRATIVO'
+                                ^ - Invalid query: SELECT "rua" as "local", "numero" as "numero", "cidade" as "cidade", "bairro" as "bairro", "estado" as "estado"
+FROM "localentrega"
+WHERE "funcionarioid" = 'ADMINISTRATIVO'
+ERROR - 2019-10-17 13:28:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:28:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:28:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:28:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:28:40 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: "ADMINISTRATIVO"
+LINE 3: WHERE "funcionarioid" = 'ADMINISTRATIVO'
+                                ^ - Invalid query: SELECT "rua" as "local", "numero" as "numero", "cidade" as "cidade", "bairro" as "bairro", "estado" as "estado"
+FROM "localentrega"
+WHERE "funcionarioid" = 'ADMINISTRATIVO'
+ERROR - 2019-10-17 13:29:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:29:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:33:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:33:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:33:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:33:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:34:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:34:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:34:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:34:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:34:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:34:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:35:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:35:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:37:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:37:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:41:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:41:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:42:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:42:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:42:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:42:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:42:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:42:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:44:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:44:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:44:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-17 13:44:57 --> 404 Page Not Found: Assets/js

@@ -1,0 +1,237 @@
+ERROR - 2019-10-08 10:35:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 10:35:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:00:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:00:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:01:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:01:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:01:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:01:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:03:01 --> Query error: ERRO:  relação "local_entrega" não existe
+LINE 2: FROM "local_entrega" "le"
+             ^ - Invalid query: SELECT *
+FROM "local_entrega" "le"
+WHERE "cep" = ''
+AND "funcionarioid" = ''
+ERROR - 2019-10-08 11:03:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:03:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:04:01 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 4: AND "funcionarioid" = ''
+                              ^ - Invalid query: SELECT *
+FROM "localentrega" "le"
+WHERE "cep" = ''
+AND "funcionarioid" = ''
+ERROR - 2019-10-08 11:05:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:05:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:05:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:05:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:06:28 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 4: AND "funcionarioid" = ''
+                              ^ - Invalid query: SELECT *
+FROM "localentrega" "le"
+WHERE "cep" = ''
+AND "funcionarioid" = ''
+ERROR - 2019-10-08 11:07:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:07:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:07:18 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 4: AND "funcionarioid" = ''
+                              ^ - Invalid query: SELECT *
+FROM "localentrega" "le"
+WHERE "cep" = ''
+AND "funcionarioid" = ''
+ERROR - 2019-10-08 11:10:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:10:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:10:32 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 4: AND "funcionarioid" = ''
+                              ^ - Invalid query: SELECT *
+FROM "localentrega" "le"
+WHERE "cep" = ''
+AND "funcionarioid" = ''
+ERROR - 2019-10-08 11:13:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:13:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:13:50 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 4: AND "funcionarioid" = ''
+                              ^ - Invalid query: SELECT *
+FROM "localentrega" "le"
+WHERE "cep" = ''
+AND "funcionarioid" = ''
+ERROR - 2019-10-08 11:15:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:15:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:16:25 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 4: AND "funcionarioid" = ''
+                              ^ - Invalid query: SELECT *
+FROM "localentrega" "le"
+WHERE "cep" = ''
+AND "funcionarioid" = ''
+ERROR - 2019-10-08 11:17:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:17:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:19:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:19:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:19:32 --> 404 Page Not Found: local/Local/cadastrar_entrega
+ERROR - 2019-10-08 11:25:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:25:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:45:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 11:45:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 12:04:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 12:04:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:22:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:22:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:28:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:28:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:36:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:36:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:37:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:37:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:38:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:38:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:39:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:39:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:40:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:40:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:52:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:52:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:52:27 --> Severity: Notice --> Undefined variable: template C:\wamp64\www\webpedidos\application\models\local\Local_model.php 45
+ERROR - 2019-10-08 14:54:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:54:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:54:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:54:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:55:08 --> Query error: ERRO:  coluna "id" da relação "localentrega" não existe
+LINE 1: ...", "numero", "rua", "bairro", "cidade", "estado", "id") VALU...
+                                                             ^ - Invalid query: INSERT INTO "localentrega" ("localent", "cep", "numero", "rua", "bairro", "cidade", "estado", "id") VALUES ('CEP', '37500054', '', '', '', '', '', 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A')
+ERROR - 2019-10-08 14:55:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:55:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:55:48 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-08 14:56:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:56:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:58:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:58:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 14:58:59 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-08 15:00:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:00:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:01:26 --> Query error: ERRO:  relação "locaslentrega" não existe
+LINE 1: INSERT INTO "locaslentrega" ("localent", "cep", "numero", "r...
+                    ^ - Invalid query: INSERT INTO "locaslentrega" ("localent", "cep", "numero", "rua", "bairro", "cidade", "estado", "funcionarioid") VALUES ('CEP', '37500054', '', '', '', '', '', 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A')
+ERROR - 2019-10-08 15:03:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:03:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:03:20 --> Query error: ERRO:  relação "locaslentrega" não existe
+LINE 1: INSERT INTO "locaslentrega" ("localent", "cep", "numero", "r...
+                    ^ - Invalid query: INSERT INTO "locaslentrega" ("localent", "cep", "numero", "rua", "bairro", "cidade", "estado", "funcionarioid") VALUES ('CEP', '37500054', '', '', '', '', '', 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A')
+ERROR - 2019-10-08 15:05:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:05:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:06:03 --> Query error: ERRO:  relação "locaslentrega" não existe
+LINE 1: INSERT INTO "locaslentrega" ("localent", "cep", "numero", "r...
+                    ^ - Invalid query: INSERT INTO "locaslentrega" ("localent", "cep", "numero", "rua", "bairro", "cidade", "estado", "funcionarioid") VALUES ('CEP', '37500054', '54', 'RUA DOUTOR SILVESTRE FERRAZ', 'PINHEIRINHO', 'ITAJUBÃ¡', 'MG', 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A')
+ERROR - 2019-10-08 15:07:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:07:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:07:42 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-08 15:08:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:08:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:29:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:29:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:29:39 --> Query error: ERRO:  coluna "localent" não existe
+LINE 1: SELECT "localent"
+               ^ - Invalid query: SELECT "localent"
+WHERE "funcionarioid" = 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A'
+ERROR - 2019-10-08 15:31:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:31:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:31:55 --> Query error: ERRO:  coluna "rua" não existe
+LINE 1: SELECT "rua"
+               ^ - Invalid query: SELECT "rua"
+WHERE "funcionarioid" = 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A'
+ERROR - 2019-10-08 15:32:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:32:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:32:40 --> Query error: ERRO:  coluna "rua" não existe
+LINE 1: SELECT "rua"
+               ^ - Invalid query: SELECT "rua"
+WHERE "funcionarioid" = 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A'
+ERROR - 2019-10-08 15:32:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:32:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:33:05 --> Query error: ERRO:  coluna "rua" não existe
+LINE 1: SELECT "rua"
+               ^ - Invalid query: SELECT "rua"
+WHERE "funcionarioid" = 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A'
+ERROR - 2019-10-08 15:33:18 --> Query error: ERRO:  coluna "rua" não existe
+LINE 1: SELECT "rua"
+               ^ - Invalid query: SELECT "rua"
+WHERE "funcionarioid" = 'FF56CEFF-1CB3-46FE-A966-5D0804F3D81A'
+ERROR - 2019-10-08 15:34:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:34:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:35:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:35:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:36:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:36:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:37:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:37:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:45:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:45:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:51:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:51:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:54:20 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-08 15:54:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:54:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:57:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:57:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:58:01 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-08 15:59:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:59:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:59:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 15:59:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:00:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:00:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:03:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:03:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:03:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:03:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:04:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:04:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:04:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:04:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:08:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:08:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:08:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:08:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:08:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:08:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:08:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:08:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:23:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:23:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:30:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:30:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 16:32:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 16:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-10-08 17:18:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:18:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:21:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:21:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:24:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:24:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:24:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:24:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:26:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:26:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:27:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:27:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:29:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-08 17:29:04 --> 404 Page Not Found: Assets/js

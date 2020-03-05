@@ -1,0 +1,504 @@
+ERROR - 2019-11-07 11:56:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:56:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:56:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:56:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:57:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:57:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:03:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:03:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:04:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:12:29 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VAL%'
+OR "f"."nome" LIKE  'VAL%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 11:12:30 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALD%'
+OR "f"."nome" LIKE  'VALD%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 11:12:31 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDE%'
+OR "f"."nome" LIKE  'VALDE%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 11:12:32 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 11:12:32 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMIR%'
+OR "f"."nome" LIKE  'VALDEMIR%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 11:12:33 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 11:12:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:12:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 11:12:42 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:55 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VA%'
+OR "f"."nome" LIKE  'VA%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:55 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VA%'
+OR "f"."nome" LIKE  'VA%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:55 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VAL%'
+OR "f"."nome" LIKE  'VAL%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:55 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALD%'
+OR "f"."nome" LIKE  'VALD%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:56 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDE%'
+OR "f"."nome" LIKE  'VALDE%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:56 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:56 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMIR%'
+OR "f"."nome" LIKE  'VALDEMIR%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:00:56 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 12:02:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 12:02:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:16:40 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VA%'
+OR "f"."nome" LIKE  'VA%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:40 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VA%'
+OR "f"."nome" LIKE  'VA%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:40 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VAL%'
+OR "f"."nome" LIKE  'VAL%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:40 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALD%'
+OR "f"."nome" LIKE  'VALD%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:41 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDE%'
+OR "f"."nome" LIKE  'VALDE%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:41 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:41 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:41 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMIR%'
+OR "f"."nome" LIKE  'VALDEMIR%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:16:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:17:00 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMIR%'
+OR "f"."nome" LIKE  'VALDEMIR%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:34:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:34:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:34:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:34:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:34:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:34:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:36:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:36:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:36:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:36:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:36:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:36:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:37:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:37:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:37:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:37:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:37:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:37:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:38:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:38:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:39:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:39:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:39:05 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VA%'
+OR "f"."nome" LIKE  'VA%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:39:06 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VA%'
+OR "f"."nome" LIKE  'VA%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:39:06 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VAL%'
+OR "f"."nome" LIKE  'VAL%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:39:06 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALD%'
+OR "f"."nome" LIKE  'VALD%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:39:06 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDE%'
+OR "f"."nome" LIKE  'VALDE%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:39:06 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:39:06 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMI%'
+OR "f"."nome" LIKE  'VALDEMI%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:39:07 --> Query error: ERRO:  coluna f.id não existe
+LINE 1: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "...
+               ^ - Invalid query: SELECT "f"."id", "f"."email", "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."ativo" = TRUE
+AND   (
+"f"."matricula" LIKE  'VALDEMIR%'
+OR "f"."nome" LIKE  'VALDEMIR%'
+ )
+ORDER BY "f"."nome"
+ LIMIT 10
+ERROR - 2019-11-07 15:43:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:43:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:43:22 --> Query error: ERRO:  tipo de retorno não corresponde com o que foi declarado record na função
+DETAIL:  Último comando retornou integer ao invés de text na coluna 6.
+CONTEXT:  função SQL "fc_web_produtos_permitidos" durante inicialização - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75000318')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-07 15:51:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:51:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:51:21 --> Query error: ERRO:  tipo de retorno não corresponde com o que foi declarado record na função
+DETAIL:  Último comando retornou integer ao invés de text na coluna 6.
+CONTEXT:  função SQL "fc_web_produtos_permitidos_ghe" durante inicialização - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-11-07 15:51:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:51:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:51:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:51:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:52:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:52:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:52:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:52:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-11-07 15:57:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:57:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-11-07 15:57:54 --> Query error: ERRO:  tipo de retorno não corresponde com o que foi declarado record na função
+DETAIL:  Último comando retornou integer ao invés de text na coluna 6.
+CONTEXT:  função SQL "fc_web_produtos_permitidos_ghe" durante inicialização - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10

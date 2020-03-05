@@ -1,0 +1,516 @@
+ERROR - 2019-10-01 09:25:57 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-01 09:25:57 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-01 09:25:57 --> Query error: ERRO:  coluna "d4342cab0a1777e02fa8b8cd6076f02e" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "d4342cab0a1777e02fa8b8cd6076f02e" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "d4342cab0a1777e02fa8b8cd6076f02e" = ''
+WHERE "usuario" IS NULL
+ERROR - 2019-10-01 09:38:03 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-01 09:38:03 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-01 09:38:03 --> Query error: ERRO:  coluna "d4342cab0a1777e02fa8b8cd6076f02e" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "d4342cab0a1777e02fa8b8cd6076f02e" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "d4342cab0a1777e02fa8b8cd6076f02e" = ''
+WHERE "usuario" IS NULL
+ERROR - 2019-10-01 09:40:57 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-01 09:40:57 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-01 09:40:57 --> Query error: ERRO:  coluna "d4342cab0a1777e02fa8b8cd6076f02e" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "d4342cab0a1777e02fa8b8cd6076f02e" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "d4342cab0a1777e02fa8b8cd6076f02e" = ''
+WHERE "usuario" IS NULL
+ERROR - 2019-10-01 09:47:07 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:47:47 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:47:49 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:48:07 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:48:08 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:48:09 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:48:09 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:48:10 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:48:10 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:49:09 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:49:20 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ',' or ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:49:21 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ',' or ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 183
+ERROR - 2019-10-01 09:49:42 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:49:43 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:49:54 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:49:55 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:49:56 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:49:56 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:49:57 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:50:17 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:50:18 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:50:18 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:50:19 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:50:19 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:50:19 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 09:50:19 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 181
+ERROR - 2019-10-01 10:03:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:03:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:17:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:17:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:21:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:21:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:21:53 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 120
+ERROR - 2019-10-01 10:22:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:22:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:22:33 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:22:33 --> Severity: error --> Exception: Call to a member function join() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 118
+ERROR - 2019-10-01 10:24:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:24:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:25:00 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:25:00 --> Severity: error --> Exception: Call to a member function join() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 118
+ERROR - 2019-10-01 10:25:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:25:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:25:39 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:25:39 --> Severity: error --> Exception: Call to a member function join() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 120
+ERROR - 2019-10-01 10:27:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:27:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:27:44 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:27:44 --> Severity: error --> Exception: Call to a member function join() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 125
+ERROR - 2019-10-01 10:28:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:28:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:28:21 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:28:21 --> Severity: error --> Exception: Call to a member function join() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 125
+ERROR - 2019-10-01 10:29:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:29:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:29:42 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:29:42 --> Severity: error --> Exception: Call to a member function join() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 125
+ERROR - 2019-10-01 10:31:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:31:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:31:44 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:31:44 --> Severity: error --> Exception: Call to a member function distinct() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 165
+ERROR - 2019-10-01 10:49:37 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-01 10:49:37 --> Severity: error --> Exception: Call to a member function distinct() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 165
+ERROR - 2019-10-01 10:54:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:54:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:54:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:54:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:54:48 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 10:56:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:56:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 10:56:40 --> Severity: error --> Exception: syntax error, unexpected 'EM' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:07:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:07:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:07:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:07:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:07:40 --> Severity: error --> Exception: syntax error, unexpected '"EM"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:08:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:08:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:09:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:09:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:10:12 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:10:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:10:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:11:31 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:11:31 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 2: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: DELETE FROM "web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-10-01 11:12:04 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:12:04 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 2: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: DELETE FROM "web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-10-01 11:12:29 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:12:29 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 2: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: DELETE FROM "web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-10-01 11:13:25 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:14:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:14:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:16:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:16:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:17:12 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:17:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:17:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:17:53 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:18:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:18:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:18:53 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:19:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:19:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:19:13 --> Severity: Notice --> Undefined variable: novoLogin C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 356
+ERROR - 2019-10-01 11:19:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:19:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:20:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:20:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:21:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:21:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:23:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:23:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:23:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:23:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:37:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:37:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:39:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:39:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:39:07 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:42:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:42:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:42:22 --> Severity: error --> Exception: syntax error, unexpected 'EM' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:42:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:42:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:42:44 --> Severity: error --> Exception: syntax error, unexpected 'EM' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:42:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:42:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:43:04 --> Severity: error --> Exception: syntax error, unexpected 'EM' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:43:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:43:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:43:39 --> Severity: error --> Exception: syntax error, unexpected 'EM' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:43:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:43:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:43:55 --> Severity: error --> Exception: syntax error, unexpected '"EM"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:44:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:44:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:44:21 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:49:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:49:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:50:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:50:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:50:39 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:51:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:51:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:52:41 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:53:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:53:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:53:19 --> Severity: error --> Exception: syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 186
+ERROR - 2019-10-01 11:54:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:54:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:54:11 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:54:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:54:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:54:41 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:55:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:55:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:55:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:55:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:55:33 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:57:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:57:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:57:33 --> Severity: Warning --> A non-numeric value encountered C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:57:33 --> Severity: Warning --> A non-numeric value encountered C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 185
+ERROR - 2019-10-01 11:57:33 --> Query error: ERRO:  erro de sintaxe em ou próximo a "0"
+LINE 11: JOIN "nota_fiscal" "nf" USING (0)
+                                        ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" USING (0)
+ORDER BY 2
+ERROR - 2019-10-01 11:57:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:57:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:58:00 --> Query error: ERRO:  coluna "EM" não existe
+LINE 11: ..."."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+                                                                    ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = "EM"
+ORDER BY 2
+ERROR - 2019-10-01 11:58:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:58:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:58:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:58:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:58:46 --> Query error: ERRO:  função to_char(date, integer) não existe
+LINE 1: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.dat...
+                                                  ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 11:59:18 --> Query error: ERRO:  função to_char(date, integer) não existe
+LINE 1: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.dat...
+                                                  ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", TO_CHAR(cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, TO_CHAR(cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 11:59:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:59:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 11:59:57 --> Query error: ERRO:  coluna "R$ " não existe
+LINE 1: ...e", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || c...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, (cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", cast(vi.valor as numeric (16, 2)) as Vl_Unit, "R$ " || cast((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 12:00:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:00:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:01:11 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2019-10-01 12:02:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:02:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:02:33 --> Severity: Warning --> Unknown: Cannot call session save handler in a recursive manner Unknown 0
+ERROR - 2019-10-01 12:03:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:03:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:04:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:04:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:04:40 --> Query error: ERRO:  erro de sintaxe em ou próximo a "as"
+LINE 1: ...po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, (cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric (16, 2)) as Vl_Unit, (quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 12:05:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:05:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:05:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:05:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 12:05:43 --> Query error: ERRO:  erro de sintaxe em ou próximo a "as"
+LINE 1: ...po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, (cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric (16, 2)) as Vl_Unit, ((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 14:25:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 14:25:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:00:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:00:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:08:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:08:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:09:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:09:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:12:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:12:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:23:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:23:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:23:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:23:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:55:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 15:55:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:00:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:00:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:01:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:01:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:01:49 --> Query error: ERRO:  erro de sintaxe em ou próximo a "as"
+LINE 1: ...po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, (cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric (16, 2)) as Vl_Unit, ((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 16:49:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:49:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:50:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:51:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:51:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:51:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:51:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:52:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:52:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:52:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:52:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:52:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:52:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:55:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:55:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:56:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:56:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:56:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:56:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:57:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:57:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:58:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:58:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:58:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 16:58:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 21:59:18 --> Query error: ERRO:  erro de sintaxe em ou próximo a "as"
+LINE 1: ...po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, (cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric (16, 2)) as Vl_Unit, ((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 21:59:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 21:59:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 21:59:24 --> Query error: ERRO:  erro de sintaxe em ou próximo a "as"
+LINE 1: ...po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", (cast(v.data_emissao as date), 2019-10-01) as Data_Entrega, (cast(nf.emissao as date), 2019-10-01) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor as numeric (16, 2)) as Vl_Unit, ((quantidade*valor) as numeric (16, 2)) as Vl_Tot, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ERROR - 2019-10-01 22:11:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-01 22:11:42 --> 404 Page Not Found: Assets/js

@@ -1,0 +1,33 @@
+ERROR - 2019-12-11 13:58:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 13:58:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 13:58:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 13:58:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 13:58:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 13:58:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 13:58:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 13:58:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 17:32:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-12-11 17:43:41 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-11 17:45:36 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-11 17:46:50 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-11 17:47:01 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'

@@ -1,0 +1,363 @@
+ERROR - 2018-09-26 09:58:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 09:58:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:02:01 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:02:01 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:03:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:03:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:07:04 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:07:04 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:08:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:08:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:08:37 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:08:37 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:10:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:10:16 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:10:21 --> Severity: Notice --> Undefined variable: funcionario C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:10:21 --> Severity: Notice --> Undefined variable: funcionario C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:11:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:11:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:11:38 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:11:38 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:13:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:13:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:13:27 --> Severity: error --> Exception: Call to undefined function print_f() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:13:27 --> Severity: error --> Exception: Call to undefined function print_f() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:13:54 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:13:54 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:30:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:30:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:30:18 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:30:19 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:36:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:36:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:36:14 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:36:14 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:37:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:37:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:37:46 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:37:46 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:37:56 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:37:56 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:40:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:40:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:40:13 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:40:13 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:42:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:42:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:54:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:54:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:54:52 --> Severity: Notice --> Use of undefined constant console - assumed 'console' C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:54:52 --> Severity: Notice --> Undefined variable: funcionario C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:54:53 --> Severity: Notice --> Use of undefined constant console - assumed 'console' C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:54:53 --> Severity: Notice --> Undefined variable: funcionario C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 10:56:19 --> Severity: Notice --> Undefined variable: funcionario C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 10:56:19 --> Severity: Notice --> Undefined variable: funcionario C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 273
+ERROR - 2018-09-26 11:00:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:00:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:00:14 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:00:14 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:00:15 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:00:15 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:04:59 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:04:59 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:05:06 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:05:07 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:05:08 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:05:08 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:06:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:06:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:06:07 --> Query error: ERRO:  faltando entrada para tabela "tf" na cláusula FROM
+LINE 3: JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_func...
+                                                      ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "s"."nome" AS "setor"
+FROM "templates_funcionarios"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = '''69'''
+ORDER BY "f"."nome" ASC
+ERROR - 2018-09-26 11:06:07 --> Query error: ERRO:  faltando entrada para tabela "tf" na cláusula FROM
+LINE 3: JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_func...
+                                                      ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "s"."nome" AS "setor"
+FROM "templates_funcionarios"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = '''69'''
+ORDER BY "f"."nome" ASC
+ERROR - 2018-09-26 11:06:40 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:06:40 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:06:41 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:06:41 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:07:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:07:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:07:13 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:07:13 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:07:13 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:07:13 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:08:02 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:08:02 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:08:02 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:08:02 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:13:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:13:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:13:39 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:13:39 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:13:39 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:13:39 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:14:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:14:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:14:44 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:14:44 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:14:44 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:14:44 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:17:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:17:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:17:12 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 5: WHERE "tf"."key_templates" = 69
+                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "s"."nome" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = 69
+ORDER BY "f"."nome" ASC
+ERROR - 2018-09-26 11:17:13 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 5: WHERE "tf"."key_templates" = 69
+                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "s"."nome" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = 69
+ORDER BY "f"."nome" ASC
+ERROR - 2018-09-26 11:24:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:24:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:25:03 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 5: WHERE "tf"."key_templates" = 69
+                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT *
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = 69
+ORDER BY "f"."nome" ASC
+ERROR - 2018-09-26 11:25:04 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 5: WHERE "tf"."key_templates" = 69
+                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT *
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = 69
+ORDER BY "f"."nome" ASC
+ERROR - 2018-09-26 11:26:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:26:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:26:27 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 5: WHERE "tf"."key_templates" = 69
+                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "s"."nome" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = 69
+ERROR - 2018-09-26 11:26:28 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 5: WHERE "tf"."key_templates" = 69
+                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "s"."nome" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" = 69
+ERROR - 2018-09-26 11:33:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:33:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:33:19 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:33:20 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:33:21 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:33:21 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:34:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:34:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:34:53 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:34:54 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:34:57 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:34:57 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:35:44 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:35:44 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:35:45 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:35:45 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:44:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:44:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:44:44 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:44:44 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:44:44 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 101
+ERROR - 2018-09-26 11:44:44 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 11:46:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:46:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:50:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 11:50:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:13:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:13:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:34:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:34:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:34:19 --> Severity: error --> Exception: syntax error, unexpected '"', expecting ',' or ')' C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 99
+ERROR - 2018-09-26 15:36:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:36:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:36:39 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 15:36:39 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 15:45:48 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:45:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:46:01 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 15:46:01 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 15:49:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:49:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 15:49:52 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 98 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 15:49:52 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 98 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:04:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:04:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:04:54 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:04:54 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:15:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:15:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:15:52 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 98 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:15:52 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 98 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:16:28 --> Query error: ERRO:  erro de sintaxe em ou próximo a "1"
+LINE 3: JOIN "funcionarios" "f" USING (1)
+                                       ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" USING (1)
+JOIN "setor" "s" USING (1)
+WHERE tf.key_templates, "".$template."" 
+ORDER BY "f"."nome",  ASC
+ERROR - 2018-09-26 16:16:29 --> Query error: ERRO:  erro de sintaxe em ou próximo a "1"
+LINE 3: JOIN "funcionarios" "f" USING (1)
+                                       ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" USING (1)
+JOIN "setor" "s" USING (1)
+WHERE tf.key_templates, "".$template."" 
+ORDER BY "f"."nome",  ASC
+ERROR - 2018-09-26 16:18:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:18:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:18:23 --> Severity: error --> Exception: syntax error, unexpected 'AS' (T_AS), expecting ',' or ')' C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 95
+ERROR - 2018-09-26 16:19:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:19:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:19:16 --> Severity: error --> Exception: syntax error, unexpected 'AS' (T_AS), expecting ',' or ')' C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 95
+ERROR - 2018-09-26 16:19:52 --> Severity: error --> Exception: syntax error, unexpected 'tf' (T_STRING), expecting ',' or ')' C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 96
+ERROR - 2018-09-26 16:20:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:20:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:20:54 --> Severity: error --> Exception: syntax error, unexpected ''); //add as aspas pra pegar c' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 100
+ERROR - 2018-09-26 16:27:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:27:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:27:39 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:27:39 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 97 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:31:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:31:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:31:40 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 98 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:31:40 --> Severity: error --> Exception: Too few arguments to function CI_DB_query_builder::join(), 1 passed in C:\laragon\www\webpedidos\application\models\pedido\Template_model.php on line 98 and at least 2 expected C:\laragon\www\system\database\DB_query_builder.php 526
+ERROR - 2018-09-26 16:32:22 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 5: WHERE tf.key_templates, "".$template."" 
+                              ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE tf.key_templates, "".$template."" 
+ORDER BY "f"."nome",  ASC
+ERROR - 2018-09-26 16:32:23 --> Query error: ERRO:  erro de sintaxe em ou próximo a ","
+LINE 5: WHERE tf.key_templates, "".$template."" 
+                              ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE tf.key_templates, "".$template."" 
+ORDER BY "f"."nome",  ASC
+ERROR - 2018-09-26 16:33:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:33:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:33:47 --> Query error: ERRO:  erro de sintaxe em ou próximo a "ASC"
+LINE 6: ORDER BY "f"."nome",  ASC
+                              ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = '69'
+ORDER BY "f"."nome",  ASC
+ERROR - 2018-09-26 16:33:47 --> Query error: ERRO:  erro de sintaxe em ou próximo a "ASC"
+LINE 6: ORDER BY "f"."nome",  ASC
+                              ^ - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = '69'
+ORDER BY "f"."nome",  ASC
+ERROR - 2018-09-26 16:34:11 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 102
+ERROR - 2018-09-26 16:34:11 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 16:34:11 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 102
+ERROR - 2018-09-26 16:34:11 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 16:34:38 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:34:38 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:34:42 --> Severity: Notice --> Use of undefined constant ASC - assumed 'ASC' C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 100
+ERROR - 2018-09-26 16:34:42 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 102
+ERROR - 2018-09-26 16:34:42 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 16:34:42 --> Severity: Notice --> Use of undefined constant ASC - assumed 'ASC' C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 100
+ERROR - 2018-09-26 16:34:42 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 102
+ERROR - 2018-09-26 16:34:42 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2018-09-26 16:35:14 --> Severity: Notice --> Undefined property: stdClass::$nome C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 268
+ERROR - 2018-09-26 16:35:14 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 269
+ERROR - 2018-09-26 16:35:15 --> Severity: Notice --> Undefined property: stdClass::$nome C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 268
+ERROR - 2018-09-26 16:35:15 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 269
+ERROR - 2018-09-26 16:35:52 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:35:52 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-26 16:36:03 --> Severity: Notice --> Undefined property: stdClass::$nome C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 268
+ERROR - 2018-09-26 16:36:03 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 269
+ERROR - 2018-09-26 16:36:04 --> Severity: Notice --> Undefined property: stdClass::$nome C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 268
+ERROR - 2018-09-26 16:36:04 --> Severity: Notice --> Undefined property: stdClass::$key_funcionarios C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 269

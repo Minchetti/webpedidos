@@ -1,0 +1,564 @@
+ERROR - 2020-02-10 14:29:21 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 14:29:21 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 14:29:21 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 14:29:21 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 14:29:21 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 14:29:22 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:10:39 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 15:10:39 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 15:10:40 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:10:40 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:10:40 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:10:40 --> Query error: ERRO:  coluna "key_func3ionarios_solicitante" não existe
+LINE 3: WHERE "key_func3ionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "key_func3ionarios_solicitante" = '33100093'
+AND "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:44:30 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::or() C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 335
+ERROR - 2020-02-10 15:44:30 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::or() C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 335
+ERROR - 2020-02-10 15:44:30 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::or() C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 335
+ERROR - 2020-02-10 15:44:30 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::or() C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 335
+ERROR - 2020-02-10 15:44:30 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::or() C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 335
+ERROR - 2020-02-10 15:44:30 --> Severity: error --> Exception: Call to undefined method CI_DB_pdo_pgsql_driver::or() C:\wamp64\www\webpedidos\application\models\pedido\Requisicao_model.php 335
+ERROR - 2020-02-10 15:49:26 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" = '33100093'
+OR extract (month from data_emissao) = '2'
+OR extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 15:49:26 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" = '33100093'
+OR extract (month from data_emissao) = '1'
+OR extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 15:49:26 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+OR extract (month from data_emissao) = '12'
+OR extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:49:26 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+OR extract (month from data_emissao) = '11'
+OR extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:49:26 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+OR extract (month from data_emissao) = '10'
+OR extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:49:26 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+OR extract (month from data_emissao) = '9'
+OR extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:49:58 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 15:49:59 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 15:49:59 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:49:59 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:49:59 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 15:49:59 --> Query error: ERRO:  coluna "ke2y_funcionarios_solicitante" não existe
+LINE 3: WHERE "ke2y_funcionarios_solicitante" = '33100093'
+              ^
+HINT:  Perhaps you meant to reference the column "pedidos.key_funcionarios_solicitante". - Invalid query: SELECT "numero", "data_emissao"
+FROM "pedidos"
+WHERE "ke2y_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 16:43:19 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:43:19 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:43:19 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:43:19 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:43:19 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:43:19 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:48:58 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:48:58 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:48:58 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:48:58 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:48:58 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:48:58 --> Severity: error --> Exception: Call to undefined function push() C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 618
+ERROR - 2020-02-10 16:51:17 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:51:18 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:51:18 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:51:18 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:51:18 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:51:18 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 610
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 610
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 610
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 610
+ERROR - 2020-02-10 16:52:40 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:52:41 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 610
+ERROR - 2020-02-10 16:52:41 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 16:52:41 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 610
+ERROR - 2020-02-10 16:52:41 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:01:10 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:01:10 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:01:11 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:01:11 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:01:11 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:01:11 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:03:26 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:03:27 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:03:27 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:03:27 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:03:27 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:03:27 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:04:14 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:04:14 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:04:14 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:04:14 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:04:15 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:04:15 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:04:34 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 17:04:34 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 17:04:35 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:04:35 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:04:35 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:04:35 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:05:50 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 17:05:51 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 17:05:52 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:05:54 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:05:56 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:05:58 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:07:26 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 17:07:27 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-10 17:07:28 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:07:29 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:07:30 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:07:31 --> Query error: ERRO:  coluna "numer2o" não existe
+LINE 1: SELECT "numer2o", "data_emissao", "key_funcionarios_solicita...
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "numer2o", "data_emissao", "key_funcionarios_solicitante", "key_funcionarios"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" IS NULL
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+OR "key_funcionarios" IS NULL
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-10 17:09:42 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:09:42 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:09:42 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:09:42 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:09:42 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:09:42 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 652
+ERROR - 2020-02-10 17:10:47 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 650
+ERROR - 2020-02-10 17:10:48 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 650
+ERROR - 2020-02-10 17:10:48 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 650
+ERROR - 2020-02-10 17:10:48 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 650
+ERROR - 2020-02-10 17:10:48 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 650
+ERROR - 2020-02-10 17:10:48 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 650
+ERROR - 2020-02-10 17:12:04 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:12:04 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:12:04 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:12:04 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:12:04 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:12:05 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:12:05 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:12:05 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:12:05 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:12:05 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:12:05 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:12:05 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:22:11 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:22:14 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:22:16 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:22:19 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:22:21 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:22:22 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:22:22 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:22:22 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:22:22 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:22:22 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:22:22 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:22:22 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:31:32 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:31:32 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:31:33 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:31:33 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:31:33 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:31:33 --> Severity: error --> Exception: Call to a member function num_rows() on array C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 625
+ERROR - 2020-02-10 17:31:33 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:31:33 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:31:33 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:31:33 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:31:33 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:31:33 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:32:50 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 627
+ERROR - 2020-02-10 17:32:51 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 627
+ERROR - 2020-02-10 17:32:51 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 627
+ERROR - 2020-02-10 17:32:51 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 627
+ERROR - 2020-02-10 17:32:51 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 627
+ERROR - 2020-02-10 17:32:51 --> Severity: Notice --> Undefined variable: quantidade C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 627
+ERROR - 2020-02-10 17:32:51 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:32:51 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:32:51 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:32:51 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:32:51 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:32:51 --> 404 Page Not Found: pedido/Requisicao/contarRequisicoesR
+ERROR - 2020-02-10 17:38:40 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:38:40 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:38:40 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:38:41 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:38:41 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:38:41 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:49:18 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:49:18 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:49:18 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:49:18 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:49:18 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538
+ERROR - 2020-02-10 17:49:18 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\core\Output.php 538

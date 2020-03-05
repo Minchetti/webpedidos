@@ -1,0 +1,19 @@
+ERROR - 2020-01-28 14:20:40 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:20:40 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:20:45 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:20:45 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:20:53 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:20:53 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:21:18 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:21:18 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:21:21 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:21:21 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:23:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:23:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:51:29 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:51:29 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:51:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 14:51:31 --> 404 Page Not Found: Assets/js
+ERROR - 2020-01-28 17:53:28 --> Severity: error --> Exception: syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\dashboard\Dashboard.php 36
+ERROR - 2020-01-28 17:54:38 --> Severity: error --> Exception: syntax error, unexpected '$dbX' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) C:\wamp64\www\webpedidos\application\controllers\dashboard\Dashboard.php 35
+ERROR - 2020-01-28 17:54:52 --> Severity: Notice --> Undefined variable: filial C:\wamp64\www\webpedidos\application\controllers\dashboard\Dashboard.php 33

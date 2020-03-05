@@ -1,0 +1,420 @@
+ERROR - 2018-10-16 11:38:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 11:38:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 11:38:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:38:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:38:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:38:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:46:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:46:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:46:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:46:26 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:46:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 11:46:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 11:47:39 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:47:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:47:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:47:40 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-16 11:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 11:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 12:13:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 12:13:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 12:18:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 12:18:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 12:21:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 12:21:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:44:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:44:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:45:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:45:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:48:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:48:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:49:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:49:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:49:28 --> Query error: ERRO:  coluna ps.naoaprovado_motivo não existe
+LINE 1: ... "cc", "s"."nome" AS "setor", "ps"."naoaprovado", "ps"."naoa...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "ps.nooaprovado_motivo". - Invalid query: SELECT "ps"."solicitacaoid" AS "numero", "f"."nome", "ps"."data_emissao", "ps"."entrega_local" AS "entrega", "ps"."entrega_turno" AS "turno", "fs"."nome" AS "solicitante", "ps"."id_centro_custo" AS "cc", "s"."nome" AS "setor", "ps"."naoaprovado", "ps"."naoaprovado_motivo", "ps"."obs", "fa"."nome" AS "aprovador", "ps"."key_clientes", "ps"."key_funcionarios" AS "matricula", "ps"."key_funcionarios_solicitante", "ps"."key_clientes_solicitante", "ps"."id_depto" AS "depto"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo" AND "s"."id_depto" = "ps"."id_depto"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2018-10-16 13:53:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:53:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:53:05 --> Query error: ERRO:  coluna ps.naoaprovado_motivo não existe
+LINE 1: ... "cc", "s"."nome" AS "setor", "ps"."naoaprovado", "ps"."naoa...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "ps.nooaprovado_motivo". - Invalid query: SELECT "ps"."solicitacaoid" AS "numero", "f"."nome", "ps"."data_emissao", "ps"."entrega_local" AS "entrega", "ps"."entrega_turno" AS "turno", "fs"."nome" AS "solicitante", "ps"."id_centro_custo" AS "cc", "s"."nome" AS "setor", "ps"."naoaprovado", "ps"."naoaprovado_motivo", "ps"."obs", "fa"."nome" AS "aprovador", "ps"."key_clientes", "ps"."key_funcionarios" AS "matricula", "ps"."key_funcionarios_solicitante", "ps"."key_clientes_solicitante", "ps"."id_depto" AS "depto"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo" AND "s"."id_depto" = "ps"."id_depto"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ LIMIT 10
+ERROR - 2018-10-16 13:54:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:54:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:54:39 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 13:56:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:56:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 13:56:43 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 14:01:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 14:01:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 14:01:36 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 14:02:48 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 14:02:48 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 14:02:49 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 14:26:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 14:26:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 14:26:54 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 14:27:00 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 14:27:09 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '235758'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 14:27:28 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '235758'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 14:27:36 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 15:09:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:09:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:09:43 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 15:11:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:11:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:18:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:18:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:56:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:56:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:57:24 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '235758'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 15:57:38 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 15:57:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:57:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:57:46 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 15:58:28 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '235758'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 15:59:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:59:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 15:59:38 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '235758'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 16:00:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:00:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:11:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:11:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:12:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:12:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:13:05 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:20:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:20:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:20:50 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:21:28 --> Query error: ERRO:  relação "pedido_solicitacao_local" não existe
+LINE 6: JOIN "pedido_solicitacao_local" "psl" ON "fk_solicitacaoid" ...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedido_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:21:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:21:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:21:45 --> Query error: ERRO:  coluna "fk_solicitacaoid" não existe
+LINE 6: JOIN "pedidos_solicitacao" "psl" ON "fk_solicitacaoid" = "ps...
+                                            ^
+HINT:  Perhaps you meant to reference the column "ps.solicitacaoid" or the column "psl.solicitacaoid". - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:21:57 --> Query error: ERRO:  relação "pedido_solicitacao" não existe
+LINE 6: JOIN "pedido_solicitacao" "psl" ON "fk_solicitacaoid" = "ps"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedido_solicitacao" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:28:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:28:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:28:11 --> Query error: ERRO:  relação "pedidos_solicitacao_local" não existe
+LINE 6: JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid"...
+             ^ - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:29:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:29:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:29:43 --> Query error: ERRO:  coluna "fk_solicitacaoid" não existe
+LINE 6: JOIN "pedidos_local" "psl" ON "fk_solicitacaoid" = "ps"."sol...
+                                      ^
+HINT:  Perhaps you meant to reference the column "ps.solicitacaoid". - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:29:46 --> Query error: ERRO:  coluna "fk_solicitacaoid" não existe
+LINE 6: JOIN "pedidos_local" "psl" ON "fk_solicitacaoid" = "ps"."sol...
+                                      ^
+HINT:  Perhaps you meant to reference the column "ps.solicitacaoid". - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_local" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:30:16 --> Query error: ERRO:  coluna "fk_solicitacaoid" não existe
+LINE 6: JOIN "pedidos_solicitacao" "psl" ON "fk_solicitacaoid" = "ps...
+                                            ^
+HINT:  Perhaps you meant to reference the column "ps.solicitacaoid" or the column "psl.solicitacaoid". - Invalid query: SELECT "ps"."solicitacaoid" AS "numero"
+FROM "pedidos_solicitacao" "ps"
+JOIN "funcionarios" "f" ON "f"."matricula" = "ps"."key_funcionarios"
+JOIN "funcionarios" "fs" ON "fs"."matricula" = "ps"."key_funcionarios_solicitante"
+LEFT JOIN "funcionarios" "fa" ON "fa"."matricula" = "ps"."key_funcionarios_aprovador"
+JOIN "pedidos_solicitacao" "psl" ON "fk_solicitacaoid" = "ps"."solicitacaoid"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "ps"."id_centro_custo"
+WHERE "ps"."naoaprovado" = FALSE
+ORDER BY "numero" DESC
+ERROR - 2018-10-16 16:30:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 16:30:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:00:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:00:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:01:01 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 17:01:05 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 17:09:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:09:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:09:12 --> Query error: ERRO:  coluna tm.key_funcionariosVG não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionariosVG"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 17:10:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:10:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:10:40 --> Query error: ERRO:  coluna tm.key_funcionariosVG não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionariosVG"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 17:11:23 --> Query error: ERRO:  coluna tm.key_funcionariosVG não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^
+HINT:  Perhaps you meant to reference the column "tm.key_funcionarios". - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionariosVG"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 17:11:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:11:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:12:50 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:12:50 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:12:54 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 17:13:13 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-10-16 17:20:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:20:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:21:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-16 17:21:08 --> 404 Page Not Found: Assets/js

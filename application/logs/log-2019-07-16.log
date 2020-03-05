@@ -1,0 +1,445 @@
+ERROR - 2019-07-16 10:06:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:06:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:11:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:11:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:11:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:11:43 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(54.127.733/0001-10, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-16',NULL,'2019-07-16 10:11:43','LOJA',1,'75008117','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','15906','0','0',66146,'')
+ERROR - 2019-07-16 10:15:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:15:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:16:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:16:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:16:20 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(54.127.733/0001-10, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-16',NULL,'2019-07-16 10:16:20','LOJA',1,'75008117','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','15906','0','0',66147,'')
+ERROR - 2019-07-16 10:20:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:20:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:20:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:20:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:20:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:20:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:20:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:20:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:20:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:20:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:21:06 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(54.127.733/0001-10, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-16',NULL,'2019-07-16 10:21:06','LOJA',1,'75008117','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','15906','0','0',66148,'')
+ERROR - 2019-07-16 10:25:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:25:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:26:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:26:43 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(54.127.733/0001-10, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-16',NULL,'2019-07-16 10:26:42','LOJA',1,'75008117','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','15906','0','0',66149,'')
+ERROR - 2019-07-16 10:28:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:28:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:28:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:28:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:28:25 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(54.127.733/0001-10, 0) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-16',NULL,'2019-07-16 10:28:25','LOJA',1,'75008117','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','15906','0','0',66150,'')
+ERROR - 2019-07-16 10:39:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:39:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:39:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:39:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:39:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:39:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:39:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:39:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:39:50 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 154
+ERROR - 2019-07-16 10:39:50 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 154
+ERROR - 2019-07-16 10:43:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:21 --> Severity: 4096 --> Object of class CI_Session could not be converted to string C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 10
+ERROR - 2019-07-16 10:43:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:22 --> Severity: 4096 --> Object of class CI_Session could not be converted to string C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 10
+ERROR - 2019-07-16 10:43:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:43:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:44:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:44:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:44:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:44:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:44:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:44:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:48:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:48:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:48:25 --> Unable to connect to the database
+ERROR - 2019-07-16 10:48:25 --> Unable to connect to the database
+ERROR - 2019-07-16 10:48:26 --> Unable to connect to the database
+ERROR - 2019-07-16 10:48:28 --> Unable to connect to the database
+ERROR - 2019-07-16 10:48:30 --> Unable to connect to the database
+ERROR - 2019-07-16 10:48:33 --> Unable to connect to the database
+ERROR - 2019-07-16 10:48:34 --> Unable to connect to the database
+ERROR - 2019-07-16 10:51:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:51:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:51:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:51:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:52:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:52:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:56:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:56:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:56:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:56:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:56:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 10:56:26 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 5: AND "f"."matricula" =0
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "f"."nome", "f"."matricula", "s"."id_centro_custo" as "cc", "s"."nome" as "setor", "f"."cargo", "f"."data_admissao", "f"."key_clientes" as "cliente", "s"."id_centro_custo" AS "cc", "key_ghe"
+FROM "funcionarios" "f"
+JOIN "setor" "s" ON (s.id_depto, s.id_centro_custo) = (f.key_clientes, f.key_setor)
+WHERE f.key_clientes IN (SELECT cnpj FROM clientes WHERE mostra_site=true)
+AND "f"."matricula" =0
+ LIMIT 1
+ERROR - 2019-07-16 10:59:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:59:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:59:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:59:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:59:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 10:59:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:11:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:11:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:13:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:13:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:14:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:15:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:15:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:15:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:15:35 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:15:35 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:16:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:16:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:16:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:16:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:16:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:16:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:16:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:16:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:17:00 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "aprovador_fk"
+DETAIL:  Chave (key_clientes_aprovador, key_funcionarios_aprovador)=(54.127.733/0001-10, 235758) não está presente na tabela "funcionarios". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2019-07-16',NULL,'2019-07-16 11:17:00','LOJA',1,'75008117','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','54.127.733/0001-10','15906','235758','235758',66153,'')
+ERROR - 2019-07-16 11:25:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:25:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:25:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:26:17 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:26:17 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:27:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:27:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:28:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:28:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:28:18 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:28:18 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:28:55 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:28:55 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:30:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:30:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:30:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:30:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:30:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:30:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:31:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:31:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:31:11 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:31:11 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:34:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:34:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:34:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:34:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:34:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:34:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:35:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:35:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:35:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:35:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:35:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:35:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:35:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:35:21 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:35:21 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 11:37:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:37:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:37:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:37:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:37:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:37:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:37:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:37:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:38:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:38:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 11:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 11:38:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:23:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:23:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:29:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:29:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:29:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:29:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:29:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:30:04 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:30:04 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:44:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:44:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:45:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:45:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:45:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:45:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:45:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:45:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:45:52 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:45:52 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:46:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:46:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:46:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:46:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:47:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:47:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:47:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:47:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:47:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:47:24 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:47:24 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:48:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:48:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:48:32 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:48:32 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:48:36 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:48:36 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 158
+ERROR - 2019-07-16 14:49:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:49:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:49:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:49:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:49:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:49:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:49:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:49:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:49:25 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 162
+ERROR - 2019-07-16 14:49:25 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 162
+ERROR - 2019-07-16 14:58:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:58:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:58:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:58:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 14:58:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:58:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:58:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:58:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 14:59:05 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 160
+ERROR - 2019-07-16 14:59:05 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 160
+ERROR - 2019-07-16 15:00:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:00:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:00:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:00:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:00:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:00:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:00:26 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 162
+ERROR - 2019-07-16 15:00:26 --> Severity: Notice --> Trying to get property 'cliente' of non-object C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 162
+ERROR - 2019-07-16 15:01:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:01:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:01:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:01:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:01:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:01:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:01:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:01:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:01:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:01:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:02:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:02:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:02:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:02:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:02:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:02:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:02:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:02:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:02:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:02:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:10:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:10:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:17:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:17:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:17:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:17:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:18:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:18:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:22:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:22:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:23:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:23:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:23:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:23:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:23:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:23:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:23:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:23:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:23:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:23:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:39:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:39:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:40:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:40:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:40:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:40:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:40:28 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("numero", "descricao", "codigo", "k...
+                                                        ^ - Invalid query: INSERT INTO "templates" ("numero", "descricao", "codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (16, 'TESTE', 16, '110', '01.449.930/0001-90', 'TESTE2019', 'TESTE')
+ERROR - 2019-07-16 15:43:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:43:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:43:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:43:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:43:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:43:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:43:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-16 15:43:49 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("numero", "descricao", "codigo", "k...
+                                                        ^ - Invalid query: INSERT INTO "templates" ("numero", "descricao", "codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (17, 'TESTE', 17, '110', '01.449.930/0001-90', 'TESTE2019', 'TESTE')
+ERROR - 2019-07-16 15:43:59 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 15:43:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:43:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:46:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:46:01 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 15:46:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:56:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:56:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:56:23 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 15:56:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:56:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:56:29 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 15:58:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:58:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:58:39 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE 100 IS NULL
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 15:58:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:58:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 15:58:53 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE 100 IS NULL
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 16:10:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:10:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:10:05 --> Query error: ERRO:  coluna "key_funcionarios" não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionari...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 16:10:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:10:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:10:15 --> Query error: ERRO:  coluna "key_funcionarios" não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionari...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 16:13:09 --> Query error: ERRO:  coluna "key_funcionarios" não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionari...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 16:13:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:13:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:13:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:13:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:13:12 --> Query error: ERRO:  coluna "key_funcionarios" não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionari...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 16:13:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:13:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 16:13:41 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 17:28:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 17:28:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 17:28:14 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-16 17:28:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 17:28:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-16 17:28:19 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC

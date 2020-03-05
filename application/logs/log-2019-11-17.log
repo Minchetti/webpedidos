@@ -1,0 +1,64 @@
+ERROR - 2019-11-17 22:58:58 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-17 22:58:59 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-17 22:59:20 --> Query error: server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request. - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-17 23:00:15 --> Unable to connect to the database
+ERROR - 2019-11-17 23:01:46 --> Unable to connect to the database
+ERROR - 2019-11-17 23:16:22 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-17 23:16:22 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-17 23:16:22 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-17 23:16:32 --> Severity: Notice --> Undefined index: txtUsuario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-17 23:16:32 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-17 23:16:32 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-17 23:37:01 --> Severity: error --> Exception: syntax error, unexpected ',', expecting variable (T_VARIABLE) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 300
+ERROR - 2019-11-17 23:47:18 --> Severity: error --> Exception: Too few arguments to function Usuario::atualizar(), 0 passed in C:\wamp64\www\system\core\CodeIgniter.php on line 532 and exactly 2 expected C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 300
+ERROR - 2019-11-17 23:50:40 --> Severity: error --> Exception: Too few arguments to function Usuario::atualizar(), 0 passed in C:\wamp64\www\system\core\CodeIgniter.php on line 532 and exactly 2 expected C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 300
+ERROR - 2019-11-17 23:53:57 --> Severity: Notice --> Undefined variable: login C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 308
+ERROR - 2019-11-17 23:53:57 --> Severity: Notice --> Undefined variable: dados C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 309
+ERROR - 2019-11-17 23:53:57 --> Severity: Notice --> Undefined variable: login C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-17 23:53:57 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-17 23:53:58 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-17 23:56:00 --> Severity: Notice --> Undefined variable: login C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-17 23:56:00 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-17 23:56:00 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-17 23:56:03 --> Severity: Notice --> Undefined variable: login C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-17 23:56:03 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-17 23:56:04 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-17 23:56:17 --> Severity: Notice --> Undefined variable: login C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 311
+ERROR - 2019-11-17 23:56:17 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 455
+ERROR - 2019-11-17 23:56:17 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "null"
+LINE 3: WHERE "webloginid" = 'null'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'null'
+AND "senha" = 'd4342cab0a1777e02fa8b8cd6076f02e'
+ERROR - 2019-11-17 23:58:29 --> Severity: error --> Exception: Too few arguments to function Usuario::atualizar(), 0 passed in C:\wamp64\www\system\core\CodeIgniter.php on line 532 and exactly 2 expected C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 300

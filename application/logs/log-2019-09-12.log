@@ -1,0 +1,775 @@
+ERROR - 2019-09-12 10:55:33 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:55:33 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:55:33 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:55:33 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:55:33 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:55:33 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:55:57 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:55:57 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:55:57 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:55:57 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:55:57 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:55:57 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:56:10 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:56:10 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:56:10 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:56:10 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:56:10 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:56:10 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:57:28 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:57:28 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:57:28 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:57:28 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:57:28 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:57:28 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:57:29 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:57:30 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:57:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 10:57:40 --> Query error: ERRO:  coluna f.id não existe
+LINE 3: WHERE "f"."id" IS NULL
+              ^ - Invalid query: SELECT "f"."nome"
+FROM "funcionarios" "f"
+WHERE "f"."id" IS NULL
+ERROR - 2019-09-12 10:57:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php:410) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-09-12 10:57:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 10:57:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 10:58:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 10:58:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 10:58:36 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 10:58:36 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 10:58:36 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 10:58:36 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 10:58:36 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 10:58:36 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 10:58:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 10:58:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 10:58:46 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 10:58:46 --> Query error: ERRO:  coluna f.id não existe
+LINE 3: WHERE "f"."id" IS NULL
+              ^ - Invalid query: SELECT "f"."nome"
+FROM "funcionarios" "f"
+WHERE "f"."id" IS NULL
+ERROR - 2019-09-12 10:58:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php:410) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-09-12 11:00:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:00:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:00:07 --> Query error: ERRO:  relação "web2_login" não existe
+LINE 2: FROM "web2_login"
+             ^ - Invalid query: SELECT *
+FROM "web2_login"
+WHERE "empresasiteid" = 2
+ERROR - 2019-09-12 11:38:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:38:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:38:40 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 440
+ERROR - 2019-09-12 11:39:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:39:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:40:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:40:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:18 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:42:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:42:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:42:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:42:25 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:25 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:42:26 --> Severity: Warning --> Use of undefined constant query - assumed 'query' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\funcionario\Funcionario_model.php 39
+ERROR - 2019-09-12 11:43:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:43:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:43:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:43:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:45:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:47:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:47:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:47:15 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "'.33017702.'"
+LINE 3: WHERE "f"."matricula" = '''.33017702.'''
+                                ^ - Invalid query: SELECT "f"."nome"
+FROM "funcionarios" "f"
+WHERE "f"."matricula" = '''.33017702.'''
+ERROR - 2019-09-12 11:50:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:50:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:51:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:51:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:51:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:51:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:51:39 --> Query error: ERRO:  coluna f.no2me não existe
+LINE 1: SELECT "f"."no2me"
+               ^
+HINT:  Perhaps you meant to reference the column "f.nome". - Invalid query: SELECT "f"."no2me"
+FROM "funcionarios" "f"
+WHERE "f"."matricula" = '33017702'
+ERROR - 2019-09-12 11:51:40 --> Query error: ERRO:  coluna f.no2me não existe
+LINE 1: SELECT "f"."no2me"
+               ^
+HINT:  Perhaps you meant to reference the column "f.nome". - Invalid query: SELECT "f"."no2me"
+FROM "funcionarios" "f"
+WHERE "f"."matricula" = '33017702'
+ERROR - 2019-09-12 11:52:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:52:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:52:47 --> Query error: ERRO:  coluna f.no2me não existe
+LINE 1: SELECT "f"."no2me"
+               ^
+HINT:  Perhaps you meant to reference the column "f.nome". - Invalid query: SELECT "f"."no2me"
+FROM "funcionarios" "f"
+WHERE "f"."matricula" = '33017702'
+ERROR - 2019-09-12 11:52:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:52:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:53:00 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 11:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:54:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:54:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 11:58:38 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 11:58:38 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 11:58:38 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 11:58:38 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 11:58:38 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 11:58:38 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 12:01:33 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 12:01:33 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 12:01:33 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 12:01:33 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 12:01:33 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 12:01:33 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 12:01:37 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 12:01:37 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 12:01:37 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 12:01:37 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 12:01:37 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 12:01:37 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 12:01:38 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 12:01:38 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 12:01:38 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 12:01:38 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 12:01:38 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 12:01:38 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 12:01:39 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 12:01:39 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 12:01:39 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 12:01:39 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 12:01:39 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 12:01:39 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 12:01:40 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 12:01:40 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 12:01:40 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 12:01:40 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 12:01:40 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 12:01:40 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 12:02:16 --> Severity: Notice --> Undefined property: stdClass::$aprovapedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 87
+ERROR - 2019-09-12 12:02:16 --> Severity: Notice --> Undefined property: stdClass::$relconsumo C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 88
+ERROR - 2019-09-12 12:02:16 --> Severity: Notice --> Undefined property: stdClass::$relpedidosaprovados C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 89
+ERROR - 2019-09-12 12:02:16 --> Severity: Notice --> Undefined property: stdClass::$relcomparacao C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 90
+ERROR - 2019-09-12 12:02:16 --> Severity: Notice --> Undefined property: stdClass::$filiais_servidor_db C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 92
+ERROR - 2019-09-12 12:02:16 --> Severity: Notice --> Undefined property: stdClass::$mostrarvalorpedido C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 101
+ERROR - 2019-09-12 12:04:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:04:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:04:05 --> Severity: Notice --> Undefined property: Usuario::$funcionario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 443
+ERROR - 2019-09-12 12:04:05 --> Severity: error --> Exception: Call to a member function listarNome() on null C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 443
+ERROR - 2019-09-12 12:04:09 --> Severity: Notice --> Undefined property: Usuario::$funcionario C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 443
+ERROR - 2019-09-12 12:04:09 --> Severity: error --> Exception: Call to a member function listarNome() on null C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 443
+ERROR - 2019-09-12 12:04:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:04:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:05:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:05:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:05:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:05:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:07:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:07:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:07:06 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:06 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:07:07 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 446
+ERROR - 2019-09-12 12:10:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:10:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:10:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:10:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:11:01 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:12:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:12:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:13:05 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:05 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:06 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:13:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:15 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:16 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:16 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:13:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:13:43 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:43 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:13:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:13:56 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:56 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:13:57 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:14:12 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:14:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:14:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:36 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:36 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:36 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 445
+ERROR - 2019-09-12 12:14:37 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:37 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:14:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: Warning --> Use of undefined constant nome - assumed 'nome' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:14:53 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 450
+ERROR - 2019-09-12 12:15:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:15:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:15:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:15:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:17:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 12:17:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:35:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:35:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:36:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:36:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:52:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:52:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:52:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:52:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:53:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:53:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:53:49 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 14:53:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:53:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:54:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:54:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:54:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:54:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:57:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:57:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:59:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 14:59:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:00:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:00:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:04:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:04:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:04:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:04:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:10:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:10:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:10:40 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:10:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:10:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:12:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:12:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:12:17 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:12:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:12:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:13:18 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:21:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:21:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:36:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:36:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:37:07 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:40:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:40:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:41:08 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:44:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:44:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:46:51 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:49:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:49:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:50:01 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:53:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:53:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:53:42 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:55:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:55:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:55:52 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:55:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:55:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:56:04 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:56:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:56:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:56:52 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:57:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:57:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:57:43 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 15:59:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:59:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:59:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:59:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:59:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 15:59:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:00:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:00:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:00:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:00:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:00:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:00:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:03:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:03:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:04:24 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:06:35 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:08:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:08:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:08:28 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:12:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:12:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:15:11 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:16:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:16:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:16:37 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:17:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:17:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:17:23 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 85
+ERROR - 2019-09-12 16:17:31 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 85
+ERROR - 2019-09-12 16:17:31 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:24:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:24:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:24:51 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 85
+ERROR - 2019-09-12 16:25:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:25:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:25:23 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:26:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:26:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:26:08 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 85
+ERROR - 2019-09-12 16:26:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:26:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:26:49 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:27:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:27:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:33:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:33:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:34:17 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:36:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:36:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:36:45 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:41:48 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:42:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:42:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:43:14 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:43:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:43:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:44:31 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:44:55 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:45:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:45:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:45:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:45:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:45:24 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 16:52:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:52:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:52:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:52:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:53:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:53:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 16:53:08 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-12 17:41:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 17:41:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-12 17:41:48 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT *
+FROM "vw_web_login"
+WHERE "funcionarioid" = ''

@@ -1,0 +1,114 @@
+ERROR - 2018-08-17 10:51:18 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-17 14:12:16 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0080-10', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0080-10', 'JUN200024')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-17 14:15:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:15:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:16:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:16:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:17:00 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('01.449.930/0001-90', 'H...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.449.930/0001-90', 'HEA00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-17 14:23:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:23:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:23:53 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100035')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-17 14:25:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:25:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:26:04 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 28
+ERROR - 2018-08-17 14:26:04 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 28
+ERROR - 2018-08-17 14:26:04 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 28
+ERROR - 2018-08-17 14:27:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:27:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:27:35 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:35 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:35 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:38 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:38 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:38 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:44 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:44 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:44 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:46 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:46 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:46 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:55 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:55 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:27:55 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:27 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:27 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:27 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:31 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:31 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:31 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:44 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:44 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:44 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:45 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:46 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:46 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:28:46 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:00 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:00 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:00 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:02 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:02 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:02 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:20 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:20 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:20 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:27 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:27 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:29:27 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\Autenticacao.php 20
+ERROR - 2018-08-17 14:32:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:32:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:32:39 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-17 14:42:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:42:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:46:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:46:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:47:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:47:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-17 14:48:28 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10

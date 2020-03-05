@@ -1,0 +1,86 @@
+ERROR - 2019-09-05 11:09:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:09:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:09:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:09:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:10:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:10:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:12:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:12:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:13:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:13:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:14:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:16:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:16:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:17:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:17:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:17:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:17:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:18:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:18:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 11:32:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:32:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:32:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:32:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:32:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:32:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:32:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 11:32:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-09-05 14:32:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:32:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:41:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:41:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:48:38 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(marcela) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33028644', '33028644', '3', 'marcela', '1af272de3d391439cdfad4981c1429b1', '05/09/2020', 'minchettimarcello@gmail.com', 'true')
+ERROR - 2019-09-05 14:48:44 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(marcela) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33028644', '33028644', '3', 'marcela', '1af272de3d391439cdfad4981c1429b1', '05/09/2020', 'minchettimarcello@gmail.com', 'true')
+ERROR - 2019-09-05 14:48:54 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(marcela) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33006340', '33006340', '3', 'marcela', '65d06ff5f687431d44899de9216a558e', '05/09/2020', 'minchettimarcello@gmail.com', 'true')
+ERROR - 2019-09-05 14:49:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:49:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:52:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:52:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:56:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:56:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 14:56:44 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting ')' C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 35
+ERROR - 2019-09-05 15:03:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 15:03:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 15:15:26 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'SEGUST TESTE', 2)
+ERROR - 2019-09-05 15:15:33 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'SEGUST TESTE', 1)
+ERROR - 2019-09-05 15:16:43 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'ASD', 1)
+ERROR - 2019-09-05 15:16:47 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'ASDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD', 1)
+ERROR - 2019-09-05 15:16:54 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'ASDDDD DDD DDDDD DDDDD DDDDDDDDDD DDDDDDDDDD  DDDDD DDD D D', 1)
+ERROR - 2019-09-05 15:17:39 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'ASD', 5)
+ERROR - 2019-09-05 15:21:36 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'FSDFSDF', 6)
+ERROR - 2019-09-05 15:23:01 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'FGDFGDFGDFG', 6)
+ERROR - 2019-09-05 15:23:41 --> Query error: ERRO:  relação "sugestoe2s" não existe
+LINE 1: INSERT INTO "sugestoe2s" ("matricula", "setor", "dtsugestao"...
+                    ^ - Invalid query: INSERT INTO "sugestoe2s" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33101941', '75050104-PROJETO', '2019-09-05', 'Aguardando', 'FFFFFF', 6)
+ERROR - 2019-09-05 15:27:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 15:27:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-05 15:30:26 --> Query error: ERRO:  relação "sugestoe2s" não existe
+LINE 1: INSERT INTO "sugestoe2s" ("matricula", "setor", "dtsugestao"...
+                    ^ - Invalid query: INSERT INTO "sugestoe2s" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33007370', '75100343-ADMINISTRATIVO', '2019-09-05', 'Aguardando', 'OPAAAAAAAAA', 6)
+ERROR - 2019-09-05 15:30:42 --> Query error: ERRO:  valor é muito longo para tipo character varying(15) - Invalid query: INSERT INTO "sugestoes" ("matricula", "setor", "dtsugestao", "status", "sugestao", "tipo") VALUES ('33007370', '75100343-ADMINISTRATIVO', '2019-09-05', 'Aguardando', 'MAOIII', 6)
+ERROR - 2019-09-05 15:34:18 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-09-05 15:34:47 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *

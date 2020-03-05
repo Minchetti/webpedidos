@@ -1,0 +1,319 @@
+ERROR - 2019-09-17 00:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:02:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:02:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:02:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:02:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:04:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:04:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:11:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:11:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:13:16 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:13:16 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:13:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:13:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:16:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:16:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:17:20 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:17:20 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:19:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:19:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:19:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:19:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:19:26 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:19:26 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:21:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:21:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:21:56 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:23:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:23:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:23:21 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:23:21 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:26:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:26:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:26:29 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:26:29 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:31:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:31:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:32:03 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:32:03 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 186
+ERROR - 2019-09-17 00:37:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:37:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:37:34 --> Query error: ERRO:  sintaxe de entrada é inválida para uuid: ""
+LINE 3: WHERE "funcionarioid" = ''
+                                ^ - Invalid query: SELECT "funcionarioid"
+FROM "web_login"
+WHERE "funcionarioid" = ''
+ERROR - 2019-09-17 00:43:15 --> Severity: error --> Exception: syntax error, unexpected ';' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 56
+ERROR - 2019-09-17 00:43:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:43:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:43:49 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 00:43:49 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 00:50:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:50:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:51:02 --> Query error: ERRO:  coluna "funci2onarioid" não existe
+LINE 1: SELECT "funci2onarioid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.funcionarioid". - Invalid query: SELECT "funci2onarioid"
+FROM "web_login"
+WHERE "funcionarioid" = '0b22aecf-d3a5-40c6-873a-18fa01896ba1'
+ERROR - 2019-09-17 00:58:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:58:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 00:58:55 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 00:58:55 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 01:01:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:01:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:02:11 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 01:02:11 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 01:02:11 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(asdasd) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '633041bd-b6af-4bfb-8bf3-99a9302c7b64', '33101982', '3', 'asdasd', '5cab86bb80f1a3edbf212750c88dad6c', '17/09/2020', 'bianca.da_silva@siemens.com', 'true')
+ERROR - 2019-09-17 01:02:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:02:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:02:48 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 01:02:48 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 185
+ERROR - 2019-09-17 01:06:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:06:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:13:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:13:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 01:13:50 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: ""
+LINE 1: ...S (2, 'b872cade-cd96-432d-ade0-5fedbebe4845', '', '', '', 'd...
+                                                             ^ - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, 'b872cade-cd96-432d-ade0-5fedbebe4845', '', '', '', 'd41d8cd98f00b204e9800998ecf8427e', '17/09/2020', '', 'true')
+ERROR - 2019-09-17 09:16:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:16:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:17:28 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(asd) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '53376945-d7cd-42c1-b903-7a5655b2a4b2', '33101145', '3', 'asd', 'ae2d1044426b98ae9117a5bf41072578', '17/09/2020', 'pedro.massini@siemens.com', 'true')
+ERROR - 2019-09-17 09:22:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:22:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:22:28 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '3b1874e6-a109-4beb-8352-6fd74210f13e', '33301257', '3', 'FITASSUL1', '1e0a57e945afb1b5deb71884f941a303', '17/09/2020', 'genario.silva@siemens.com', 'true')
+ERROR - 2019-09-17 09:26:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:26:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:26:28 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '8a350a2b-547d-4ff0-816f-81e3cfc939ae', '33039881', '3', 'FITASSUL1', '7c79611662172df4bcc70dfe84279c41', '17/09/2020', 'leandro.favoretto@siemens.com', 'true')
+ERROR - 2019-09-17 09:30:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:30:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:30:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:30:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 09:30:52 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, 'cad35047-a853-485e-90f3-d4ccae8c8d55', '33043441', '3', 'FITASSUL1', 'c94641078ac4150209a25d490a5012d5', '17/09/2020', 'gustavo.bergter@siemens.com', 'true')
+ERROR - 2019-09-17 10:09:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:09:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:11:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:11:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:11:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:11:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:12:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:12:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:13:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:13:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:13:39 --> Severity: error --> Exception: syntax error, unexpected ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 192
+ERROR - 2019-09-17 10:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:15:05 --> Severity: error --> Exception: syntax error, unexpected ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 192
+ERROR - 2019-09-17 10:24:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:24:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:24:49 --> Severity: error --> Exception: syntax error, unexpected ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 192
+ERROR - 2019-09-17 10:25:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:25:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:25:17 --> Severity: error --> Exception: syntax error, unexpected ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 192
+ERROR - 2019-09-17 10:26:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:26:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:26:58 --> Severity: error --> Exception: syntax error, unexpected ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 192
+ERROR - 2019-09-17 10:27:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:27:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:27:29 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '8cd60f39-c473-4697-9f4f-db2e64e56732', '33101171', '3', 'FITASSUL1', '33b4130f880d4c667f3667cd7b7d2809', '17/09/2020', 'dandara.pereira@siemens.com', 'true')
+ERROR - 2019-09-17 10:29:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:29:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:33:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:33:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:34:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:34:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:34:44 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(asdasd) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '88c18c1c-3c61-48e8-b912-a686ab316e83', '33300174', '3', 'asdasd', '9b8fc0a471987ff3d084184a988991a1', '17/09/2020', 'joao.brito@siemens.com', 'true')
+ERROR - 2019-09-17 10:41:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:41:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:41:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:41:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:42:14 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '03d48868-c6a7-44c8-80bc-3c4129bb0d1e', '33101704', '3', 'FITASSUL1', '4c02f2c10f88de51fc2bc0ae2a8ec5ed', '17/09/2020', 'gustavo.intrieri@siemens.com', 'true')
+ERROR - 2019-09-17 10:44:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:44:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:45:23 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '60efeeeb-d12a-4b76-b869-22fbf20613fd', '33300447', '3', 'FITASSUL1', '0fa3a454571fb945fb82fee8717970b7', '17/09/2020', 'geane.dias@siemens.com', 'true')
+ERROR - 2019-09-17 10:46:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:46:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:48:42 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, 'e18baf04-268d-4080-a9dc-812acf23f335', '33049299', '3', 'FITASSUL1', '43b87692e5f11bbf710575d4c1785661', '17/09/2020', 'kelvin.palhari@siemens.com', 'true')
+ERROR - 2019-09-17 10:49:19 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(Fitassul1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, 'bb5d5bba-2345-472b-b255-cb71f7ea5c99', '33049150', '3', 'Fitassul1', 'a95812d63ce6be41a674152b528d34f8', '17/09/2020', 'sidney.santana@siemens.com', 'true')
+ERROR - 2019-09-17 10:53:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:53:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:55:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:55:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:58:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 10:58:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:15:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:15:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:15:48 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '7339be89-66d2-4661-9778-b0cc30c02b56', '33053713', '3', 'FITASSUL1', '20e0f98d186cdd5491768577aa5ba103', '17/09/2020', 'dalila.galindo@siemens-healthineers.com', 'true')
+ERROR - 2019-09-17 11:16:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:16:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:17:00 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '32f6ccdf-5d2a-4067-840c-bbe5a63611e7', '33100101', '3', 'FITASSUL1', '531c93c28e127a73001504a3986f1e3c', '17/09/2020', 'fabiana.ruiz@siemens.com', 'true')
+ERROR - 2019-09-17 11:28:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:28:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:29:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 11:29:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 14:53:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 14:53:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 14:53:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 14:53:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 14:54:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 14:54:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 14:55:11 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_usuario_key"
+DETAIL:  Chave (usuario)=(FITASSUL1) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '0ccde92c-d75a-4280-bbe0-2abc96c944d4', '33024568', '3', 'FITASSUL1', 'c61cb8b32f4a1a6d9b6c650da99057a6', '17/09/2020', 'diego.cadete@siemens.com', 'true')
+ERROR - 2019-09-17 15:05:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:05:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:06:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:06:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:06:43 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_funcionarioid_ukey"
+DETAIL:  Chave (funcionarioid)=(26cef797-0482-4c48-9cd8-a887f575642d) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '26cef797-0482-4c48-9cd8-a887f575642d', '33090689', '3', 'OIUAHSDIUHASID', '6a4a2c36711b9ba66e2bb61c473657f0', '17/09/2020', 'beatriz.arantes@siemens-healthineers.com', 'true')
+ERROR - 2019-09-17 15:07:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:07:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:08:10 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_funcionarioid_ukey"
+DETAIL:  Chave (funcionarioid)=(26cef797-0482-4c48-9cd8-a887f575642d) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '26cef797-0482-4c48-9cd8-a887f575642d', '33090689', '3', 'qqqweeBeas', '6a4a2c36711b9ba66e2bb61c473657f0', '17/09/2020', 'beatriz.arantes@siemens-healthineers.com', 'true')
+ERROR - 2019-09-17 15:11:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:11:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:11:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:11:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:11:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:11:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:12:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:12:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:12:43 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_funcionarioid_ukey"
+DETAIL:  Chave (funcionarioid)=(26cef797-0482-4c48-9cd8-a887f575642d) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '26cef797-0482-4c48-9cd8-a887f575642d', '33090689', '3', 'dasdasdasdas', '6a4a2c36711b9ba66e2bb61c473657f0', '17/09/2020', 'beatriz.arantes@siemens-healthineers.com', 'true')
+ERROR - 2019-09-17 15:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:14:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:14:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:15:10 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_login_funcionarioid_ukey"
+DETAIL:  Chave (funcionarioid)=(26cef797-0482-4c48-9cd8-a887f575642d) já existe. - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionarioid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '26cef797-0482-4c48-9cd8-a887f575642d', '33090689', '3', 'beatttz', '6a4a2c36711b9ba66e2bb61c473657f0', '17/09/2020', 'beatriz.arantes@siemens-healthineers.com', 'true')
+ERROR - 2019-09-17 15:20:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:20:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:20:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:20:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:26:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:26:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:27:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:27:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:27:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:27:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:28:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:28:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:29:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:29:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:32:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:32:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:34:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:34:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:35:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:35:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 203
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 203
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-09-17 15:36:08 --> Severity: Notice --> Trying to get property 'usuario' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-09-17 15:38:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:38:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 144
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 203
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 203
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-09-17 15:38:35 --> Severity: Notice --> Trying to get property 'usuario' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 210
+ERROR - 2019-09-17 15:45:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:45:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:46:17 --> Severity: error --> Exception: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 225
+ERROR - 2019-09-17 15:47:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:47:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:48:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:48:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:50:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:50:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:51:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:51:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:54:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:54:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:57:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:57:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:57:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:57:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 15:58:19 --> Severity: Notice --> Undefined offset: 1 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 175
+ERROR - 2019-09-17 15:58:19 --> Severity: Notice --> Trying to get property 'funcionarioid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 175
+ERROR - 2019-09-17 16:12:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:12:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:13:09 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 175
+ERROR - 2019-09-17 16:25:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:25:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:25:30 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 192
+ERROR - 2019-09-17 16:26:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:26:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:26:36 --> Severity: error --> Exception: syntax error, unexpected 'endforeach' (T_ENDFOREACH) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 180
+ERROR - 2019-09-17 16:26:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:26:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:26:56 --> Severity: 4096 --> Object of class stdClass could not be converted to string C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 176
+ERROR - 2019-09-17 16:27:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:27:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:30:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:30:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:30:54 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 183
+ERROR - 2019-09-17 16:31:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:31:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 16:53:20 --> Query error: ERRO:  coluna "id" não existe
+LINE 2: WHERE "id" = ''
+              ^ - Invalid query: UPDATE "web_login" SET "grupoacessoid" = '2'
+WHERE "id" = ''
+ERROR - 2019-09-17 16:53:46 --> Query error: ERRO:  coluna "id" não existe
+LINE 2: WHERE "id" = ''
+              ^ - Invalid query: UPDATE "web_login" SET "grupoacessoid" = '2'
+WHERE "id" = ''
+ERROR - 2019-09-17 16:54:56 --> Query error: ERRO:  coluna "id" não existe
+LINE 2: WHERE "id" = '562739f3-c566-4ae2-bf11-a46b4e49745a'
+              ^ - Invalid query: UPDATE "web_login" SET "grupoacessoid" = '2'
+WHERE "id" = '562739f3-c566-4ae2-bf11-a46b4e49745a'
+ERROR - 2019-09-17 17:01:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 17:01:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 17:01:57 --> Query error: ERRO:  coluna "id" não existe
+LINE 2: WHERE "id" = 'ff56ceff-1cb3-46fe-a966-5d0804f3d81a'
+              ^ - Invalid query: UPDATE "web_login" SET "grupoacessoid" = '1'
+WHERE "id" = 'ff56ceff-1cb3-46fe-a966-5d0804f3d81a'
+ERROR - 2019-09-17 17:02:16 --> Query error: ERRO:  coluna "id" não existe
+LINE 2: WHERE "id" = 'ff56ceff-1cb3-46fe-a966-5d0804f3d81a'
+              ^ - Invalid query: UPDATE "web_login" SET "grupoacessoid" = '1', "novoRel_aprovacao" = 'false', "novoRel_comparacao" = 'false', "novoRel_consumo" = 'false'
+WHERE "id" = 'ff56ceff-1cb3-46fe-a966-5d0804f3d81a'
+ERROR - 2019-09-17 17:03:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 17:03:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 17:03:58 --> Query error: ERRO:  coluna "novoRel_aprovacao" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "grupoacessoid" = '2', "novoRel_aprov...
+                                                      ^ - Invalid query: UPDATE "web_login" SET "grupoacessoid" = '2', "novoRel_aprovacao" = 'false', "novoRel_consumo" = 'false'
+WHERE "funcionarioid" = 'ff56ceff-1cb3-46fe-a966-5d0804f3d81a'
+ERROR - 2019-09-17 21:26:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:26:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:35:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:35:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:50:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:50:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:51:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:51:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:59:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 21:59:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 22:06:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 22:06:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 22:08:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-17 22:08:36 --> 404 Page Not Found: Assets/js

@@ -1,0 +1,1 @@
+ERROR - 2020-01-17 16:41:18 --> Severity: error --> Exception: Using $this when not in object context C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 32

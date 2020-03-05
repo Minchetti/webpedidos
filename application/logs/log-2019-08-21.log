@@ -1,0 +1,164 @@
+ERROR - 2019-08-21 14:16:35 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:16:35 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:16:35 --> Severity: error --> Exception: Call to a member function trans_start() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 36
+ERROR - 2019-08-21 14:18:21 --> Severity: Notice --> Undefined property: Notificacao::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:18:21 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:18:22 --> Severity: Notice --> Undefined property: Notificacao::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:18:22 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:19:47 --> Query error: ERRO:  relação "web_mensagens" não existe
+LINE 2: FROM "web_mensagens"
+             ^ - Invalid query: SELECT "mensagem", "dtpublicacao", "dtexpiracao"
+FROM "web_mensagens"
+WHERE "empresasiteid" = 2
+AND "dtexpiracao" <= '2019-08-21'
+ORDER BY "dtpublicacao" DESC
+ LIMIT 1
+ERROR - 2019-08-21 14:26:32 --> Query error: ERRO:  relação "web_mensagens" não existe
+LINE 2: FROM "web_mensagens"
+             ^ - Invalid query: SELECT "mensagem", "dtpublicacao", "dtexpiracao"
+FROM "web_mensagens"
+WHERE "empresasiteid" = 2
+AND "dtexpiracao" <= '2019-08-21'
+ORDER BY "dtpublicacao" DESC
+ LIMIT 1
+ERROR - 2019-08-21 14:26:33 --> Query error: ERRO:  relação "web_mensagens" não existe
+LINE 2: FROM "web_mensagens"
+             ^ - Invalid query: SELECT "mensagem", "dtpublicacao", "dtexpiracao"
+FROM "web_mensagens"
+WHERE "empresasiteid" = 2
+AND "dtexpiracao" <= '2019-08-21'
+ORDER BY "dtpublicacao" DESC
+ LIMIT 1
+ERROR - 2019-08-21 14:28:14 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:28:24 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:28:29 --> Severity: Notice --> Undefined variable: database C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 15
+ERROR - 2019-08-21 14:28:29 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:28:30 --> Severity: Notice --> Undefined variable: database C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 15
+ERROR - 2019-08-21 14:28:30 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:28:46 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:28:46 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:28:48 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:28:48 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:29:31 --> Severity: Notice --> Undefined property: Notificacao::$bd C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:29:31 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 19
+ERROR - 2019-08-21 14:29:57 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:29:57 --> Severity: Notice --> Undefined variable: template C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 37
+ERROR - 2019-08-21 14:30:22 --> Severity: Notice --> Undefined variable: template C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 37
+ERROR - 2019-08-21 14:30:22 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-08-21 14:51:46 --> Severity: Warning --> A non-numeric value encountered C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 33
+ERROR - 2019-08-21 14:51:46 --> Severity: Warning --> A non-numeric value encountered C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 33
+ERROR - 2019-08-21 14:51:46 --> Query error: ERRO:  sintaxe de entrada é inválida para tipo date: "1"
+LINE 1: ..."dtexpiracao", "mensagem") VALUES (2, '21/08/19', '1', 'ASDA...
+                                                             ^ - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '1', 'ASDASDASD')
+ERROR - 2019-08-21 14:53:51 --> Severity: Warning --> A non-numeric value encountered C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 34
+ERROR - 2019-08-21 14:53:51 --> Severity: Warning --> A non-numeric value encountered C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 34
+ERROR - 2019-08-21 14:53:51 --> Query error: ERRO:  sintaxe de entrada é inválida para tipo date: "1"
+LINE 1: ..."dtexpiracao", "mensagem") VALUES (2, '21/08/19', '1', 'ASDA...
+                                                             ^ - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '1', 'ASDASD')
+ERROR - 2019-08-21 14:59:58 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 14:59:58 --> Severity: error --> Exception: Call to a member function trans_status() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 53
+ERROR - 2019-08-21 15:08:04 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '21/08/19', 'ASDASDADDDD')
+ERROR - 2019-08-21 15:11:03 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '31/12/1969', 'ASDASD')
+ERROR - 2019-08-21 15:15:09 --> Severity: Notice --> Undefined variable: dataEx C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 35
+ERROR - 2019-08-21 15:15:09 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '23/08/2019', 'ASDASD')
+ERROR - 2019-08-21 15:15:40 --> Severity: Notice --> Undefined variable: dataEx C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 35
+ERROR - 2019-08-21 15:15:40 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '23/08/2019', 'AAAAAAAAAAAA')
+ERROR - 2019-08-21 15:16:01 --> Severity: Notice --> Undefined variable: dataEx C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 35
+ERROR - 2019-08-21 15:16:01 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '21/10/2019', 'AASSSSSSSSSSSS')
+ERROR - 2019-08-21 15:16:46 --> Severity: Notice --> Undefined variable: dataEx C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 35
+ERROR - 2019-08-21 15:16:46 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '21/09/2019', 'TESTE AVISO')
+ERROR - 2019-08-21 15:17:11 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '31/12/1969', 'DDDDDDDD')
+ERROR - 2019-08-21 15:17:54 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '21/09/2019', 'GFDGDFG')
+ERROR - 2019-08-21 15:18:12 --> Severity: error --> Exception: syntax error, unexpected 'month' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 35
+ERROR - 2019-08-21 15:18:15 --> Severity: error --> Exception: syntax error, unexpected 'month' (T_STRING), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 35
+ERROR - 2019-08-21 15:18:28 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '21/09/2019', 'AAAASDSDDCCVBB')
+ERROR - 2019-08-21 15:18:46 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '21/09/2019', 'AVISOSSSSS')
+ERROR - 2019-08-21 15:19:17 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "web_mensagens_unique"
+DETAIL:  Chave (empresasiteid, dtpublicacao)=(2, 2019-08-21) já existe. - Invalid query: INSERT INTO "web_mensagens" ("empresasiteid", "dtpublicacao", "dtexpiracao", "mensagem") VALUES (2, '21/08/19', '21/09/2019', 'AVISOSSSSSFFF')
+ERROR - 2019-08-21 15:29:50 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 15:29:50 --> Severity: error --> Exception: Call to a member function trans_status() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 54
+ERROR - 2019-08-21 15:31:52 --> Severity: Notice --> Undefined property: Notificacao::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-21 15:31:52 --> Severity: error --> Exception: Call to a member function trans_status() on null C:\wamp64\www\webpedidos\application\models\notificacao\Notificacao_model.php 54
+ERROR - 2019-08-21 15:32:47 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 53
+ERROR - 2019-08-21 15:32:47 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 53
+ERROR - 2019-08-21 15:32:47 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 54
+ERROR - 2019-08-21 15:32:47 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 54
+ERROR - 2019-08-21 15:32:47 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:32:47 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:37:24 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 53
+ERROR - 2019-08-21 15:37:24 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 53
+ERROR - 2019-08-21 15:37:24 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 54
+ERROR - 2019-08-21 15:37:24 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 54
+ERROR - 2019-08-21 15:37:24 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:37:24 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:38:40 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 50
+ERROR - 2019-08-21 15:38:40 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:38:40 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:38:40 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:38:40 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:38:40 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:38:40 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:39:21 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 50
+ERROR - 2019-08-21 15:39:21 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:39:21 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:39:21 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:39:21 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:39:21 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:39:21 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:40:18 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:40:18 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:40:18 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:40:18 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:40:18 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:40:18 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:45:16 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:45:16 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:45:16 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:45:16 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:45:16 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:45:16 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:45:58 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:45:58 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:45:58 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:45:58 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:45:58 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:45:58 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:51:26 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:51:26 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:51:26 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:51:26 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:51:26 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:51:26 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:52:19 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:52:19 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 55
+ERROR - 2019-08-21 15:52:19 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:52:19 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 56
+ERROR - 2019-08-21 15:52:19 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 15:52:19 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 57
+ERROR - 2019-08-21 16:10:59 --> Query error: ERRO:  coluna "mensagem2" não existe
+LINE 1: SELECT "mensagem2", "dtpublicacao", "dtexpiracao"
+               ^
+HINT:  Perhaps you meant to reference the column "web_mensagens.mensagem". - Invalid query: SELECT "mensagem2", "dtpublicacao", "dtexpiracao"
+FROM "web_mensagens"
+WHERE "empresasiteid" = 2
+AND "dtexpiracao" <= '2019-08-21'
+ORDER BY "dtpublicacao" DESC
+ LIMIT 5
+ERROR - 2019-08-21 16:40:39 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 32
+ERROR - 2019-08-21 16:40:39 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 33
+ERROR - 2019-08-21 16:40:39 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 34
+ERROR - 2019-08-21 16:40:40 --> Severity: Notice --> Trying to get property 'mensagem' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 32
+ERROR - 2019-08-21 16:40:40 --> Severity: Notice --> Trying to get property 'dtpublicacao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 33
+ERROR - 2019-08-21 16:40:40 --> Severity: Notice --> Trying to get property 'dtexpiracao' of non-object C:\wamp64\www\webpedidos\application\controllers\notificacao\Notificacao.php 34
+ERROR - 2019-08-21 17:13:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-21 17:13:27 --> 404 Page Not Found: Assets/js

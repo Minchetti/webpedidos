@@ -1,0 +1,279 @@
+ERROR - 2019-10-25 14:33:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 14:33:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 14:48:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 14:48:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 14:48:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 14:48:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:01:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:04:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:04:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:06:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:06:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:06:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:06:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:06:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:07:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:07:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:08:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:08:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:08:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:08:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:09:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:09:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:14:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:14:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:14:32 --> Query error: ERRO:  erro de sintaxe em ou próximo a "as"
+LINE 1: ...STINCT "v"."rm" as "requisicao", ((v.data_emissao as date), ...
+                                                             ^ - Invalid query: SELECT DISTINCT "v"."rm" as "requisicao", ((v.data_emissao as date), 2019-10-25) as Data_Entrega, ((nf.emissao as date), 2019-10-25) AS Data_Faturamento, "v"."id_centro_custo" as "CC", "f"."nome" as "funcionario", "v"."key_funcionarios" as "matricula", "po"."descricao" as "Produto", "vi"."key_partnumber" as "Partnumber", "po"."op_ca" as "CA", "vi"."quantidade", (vi.valor) as Vl_Unit, "pe"."data_emissao" as "Data_Emissao", "fu"."nome" as "Solicitante", "fu"."matricula" as "smatricula", "pl"."localentrega" as "Local_Entrega"
+FROM "vendas" "v"
+JOIN "vendas_item" "vi" ON "v"."rm" = "vi"."key_vendas" AND "v"."item" = "vi"."key_vendas_item"
+JOIN "funcionarios" "f" ON "v"."key_funcionarios" = "f"."matricula"
+JOIN "produtos" "po" ON "vi"."key_produtos" = "po"."codigo"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "v"."id_centro_custo"
+JOIN "pedidos" "pe" ON (pe.numero, pe.key_clientes) = (v.rm, v.key_clientes)
+JOIN "pedidos_local" "pl" ON "pe"."numero" = "pl"."key_pedidos"
+JOIN "usuario" "u" ON "pe"."key_usuario" = "u"."codigo"
+JOIN "funcionarios" "fu" ON "fu"."matricula" = "u"."key_funcionarios" AND "pe"."id_depto" = "s"."id_depto"
+JOIN "nota_fiscal" "nf" ON "v"."key_nota_fiscal" = "nf"."codigo" and "nf"."status" = 'EM'
+ORDER BY 2
+ LIMIT 10
+ERROR - 2019-10-25 15:16:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:16:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:16:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:16:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:25:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:25:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-10-25 15:42:50 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 3: WHERE "usuario" = 8
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "webloginid"
+FROM "web_login"
+WHERE "usuario" = 8
+ERROR - 2019-10-25 15:48:24 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 3: WHERE "usuario" = 8
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "webloginid"
+FROM "web_login"
+WHERE "usuario" = 8
+ERROR - 2019-10-25 15:50:08 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:50:08 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:50:08 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 8
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 8
+ERROR - 2019-10-25 15:53:31 --> Query error: ERRO:  coluna "weblogisnid" não existe
+LINE 1: SELECT "weblogisnid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblogisnid"
+FROM "web_login"
+WHERE "usuario" = '''2280'''
+ERROR - 2019-10-25 15:54:04 --> Query error: ERRO:  coluna "weblogisnid" não existe
+LINE 1: SELECT "weblogisnid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblogisnid"
+FROM "web_login"
+WHERE "usuario" = '''.2280.'''
+ERROR - 2019-10-25 15:54:38 --> Query error: ERRO:  coluna "weblogisnid" não existe
+LINE 1: SELECT "weblogisnid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: SELECT "weblogisnid"
+FROM "web_login"
+WHERE "usuario" = '2280'
+ERROR - 2019-10-25 15:54:50 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:54:50 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:54:50 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 15:56:50 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:56:50 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:56:50 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 15:57:10 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:57:10 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 112
+ERROR - 2019-10-25 15:57:10 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 15:58:13 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 15:59:00 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 15:59:41 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 16:00:17 --> Query error: ERRO:  coluna "2dd25074d92dfff1677e967155a94799" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = '2280'
+ERROR - 2019-10-25 16:10:31 --> Query error: ERRO:  coluna "2dd25074d92dfff1677e967155a94799" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+ERROR - 2019-10-25 16:14:09 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:14:09 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:14:09 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 16:14:29 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:14:29 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:14:29 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 16:14:46 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:14:46 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:14:46 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 16:17:29 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:17:29 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:17:29 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 16:17:45 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:17:45 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 115
+ERROR - 2019-10-25 16:17:45 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 16:18:17 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 114
+ERROR - 2019-10-25 16:18:17 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 114
+ERROR - 2019-10-25 16:18:17 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:18:22 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 114
+ERROR - 2019-10-25 16:18:22 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 114
+ERROR - 2019-10-25 16:18:22 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:18:38 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 114
+ERROR - 2019-10-25 16:18:38 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:18:55 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:20:59 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 2: WHERE "usuario" = 2280
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "usuario" = 2280
+ERROR - 2019-10-25 16:33:09 --> Severity: error --> Exception: syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 170
+ERROR - 2019-10-25 16:33:54 --> Query error: ERRO:  coluna "2dd25074d92dfff1677e967155a94799" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+ERROR - 2019-10-25 16:34:51 --> Query error: ERRO:  coluna "2dd25074d92dfff1677e967155a94799" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+ERROR - 2019-10-25 16:36:30 --> Query error: ERRO:  coluna "2dd25074d92dfff1677e967155a94799" da relação "web_login" não existe
+LINE 1: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ...
+                               ^ - Invalid query: UPDATE "web_login" SET "2dd25074d92dfff1677e967155a94799" = ''
+ERROR - 2019-10-25 16:36:58 --> Query error: ERRO:  relação "web_lo2gin" não existe
+LINE 1: UPDATE "web_lo2gin" SET "2dd25074d92dfff1677e967155a94799" =...
+               ^ - Invalid query: UPDATE "web_lo2gin" SET "2dd25074d92dfff1677e967155a94799" = ''
+ERROR - 2019-10-25 16:37:06 --> Query error: ERRO:  relação "web_lo2gin" não existe
+LINE 1: UPDATE "web_lo2gin" SET "2dd25074d92dfff1677e967155a94799" =...
+               ^ - Invalid query: UPDATE "web_lo2gin" SET "2dd25074d92dfff1677e967155a94799" = ''
+ERROR - 2019-10-25 16:37:44 --> Query error: ERRO:  relação "web_lo2gin" não existe
+LINE 1: UPDATE "web_lo2gin" SET "2dd25074d92dfff1677e967155a94799" =...
+               ^ - Invalid query: UPDATE "web_lo2gin" SET "2dd25074d92dfff1677e967155a94799" = ''
+WHERE "webloginid" = 2280
+ERROR - 2019-10-25 16:41:35 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 136
+ERROR - 2019-10-25 16:41:42 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ')' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 136
+ERROR - 2019-10-25 16:41:59 --> Query error: ERRO:  relação "web_lo2gin" não existe
+LINE 1: UPDATE "web_lo2gin" SET "senha" = '2dd25074d92dfff1677e96715...
+               ^ - Invalid query: UPDATE "web_lo2gin" SET "senha" = '2dd25074d92dfff1677e967155a94799'
+WHERE "webloginid" = 2280
+ERROR - 2019-10-25 16:44:14 --> Severity: error --> Exception: syntax error, unexpected '}', expecting ';' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 176
+ERROR - 2019-10-25 16:44:30 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:45:50 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:51:30 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:52:10 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:53:00 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:53:36 --> Query error: ERRO:  coluna "weblog2inid" não existe
+LINE 1: SELECT "weblog2inid"
+               ^
+HINT:  Perhaps you meant to reference the column "web_login_senhas_anteriores.webloginid". - Invalid query: SELECT "weblog2inid"
+FROM "web_login_senhas_anteriores"
+WHERE "senha" = '2dd25074d92dfff1677e967155a94799'
+ERROR - 2019-10-25 16:56:32 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:57:33 --> Query error: ERRO:  relação "web_logsin" não existe
+LINE 1: UPDATE "web_logsin" SET "senha" = '2dd25074d92dfff1677e96715...
+               ^ - Invalid query: UPDATE "web_logsin" SET "senha" = '2dd25074d92dfff1677e967155a94799'
+WHERE "webloginid" = 2280
+ERROR - 2019-10-25 16:58:11 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:59:11 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 16:59:31 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+WHERE "webloginid" = '2280'
+ERROR - 2019-10-25 17:00:31 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+WHERE "webloginid" = '2280'
+ERROR - 2019-10-25 17:05:38 --> Query error: ERRO:  relação "web2_login" não existe
+LINE 1: UPDATE "web2_login" SET "senha" = '2dd25074d92dfff1677e96715...
+               ^ - Invalid query: UPDATE "web2_login" SET "senha" = '2dd25074d92dfff1677e967155a94799'
+ERROR - 2019-10-25 17:06:06 --> Query error: ERRO:  relação "web2_login" não existe
+LINE 1: UPDATE "web2_login" SET "senha" = '2dd25074d92dfff1677e96715...
+               ^ - Invalid query: UPDATE "web2_login" SET "senha" = '2dd25074d92dfff1677e967155a94799'
+WHERE "webloginid" = '2280'
+ERROR - 2019-10-25 17:06:26 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 17:07:08 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 17:09:39 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 17:10:14 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 17:11:40 --> Query error: ERRO:  SELECT * sem tabelas especificadas não é válido
+LINE 1: SELECT *
+               ^ - Invalid query: SELECT *
+ERROR - 2019-10-25 17:11:55 --> Query error: ERRO:  relação "web_l2ogin" não existe
+LINE 1: UPDATE "web_l2ogin" SET "senha" = '2dd25074d92dfff1677e96715...
+               ^ - Invalid query: UPDATE "web_l2ogin" SET "senha" = '2dd25074d92dfff1677e967155a94799'
+WHERE "webloginid" = '2280'
+ERROR - 2019-10-25 17:13:57 --> Severity: Notice --> Undefined property: Usuario::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-10-25 17:13:57 --> Severity: error --> Exception: Call to a member function trans_status() on null C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 151

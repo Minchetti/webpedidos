@@ -1,0 +1,535 @@
+ERROR - 2019-12-16 12:48:06 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 12:49:39 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 14:35:36 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:44:47 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:48:50 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:50:14 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-16 15:52:41 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:52:43 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:52:51 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-16 15:53:50 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:53:52 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:53:57 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-16 15:54:18 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-16 15:54:20 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:54:49 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-16 15:57:42 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-16 15:57:43 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:58:01 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:58:57 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 15:59:24 --> 404 Page Not Found: Recebephp/index
+ERROR - 2019-12-16 16:02:17 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:02:43 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:03:05 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:03:29 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:03:47 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:03:52 --> Severity: Warning --> move_uploaded_file(/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:03:53 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpB5A4.tmp' to '/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:03:53 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:04:58 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:05:08 --> Severity: Warning --> move_uploaded_file(/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:05:08 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpDD70.tmp' to '/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:05:08 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:06:48 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:06:53 --> Severity: Warning --> move_uploaded_file(uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:06:53 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php77FB.tmp' to 'uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:06:53 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:08:02 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:08:06 --> Severity: Warning --> move_uploaded_file(localhost\webpedidos\application\controllers\recebimento\uploads41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:08:06 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php950D.tmp' to 'localhost\webpedidos\application\controllers\recebimento\uploads41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:08:06 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:08:23 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:08:25 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:08:28 --> Severity: error --> Exception: syntax error, unexpected ''localhost\webpedidos\applicat' (T_ENCAPSED_AND_WHITESPACE) C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-16 16:09:18 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:09:23 --> Severity: Warning --> move_uploaded_file(localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:09:23 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpC1BA.tmp' to 'localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:09:23 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:09:40 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:09:42 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:09:45 --> Severity: Warning --> move_uploaded_file(/localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:09:45 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php17C6.tmp' to '/localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:09:45 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:12:00 --> Severity: Warning --> move_uploaded_file(localhost\webpedidos\application\controllers\recebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:00 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php287A.tmp' to 'localhost\webpedidos\application\controllers\recebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:00 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:12:02 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:12:05 --> Severity: Warning --> move_uploaded_file(localhost\webpedidos\application\controllers\recebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:05 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php3C1A.tmp' to 'localhost\webpedidos\application\controllers\recebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:05 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:12:21 --> Severity: Warning --> move_uploaded_file(localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:21 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php7B8B.tmp' to 'localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:21 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:12:24 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:12:28 --> Severity: Warning --> move_uploaded_file(localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:28 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php93EC.tmp' to 'localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:28 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:12:56 --> Severity: Warning --> move_uploaded_file(/localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:56 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpF1.tmp' to '/localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:12:56 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:12:58 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:13:02 --> Severity: Warning --> move_uploaded_file(/localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:13:02 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php1887.tmp' to '/localhost/webpedidos/application/controllers/recebimento/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:13:02 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:13:51 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:13:56 --> Severity: error --> Exception: syntax error, unexpected end of file C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 21
+ERROR - 2019-12-16 16:14:17 --> Severity: Warning --> move_uploaded_file(\localhost\webpedidos\application\controllersecebimento\uploads41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:14:17 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php3EDE.tmp' to '\localhost\webpedidos\application\controllersecebimento\uploads41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:14:17 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:14:19 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:14:24 --> Severity: Warning --> move_uploaded_file(\localhost\webpedidos\application\controllersecebimento\uploads41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:14:24 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php57FA.tmp' to '\localhost\webpedidos\application\controllersecebimento\uploads41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:14:24 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:14:55 --> Severity: Warning --> move_uploaded_file(\localhost\webpedidos\application\controllersecebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:14:55 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpD42C.tmp' to '\localhost\webpedidos\application\controllersecebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:14:55 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:14:58 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:15:02 --> Severity: Warning --> move_uploaded_file(\localhost\webpedidos\application\controllersecebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:15:02 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpEFA9.tmp' to '\localhost\webpedidos\application\controllersecebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:15:02 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:15:45 --> Severity: Warning --> move_uploaded_file(/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:15:45 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php9589.tmp' to '/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:15:45 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:15:47 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:15:55 --> Severity: Warning --> move_uploaded_file(/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:15:55 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpBCC9.tmp' to '/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:15:55 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:20:42 --> Severity: Warning --> move_uploaded_file(\localhost\webpedidos\application\controllers\recebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:20:42 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php1E3A.tmp' to '\localhost\webpedidos\application\controllers\recebimento\uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:20:42 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:22:27 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:22:30 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:22:34 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:23:07 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:23:10 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:23:18 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:23:23 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:24:05 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:24:08 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:25:01 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:25:04 --> Severity: Warning --> move_uploaded_file(./uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:04 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php1DD3.tmp' to './uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:04 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:25:15 --> Severity: Warning --> move_uploaded_file(/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:15 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php4A7F.tmp' to '/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:15 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:25:17 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:25:21 --> Severity: Warning --> move_uploaded_file(/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:21 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php6041.tmp' to '/uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:21 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:25:27 --> Severity: Warning --> move_uploaded_file(../uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:27 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php778A.tmp' to '../uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:27 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:25:29 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:25:33 --> Severity: Warning --> move_uploaded_file(../uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:33 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\php9113.tmp' to '../uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:33 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:25:45 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:25:48 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:25:51 --> Severity: Warning --> move_uploaded_file(uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:51 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\wamp64\tmp\phpD554.tmp' to 'uploads/41935cc4-86e2-471f-a2ae-5bc25c445867.jpg' C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 18
+ERROR - 2019-12-16 16:25:51 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:27:04 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:27:05 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:27:11 --> Severity: Warning --> include_once(C:\wamp64\www\webpedidos\application\controllers\recebimento\uploads): failed to open stream: Permission denied C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-16 16:27:11 --> Severity: Warning --> include_once(): Failed opening 'C:\wamp64\www\webpedidos\application\controllers\recebimento/uploads/' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-16 16:27:11 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:27:56 --> Severity: Warning --> include_once(C:\wamp64\www\webpedidos\application\controllers\recebimento\uploads): failed to open stream: Permission denied C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-16 16:27:56 --> Severity: Warning --> include_once(): Failed opening 'C:\wamp64\www\webpedidos\application\controllers\recebimento\uploads/' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-16 16:27:56 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:27:58 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:28:03 --> Severity: Warning --> include_once(C:\wamp64\www\webpedidos\application\controllers\recebimento\uploads): failed to open stream: Permission denied C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-16 16:28:03 --> Severity: Warning --> include_once(): Failed opening 'C:\wamp64\www\webpedidos\application\controllers\recebimento\uploads/' for inclusion (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\recebimento\recebe.php 17
+ERROR - 2019-12-16 16:28:03 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:28:15 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:28:19 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:28:29 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:28:34 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:39:34 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:46:41 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:57:54 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 16:58:02 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 45
+ERROR - 2019-12-16 16:58:02 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 16:58:02 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 16:58:02 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 16:58:02 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 16:58:02 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 68
+ERROR - 2019-12-16 16:58:02 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 16:58:10 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:00:27 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:00:38 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 45
+ERROR - 2019-12-16 17:00:38 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 17:00:38 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 17:00:38 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 17:00:38 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 17:00:38 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 68
+ERROR - 2019-12-16 17:00:39 --> 404 Page Not Found: recebimento/Recebe/index
+ERROR - 2019-12-16 17:00:54 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:01:38 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:01:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 45
+ERROR - 2019-12-16 17:01:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 17:01:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 17:01:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 17:01:43 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 17:01:43 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 68
+ERROR - 2019-12-16 17:18:46 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:18:58 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 46
+ERROR - 2019-12-16 17:18:58 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 48
+ERROR - 2019-12-16 17:18:58 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 50
+ERROR - 2019-12-16 17:18:58 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 52
+ERROR - 2019-12-16 17:18:58 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 54
+ERROR - 2019-12-16 17:18:58 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 69
+ERROR - 2019-12-16 17:19:45 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:19:49 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 17:19:49 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 17:19:49 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 17:19:49 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 17:19:49 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-12-16 17:19:49 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 70
+ERROR - 2019-12-16 17:24:32 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:24:56 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:32:33 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:32:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 17:32:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 17:32:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 17:32:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 17:32:37 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-12-16 17:32:37 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 70
+ERROR - 2019-12-16 17:32:55 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:32:59 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 17:32:59 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 17:32:59 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 17:32:59 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 17:32:59 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-12-16 17:32:59 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 70
+ERROR - 2019-12-16 17:33:28 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:33:41 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:33:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 17:33:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 17:33:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 17:33:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 17:33:45 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-12-16 17:33:45 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 70
+ERROR - 2019-12-16 17:36:40 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:37:28 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = ''
+AND "v"."key_clientes" = ''
+ERROR - 2019-12-16 17:37:31 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 47
+ERROR - 2019-12-16 17:37:31 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 49
+ERROR - 2019-12-16 17:37:31 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 51
+ERROR - 2019-12-16 17:37:31 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 53
+ERROR - 2019-12-16 17:37:31 --> Severity: Notice --> Undefined index: venda C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-12-16 17:37:31 --> Severity: Notice --> Undefined variable: colecao C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 70

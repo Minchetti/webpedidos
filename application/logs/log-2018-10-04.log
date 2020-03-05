@@ -1,0 +1,942 @@
+ERROR - 2018-10-04 09:42:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 09:42:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:56:00 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 09:56:01 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49893, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 09:56:00, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 09:56:00','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49893,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:56:00','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49894,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:56:00','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49895,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:56:00','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49896,'AAAA')
+ERROR - 2018-10-04 09:56:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 09:58:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 09:58:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:58:48 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:58:49 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 09:58:49 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49897, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 09:58:48, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 09:58:48','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49897,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:58:48','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49898,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:58:48','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49899,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:58:48','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49900,'AAAA')
+ERROR - 2018-10-04 09:58:49 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 09:59:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 09:59:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 09:59:46 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 09:59:46 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49901, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 09:59:46, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 09:59:46','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49901,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:59:46','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49902,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:59:46','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49903,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 09:59:46','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49904,'AAAA')
+ERROR - 2018-10-04 09:59:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:00:32 --> Severity: error --> Exception: C:\laragon\www\webpedidos\application\models/funcionario/Funcionario_model.php exists, but doesn't declare class Funcionario_model C:\laragon\www\system\core\Loader.php 336
+ERROR - 2018-10-04 10:01:29 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:01:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:01:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:01:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:01:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:01:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:01:42 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:01:43 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:01:43 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49905, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:01:40, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:01:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49905,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:01:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49906,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:01:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49907,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:01:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49908,'AAAA')
+ERROR - 2018-10-04 10:01:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:01:59 --> Severity: error --> Exception: Call to undefined method Funcionario_model::listarMatricula() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 286
+ERROR - 2018-10-04 10:02:16 --> Severity: error --> Exception: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) C:\laragon\www\webpedidos\application\models\funcionario\Funcionario_model.php 57
+ERROR - 2018-10-04 10:02:16 --> Severity: Compile Warning --> Unterminated comment starting line 55 C:\laragon\www\webpedidos\application\models\funcionario\Funcionario_model.php 55
+ERROR - 2018-10-04 10:12:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:12:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 357
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:13:20 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:13:20 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49909, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:13:20, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:13:20','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49909,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:13:20','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49910,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:13:20','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49911,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:13:20','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49912,'AAAA')
+ERROR - 2018-10-04 10:13:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:20:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:20:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:21:03 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 321
+ERROR - 2018-10-04 10:21:03 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:21:03 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:22:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:22:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:22:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 321
+ERROR - 2018-10-04 10:22:08 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:22:08 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:23:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 321
+ERROR - 2018-10-04 10:23:02 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:23:02 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:23:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:23:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:23:48 --> Severity: 4096 --> Object of class Template could not be converted to string C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 305
+ERROR - 2018-10-04 10:23:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:23:48 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:23:48 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:24:35 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:24:35 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:24:35 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:24:35 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:305) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:25:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:25:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:25:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:25:31 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:25:31 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:25:31 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:26:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:26:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:27:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:27:08 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:27:08 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:28:38 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:28:38 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:29:22 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:29:22 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:29:22 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:29:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:29:53 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:29:53 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:30:39 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:30:39 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:30:39 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:31:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:31:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:31:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 323
+ERROR - 2018-10-04 10:31:08 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:31:08 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 441
+ERROR - 2018-10-04 10:32:00 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 321
+ERROR - 2018-10-04 10:32:00 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:32:00 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 439
+ERROR - 2018-10-04 10:32:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:32:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:32:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 326
+ERROR - 2018-10-04 10:32:48 --> Severity: Notice --> Undefined variable: pedido C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:32:48 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 307
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 308
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:33:28 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:33:29 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49913, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:33:28, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:33:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49913,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:33:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49914,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:33:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49915,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:33:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49916,'AAAA')
+ERROR - 2018-10-04 10:33:29 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:33:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:33:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:36:51 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 307
+ERROR - 2018-10-04 10:36:51 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 308
+ERROR - 2018-10-04 10:36:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:36:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:36:51 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:36:51 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:36:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:36:52 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:36:52 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49917, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:36:51, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:36:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49917,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:36:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49918,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:36:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49919,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:36:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49920,'AAAA')
+ERROR - 2018-10-04 10:36:52 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:43:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:43:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 307
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 308
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:10 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:43:10 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49921, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:43:10, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:43:10','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49921,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:43:10','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49922,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:43:10','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49923,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:43:10','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49924,'AAAA')
+ERROR - 2018-10-04 10:43:10 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:43:41 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:43:41 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49925, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:43:41, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:43:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49925,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:43:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49926,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:43:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49927,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:43:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49928,'AAAA')
+ERROR - 2018-10-04 10:43:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:44:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:44:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:44:59 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:44:59 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49929, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:44:59, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:44:59','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49929,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:44:59','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49930,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:44:59','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49931,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:44:59','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49932,'AAAA')
+ERROR - 2018-10-04 10:44:59 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:45:58 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:45:58 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49933, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:45:58, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:45:58','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49933,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:45:58','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49934,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:45:58','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49935,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:45:58','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49936,'AAAA')
+ERROR - 2018-10-04 10:45:58 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 10:46:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:46:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 364
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 10:47:06 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 444
+ERROR - 2018-10-04 10:47:06 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49937, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 10:47:06, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 10:47:06','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49937,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:47:06','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49938,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:47:06','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49939,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 10:47:06','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49940,'AAAA')
+ERROR - 2018-10-04 10:47:06 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 11:12:51 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 11:12:51 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 11:12:57 --> Severity: error --> Exception: Cannot use object of type stdClass as array C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 334
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:13:39 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 443
+ERROR - 2018-10-04 11:13:39 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49942, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 11:13:39, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 11:13:39','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49942,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 11:13:39','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49943,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 11:13:39','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49944,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 11:13:39','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49945,'AAAA')
+ERROR - 2018-10-04 11:13:39 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 11:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 11:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 11:15:28 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 443
+ERROR - 2018-10-04 11:15:28 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49946, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 11:15:28, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 11:15:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49946,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 11:15:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49947,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 11:15:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49948,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 11:15:28','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49949,'AAAA')
+ERROR - 2018-10-04 11:15:28 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:05:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:05:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 359
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 361
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:05:38 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 443
+ERROR - 2018-10-04 14:05:38 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49950, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 14:05:37, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:05:37','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49950,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:05:37','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49951,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:05:37','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49952,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:05:37','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49953,'AAAA')
+ERROR - 2018-10-04 14:05:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:08:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:08:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:09:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:09:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined variable: colaborador C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 326
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 365
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 365
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 365
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 363
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 365
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:09:18 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 447
+ERROR - 2018-10-04 14:09:18 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49954, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 14:09:18, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:09:18','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49954,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:09:18','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49955,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:09:18','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49956,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:09:18','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49957,'AAAA')
+ERROR - 2018-10-04 14:09:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:10:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:10:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:12:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:12:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:12:47 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 450
+ERROR - 2018-10-04 14:12:47 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49958, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 14:12:47, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:12:47','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49958,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:12:47','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49959,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:12:47','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49960,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:12:47','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49961,'AAAA')
+ERROR - 2018-10-04 14:12:47 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:13:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:13:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 366
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:13:40 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 450
+ERROR - 2018-10-04 14:13:40 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49962, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 14:13:40, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:13:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49962,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:13:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49963,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:13:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49964,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:13:40','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49965,'AAAA')
+ERROR - 2018-10-04 14:13:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:14:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:14:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:14:55 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 453
+ERROR - 2018-10-04 14:14:55 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49966, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 14:14:55, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:14:55','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49966,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:14:55','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49967,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:14:55','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49968,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:14:55','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49969,'AAAA')
+ERROR - 2018-10-04 14:14:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:15:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:15:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 368
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 370
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 372
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:16:21 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 453
+ERROR - 2018-10-04 14:16:21 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49970, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, AAAA, null, t, f, null, 2018-10-04 14:16:21, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:16:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49970,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:16:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49971,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:16:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49972,'AAAA'), ('1','2018-10-04',NULL,'2018-10-04 14:16:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49973,'AAAA')
+ERROR - 2018-10-04 14:16:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:19:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:19:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:19:41 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 434
+ERROR - 2018-10-04 14:19:41 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49974, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, OBS-MINCHETTI, null, t, f, null, 2018-10-04 14:19:41, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:19:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49974,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 14:19:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49975,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 14:19:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49976,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 14:19:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49977,'OBS-MINCHETTI')
+ERROR - 2018-10-04 14:19:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:324) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:21:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:21:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:23:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:23:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:23:28 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-04 14:23:28 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-04 14:23:29 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-04 14:23:29 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-04 14:24:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:24:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:24:50 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 434
+ERROR - 2018-10-04 14:24:50 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49978, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, OKOKOK, null, t, f, null, 2018-10-04 14:24:50, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:24:50','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49978,'OKOKOK'), ('1','2018-10-04',NULL,'2018-10-04 14:24:50','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49979,'OKOKOK'), ('1','2018-10-04',NULL,'2018-10-04 14:24:50','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49980,'OKOKOK'), ('1','2018-10-04',NULL,'2018-10-04 14:24:50','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49981,'OKOKOK')
+ERROR - 2018-10-04 14:24:50 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:348) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:26:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:26:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:35:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:35:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:21 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 434
+ERROR - 2018-10-04 14:35:21 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49982, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 14:35:21, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:35:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49982,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:35:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49983,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:35:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49984,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:35:21','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49985,'PP')
+ERROR - 2018-10-04 14:35:21 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:348) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:35:41 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 434
+ERROR - 2018-10-04 14:35:41 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49986, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 14:35:41, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:35:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49986,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:35:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49987,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:35:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49988,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:35:41','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49989,'PP')
+ERROR - 2018-10-04 14:35:41 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:348) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:51:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:51:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:51:22 --> Severity: error --> Exception: syntax error, unexpected ''69'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) C:\laragon\www\webpedidos\application\models\pedido\Template_model.php 92
+ERROR - 2018-10-04 14:52:15 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:52:15 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:52:15 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:52:15 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:52:16 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:52:16 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:52:16 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:52:16 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:52:17 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 434
+ERROR - 2018-10-04 14:52:18 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49990, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, OBS-MINCHETTI, null, t, f, null, 2018-10-04 14:52:15, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:52:15','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49990,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 14:52:15','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49991,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 14:52:15','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49992,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 14:52:15','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49993,'OBS-MINCHETTI')
+ERROR - 2018-10-04 14:52:18 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:348) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:55:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:55:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:55:37 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:55:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:55:38 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:55:38 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:55:38 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:55:38 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 434
+ERROR - 2018-10-04 14:55:38 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49994, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 14:55:36, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:55:36','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49994,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:55:36','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49995,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:55:36','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49996,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:55:36','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49997,'PP')
+ERROR - 2018-10-04 14:55:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:348) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 14:56:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:56:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 358
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 360
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 362
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 14:56:51 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 434
+ERROR - 2018-10-04 14:56:51 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (49998, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 14:56:51, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 14:56:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49998,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:56:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',49999,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:56:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50000,'PP'), ('1','2018-10-04',NULL,'2018-10-04 14:56:51','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50001,'PP')
+ERROR - 2018-10-04 14:56:51 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\webpedidos\application\controllers\pedido\Template.php:348) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 15:15:29 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:15:29 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:16:14 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 424
+ERROR - 2018-10-04 15:16:14 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50002, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 15:16:14, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 15:16:14','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50002,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:16:14','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50003,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:16:14','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50004,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:16:14','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50005,'PP')
+ERROR - 2018-10-04 15:16:14 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 15:17:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:17:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:17:32 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 424
+ERROR - 2018-10-04 15:17:32 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50006, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 15:17:32, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 15:17:32','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50006,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:17:32','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50007,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:17:32','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50008,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:17:32','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50009,'PP')
+ERROR - 2018-10-04 15:17:32 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 15:19:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:19:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:19:26 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 424
+ERROR - 2018-10-04 15:19:26 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50010, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 15:19:26, null, null, null, 1, LOJA, 71.340.830/0001-06, 0, 71.340.830/0001-06, 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 15:19:26','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50010,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:19:26','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50011,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:19:26','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50012,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:19:26','LOJA',1,'100',NULL,NULL,'71.340.830/0001-06','71.340.830/0001-06',NULL,'0','0',50013,'PP')
+ERROR - 2018-10-04 15:19:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 15:31:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:31:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:32:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:32:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 296
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 348
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 350
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 352
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 15:32:36 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 424
+ERROR - 2018-10-04 15:32:36 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50014, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 15:32:36, null, null, null, 1, LOJA, , 0, , 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 15:32:36','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50014,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:32:36','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50015,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:32:36','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50016,'PP'), ('1','2018-10-04',NULL,'2018-10-04 15:32:36','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50017,'PP')
+ERROR - 2018-10-04 15:32:36 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 15:44:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:44:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:46:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:46:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:48:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:48:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:49:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 15:49:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 16:13:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 16:13:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 16:17:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 16:17:46 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 16:23:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 16:23:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:00:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:00:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 299
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:01 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-04 17:01:01 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50018, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 17:01:01, null, null, null, 1, LOJA, , 0, , 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 17:01:01','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50018,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:01:01','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50019,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:01:01','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50020,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:01:01','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50021,'PP')
+ERROR - 2018-10-04 17:01:01 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 17:01:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:01:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 299
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:01:53 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-04 17:01:53 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50022, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 17:01:53, null, null, null, 1, LOJA, , 0, , 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 17:01:53','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50022,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:01:53','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50023,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:01:53','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50024,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:01:53','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50025,'PP')
+ERROR - 2018-10-04 17:01:53 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 17:08:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:08:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 299
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:09:07 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-04 17:09:07 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50026, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 17:09:07, null, null, null, 1, LOJA, , 0, , 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 17:09:07','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50026,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:09:07','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50027,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:09:07','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50028,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:09:07','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50029,'PP')
+ERROR - 2018-10-04 17:09:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 17:18:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:18:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:18:22 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 299
+ERROR - 2018-10-04 17:18:23 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:18:23 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:18:23 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:18:23 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:18:23 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:18:24 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:18:24 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:18:24 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:18:24 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:18:24 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:18:25 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:18:25 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:18:25 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:18:25 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:18:25 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:18:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:18:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:18:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:18:26 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:18:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:18:26 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-04 17:18:26 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50030, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, OBS-MINCHETTI, null, t, f, null, 2018-10-04 17:18:22, null, null, null, 1, LOJA, , 0, , 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 17:18:22','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50030,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 17:18:22','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50031,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 17:18:22','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50032,'OBS-MINCHETTI'), ('1','2018-10-04',NULL,'2018-10-04 17:18:22','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50033,'OBS-MINCHETTI')
+ERROR - 2018-10-04 17:18:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 17:24:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:24:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 299
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:26:00 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-04 17:26:00 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50034, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, PP, null, t, f, null, 2018-10-04 17:26:00, null, null, null, 1, LOJA, , 0, , 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 17:26:00','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50034,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:26:00','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50035,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:26:00','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50036,'PP'), ('1','2018-10-04',NULL,'2018-10-04 17:26:00','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50037,'PP')
+ERROR - 2018-10-04 17:26:00 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 299
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 351
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: cliente C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 353
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: matricula C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 355
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 356
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined index: id C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-04 17:32:26 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-04 17:32:26 --> Query error: ERRO:  valor nulo na coluna "key_clientes" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (50038, null, 2018-10-04, 2018-10-04, null, null, 100, null, Aberto, OKOKOK, null, t, f, null, 2018-10-04 17:32:26, null, null, null, 1, LOJA, , 0, , 0). - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-04',NULL,'2018-10-04 17:32:26','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50038,'OKOKOK'), ('1','2018-10-04',NULL,'2018-10-04 17:32:26','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50039,'OKOKOK'), ('1','2018-10-04',NULL,'2018-10-04 17:32:26','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50040,'OKOKOK'), ('1','2018-10-04',NULL,'2018-10-04 17:32:26','LOJA',1,'100',NULL,NULL,'','',NULL,'0','0',50041,'OKOKOK')
+ERROR - 2018-10-04 17:32:26 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\laragon\www\system\core\Exceptions.php:271) C:\laragon\www\system\core\Common.php 570

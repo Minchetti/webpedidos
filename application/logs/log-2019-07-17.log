@@ -1,0 +1,316 @@
+ERROR - 2019-07-17 14:28:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:28:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:28:02 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:29:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:29:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:29:37 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:30:02 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = ''
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 14:30:03 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = ''
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 14:30:04 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = ''
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 14:30:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:30:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:30:18 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:33:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:33:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:33:50 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE 110 IS NULL
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:33:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:33:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:33:53 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE 110 IS NULL
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:33:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:33:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:33:54 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE 110 IS NULL
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:35:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:35:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:35:35 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE 110 IS NULL
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:37:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:37:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:37:43 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_usuar...
+                                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_usuario"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:37:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:37:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:37:45 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_usuar...
+                                                   ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_usuario"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '110'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2019-07-17 14:44:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:44:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:44:20 --> Severity: Notice --> Undefined property: stdClass::$codigo C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 164
+ERROR - 2019-07-17 14:44:20 --> Severity: Notice --> Undefined property: stdClass::$cc C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 170
+ERROR - 2019-07-17 14:44:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:44:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:44:21 --> Severity: Notice --> Undefined property: stdClass::$codigo C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 164
+ERROR - 2019-07-17 14:44:21 --> Severity: Notice --> Undefined property: stdClass::$cc C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 170
+ERROR - 2019-07-17 14:44:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:44:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:44:23 --> Severity: Notice --> Undefined property: stdClass::$codigo C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 164
+ERROR - 2019-07-17 14:44:23 --> Severity: Notice --> Undefined property: stdClass::$cc C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 170
+ERROR - 2019-07-17 14:54:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:54:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:54:02 --> Severity: Notice --> Undefined property: stdClass::$codigo C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 164
+ERROR - 2019-07-17 14:54:02 --> Severity: Notice --> Undefined property: stdClass::$cc C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 170
+ERROR - 2019-07-17 14:57:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:57:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:57:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:57:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:57:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:57:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:58:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:58:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:58:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:58:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 14:58:25 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = '10'
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 15:03:50 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = '10'
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 15:05:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:05:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:05:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:05:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:05:08 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = '10'
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 15:12:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:12:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:12:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:12:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:12:34 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "tf"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = '10'
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 15:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:14:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:14:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:14:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:14:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:14:56 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 1: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"....
+                              ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "tf"."key_funcionarios" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = "f"."key_clientes"
+JOIN "setor" "s" ON "s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = "f"."key_clientes"
+WHERE "tf"."key_templates" = '10'
+ORDER BY "f"."nome" ASC
+ERROR - 2019-07-17 15:15:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:15:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:15:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:15:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:17:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:17:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:49:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:49:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:51:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 15:51:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 15:52:12 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("numero", "descricao", "codigo", "k...
+                                                        ^ - Invalid query: INSERT INTO "templates" ("numero", "descricao", "codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (18, 'OBS TESTE', 18, '110', '01.449.930/0001-90', 'TEMPLATE MARCELLO', 'OBS TESTE')
+ERROR - 2019-07-17 15:56:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:56:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:56:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:56:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 15:56:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 15:56:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 15:58:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 15:58:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 15:58:50 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("numero", "descricao", "codigo", "k...
+                                                        ^ - Invalid query: INSERT INTO "templates" ("numero", "descricao", "codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (19, '', 19, '110', '01.449.930/0001-90', 'TESTE', '')
+ERROR - 2019-07-17 16:08:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:08:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:15:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:15:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:15:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:15:56 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("numero", "descricao", "codigo", "k...
+                                                        ^ - Invalid query: INSERT INTO "templates" ("numero", "descricao", "codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (20, 'ASDA', 20, '110', '01.449.930/0001-90', 'DASDASD', 'ASDA')
+ERROR - 2019-07-17 16:20:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:20:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:20:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:20:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:21:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:21:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:21:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:21:08 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                 ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (21, '110', '01.449.930/0001-90', 'TESTE2', 'FGHFGH')
+ERROR - 2019-07-17 16:22:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:22:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:22:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:22:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:22:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:22:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:23:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:23:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:23:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:23:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:23:52 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                 ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (22, '110', '01.449.930/0001-90', 'AASDADD', 'DASDASD')
+ERROR - 2019-07-17 16:25:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:25:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:25:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:25:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:25:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:25:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:25:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:25:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:25:56 --> Query error: ERRO:  coluna "key_funcionarios" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("numero", "key_funcionarios", "key_...
+                                           ^ - Invalid query: INSERT INTO "templates" ("numero", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (23, '110', '01.449.930/0001-90', 'TESTE', 'ASDASDA')
+ERROR - 2019-07-17 16:29:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:29:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:30:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:30:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:30:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:30:10 --> Query error: ERRO:  coluna "nome" da relação "templates" não existe
+LINE 1: ...plates" ("numero", "key_usuario", "key_clientes", "nome", "o...
+                                                             ^ - Invalid query: INSERT INTO "templates" ("numero", "key_usuario", "key_clientes", "nome", "obs") VALUES (24, '110', '01.449.930/0001-90', 'ASDASDADSA', 'HGJGHJGHJGHJ')
+ERROR - 2019-07-17 16:45:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:45:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:45:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:45:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:45:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:45:57 --> Query error: ERRO:  coluna "key_clientes" da relação "templates_funcionarios" não existe
+LINE 1: INSERT INTO "templates_funcionarios" ("codigo", "key_cliente...
+                                                        ^ - Invalid query: INSERT INTO "templates_funcionarios" ("codigo", "key_clientes", "key_funcionarios", "key_templates") VALUES (134,'01.449.930/0001-90','33090562',25)
+ERROR - 2019-07-17 16:53:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:53:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 16:53:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:53:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 16:53:22 --> Severity: Notice --> Undefined index: codigo C:\wamp64\www\webpedidos\application\models\pedido\Template_model.php 96
+ERROR - 2019-07-17 17:11:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:11:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:11:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:11:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:11:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 17:11:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 17:14:34 --> Severity: Notice --> Undefined index: codigo C:\wamp64\www\webpedidos\application\models\pedido\Template_model.php 96
+ERROR - 2019-07-17 17:15:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:15:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:32:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:32:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:32:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 17:32:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 17:32:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 17:33:07 --> Severity: Notice --> Undefined index: codigo C:\wamp64\www\webpedidos\application\models\pedido\Template_model.php 99
+ERROR - 2019-07-17 17:34:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:34:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:34:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:34:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:34:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 17:34:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-07-17 17:34:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-07-17 17:34:45 --> 404 Page Not Found: Assets/js

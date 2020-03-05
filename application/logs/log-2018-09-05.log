@@ -1,0 +1,34 @@
+ERROR - 2018-09-05 11:19:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:19:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:21:03 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('01.676.897/0002-11', '')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-05 11:22:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:22:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:22:41 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('29.884.476/0001-14', '')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-05 11:23:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:23:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:26:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:26:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:30:24 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-05 11:30:24 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-05 11:30:24 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-05 11:30:24 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-05 11:30:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 11:30:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:21:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:21:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:37:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:37:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:42:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:42:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:43:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 14:43:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 15:34:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 15:34:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 15:35:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-05 15:35:54 --> 404 Page Not Found: Assets/js

@@ -1,0 +1,28 @@
+ERROR - 2018-10-19 14:19:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:19:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:23:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:23:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:23:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:23:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:24:20 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 97
+ERROR - 2018-10-19 14:27:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:27:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:33:15 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:33:15 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:33:15 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:33:15 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:33:30 --> Query error: ERRO:  duplicar valor da chave viola a restrição de unicidade "templates_pkey"
+DETAIL:  Chave (numero, key_clientes)=(96, 71.340.830/0001-06) já existe. - Invalid query: INSERT INTO "templates" ("numero", "descricao", "codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (96, '', 96, '0', '71.340.830/0001-06', 'TESTE CRIACAO2', '')
+ERROR - 2018-10-19 14:41:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:41:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:42:50 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:42:50 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:42:50 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:42:50 --> 404 Page Not Found: Assets/images
+ERROR - 2018-10-19 14:48:10 --> Severity: error --> Exception: syntax error, unexpected ''key_clientes'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 102
+ERROR - 2018-10-19 14:48:21 --> Severity: error --> Exception: syntax error, unexpected ''key_clientes'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 102
+ERROR - 2018-10-19 14:48:26 --> Severity: error --> Exception: syntax error, unexpected ''key_clientes'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 102
+ERROR - 2018-10-19 14:49:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:49:27 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:56:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-19 14:56:32 --> 404 Page Not Found: Assets/js

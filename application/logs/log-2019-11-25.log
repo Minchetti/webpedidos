@@ -1,0 +1,114 @@
+ERROR - 2019-11-25 14:52:35 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:00:27 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:00:55 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:01:24 --> Query error: ERRO:  coluna "ema2il" não existe
+LINE 1: SELECT "ema2il"
+               ^
+HINT:  Perhaps you meant to reference the column "funcionarios.email". - Invalid query: SELECT "ema2il"
+FROM "funcionarios"
+WHERE "matricula" = '33100093'
+ERROR - 2019-11-25 15:05:24 --> Query error: ERRO:  coluna "ema2il" não existe
+LINE 1: SELECT "ema2il"
+               ^
+HINT:  Perhaps you meant to reference the column "funcionarios.email". - Invalid query: SELECT "ema2il"
+FROM "funcionarios"
+WHERE "matricula" = '33100093'
+AND "ativo" = TRUE
+ERROR - 2019-11-25 15:05:42 --> Query error: ERRO:  operador não existe: character = boolean
+LINE 4: AND "ativo" = TRUE
+                    ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "email"
+FROM "funcionarios"
+WHERE "matricula" = '33100093'
+AND "ativo" = TRUE
+ERROR - 2019-11-25 15:07:35 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:07:58 --> Query error: ERRO:  relação "funcionar2ios" não existe
+LINE 2: FROM "funcionar2ios" "f"
+             ^ - Invalid query: SELECT "email"
+FROM "funcionar2ios" "f"
+WHERE "f"."matricula" = '33100093'
+ERROR - 2019-11-25 15:08:25 --> Query error: ERRO:  relação "fun2cionarios" não existe
+LINE 2: FROM "fun2cionarios" "f"
+             ^ - Invalid query: SELECT "email"
+FROM "fun2cionarios" "f"
+WHERE "f"."matricula" = '33100093'
+AND "f"."ativo" = TRUE
+ERROR - 2019-11-25 15:08:42 --> Query error: ERRO:  operador não existe: character = boolean
+LINE 4: AND "f"."ativo" = TRUE
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "email"
+FROM "funcionarios" "f"
+WHERE "f"."matricula" = '33100093'
+AND "f"."ativo" = TRUE
+ERROR - 2019-11-25 15:09:57 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:10:22 --> Query error: ERRO:  operador não existe: character = integer
+LINE 4: AND "f"."ativo" = 1
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "email"
+FROM "funcionarios" "f"
+WHERE "f"."matricula" = '33100093'
+AND "f"."ativo" = 1
+ERROR - 2019-11-25 15:11:45 --> Query error: ERRO:  relação "funcion3arios" não existe
+LINE 2: FROM "funcion3arios" "f"
+             ^ - Invalid query: SELECT "email"
+FROM "funcion3arios" "f"
+WHERE "f"."matricula" = '33100093'
+AND "f"."ativo" = TRUE
+ERROR - 2019-11-25 15:12:53 --> Query error: ERRO:  operador não existe: character = boolean
+LINE 4: AND "f"."ativo" = TRUE
+                        ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "email"
+FROM "funcionarios" "f"
+WHERE "f"."matricula" = '33100093'
+AND "f"."ativo" = TRUE
+ERROR - 2019-11-25 15:18:03 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:21:46 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 105
+ERROR - 2019-11-25 15:21:46 --> Severity: error --> Exception: Call to undefined function json_parse() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 106
+ERROR - 2019-11-25 15:22:56 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 104
+ERROR - 2019-11-25 15:22:56 --> Severity: Notice --> Undefined offset: 0 C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 105
+ERROR - 2019-11-25 15:22:56 --> Severity: error --> Exception: Call to undefined function json_parse() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 106
+ERROR - 2019-11-25 15:25:43 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:26:44 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 107
+ERROR - 2019-11-25 15:26:44 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:29:16 --> Severity: Notice --> Undefined property: Recebimento::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-11-25 15:29:16 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99
+ERROR - 2019-11-25 15:31:15 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99
+ERROR - 2019-11-25 15:35:00 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99
+ERROR - 2019-11-25 15:37:52 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99
+ERROR - 2019-11-25 15:38:57 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99
+ERROR - 2019-11-25 15:39:34 --> Severity: Notice --> Undefined property: Recebimento::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-11-25 15:39:34 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 87
+ERROR - 2019-11-25 15:39:37 --> Severity: Notice --> Undefined property: Recebimento::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-11-25 15:39:37 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 87
+ERROR - 2019-11-25 15:40:34 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99
+ERROR - 2019-11-25 15:43:04 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 15:46:58 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 87
+ERROR - 2019-11-25 15:48:46 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 99
+ERROR - 2019-11-25 15:49:30 --> Severity: error --> Exception: Call to undefined method CI_Loader::select() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 100
+ERROR - 2019-11-25 15:50:57 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 100
+ERROR - 2019-11-25 15:51:45 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 101
+ERROR - 2019-11-25 16:06:49 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 125
+ERROR - 2019-11-25 16:07:48 --> Severity: error --> Exception: Call to a member function select() on boolean C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 125
+ERROR - 2019-11-25 16:08:15 --> Severity: error --> Exception: Call to undefined method CI_Loader::db() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 124
+ERROR - 2019-11-25 16:11:36 --> Severity: Notice --> Array to string conversion C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 136
+ERROR - 2019-11-25 16:11:36 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 16:12:31 --> Severity: Warning --> json_decode() expects parameter 1 to be string, object given C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 107
+ERROR - 2019-11-25 16:12:31 --> Severity: error --> Exception: Call to undefined function json_parse() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 108
+ERROR - 2019-11-25 16:13:21 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 107
+ERROR - 2019-11-25 16:13:21 --> Severity: error --> Exception: Call to undefined function json_parse() C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 108
+ERROR - 2019-11-25 16:14:36 --> Severity: Notice --> Undefined index: email C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 106
+ERROR - 2019-11-25 16:14:36 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 16:15:34 --> Severity: Notice --> Trying to get property 'email' of non-object C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 106
+ERROR - 2019-11-25 16:15:34 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 16:16:24 --> Severity: Notice --> Trying to get property 'email' of non-object C:\wamp64\www\webpedidos\application\models\recebimento\Recebimento_model.php 106
+ERROR - 2019-11-25 16:16:24 --> Severity: error --> Exception: Call to undefined method Recebimento_model::buscar() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 55
+ERROR - 2019-11-25 16:44:01 --> Severity: error --> Exception: Call to undefined function random_string() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 56
+ERROR - 2019-11-25 16:55:52 --> Severity: error --> Exception: Call to undefined function random_string() C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 54
+ERROR - 2019-11-25 17:02:39 --> Severity: Notice --> Undefined index: token C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 69
+ERROR - 2019-11-25 17:02:39 --> Severity: Notice --> Undefined property: Recebimento::$usuario C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 89
+ERROR - 2019-11-25 17:02:39 --> Severity: error --> Exception: Call to a member function recuperar() on null C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 89
+ERROR - 2019-11-25 17:05:12 --> Severity: Notice --> Undefined index: Token_Access C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 69
+ERROR - 2019-11-25 17:05:12 --> Severity: Notice --> Undefined property: Recebimento::$usuario C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 89
+ERROR - 2019-11-25 17:05:12 --> Severity: error --> Exception: Call to a member function recuperar() on null C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 89
+ERROR - 2019-11-25 17:09:34 --> Severity: Notice --> Undefined property: Recebimento::$usuario C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 89
+ERROR - 2019-11-25 17:09:34 --> Severity: error --> Exception: Call to a member function recuperar() on null C:\wamp64\www\webpedidos\application\controllers\recebimento\Recebimento.php 89

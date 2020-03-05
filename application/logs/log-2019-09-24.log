@@ -1,0 +1,249 @@
+ERROR - 2019-09-24 09:43:32 --> Severity: Notice --> Undefined index: senha_token C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 174
+ERROR - 2019-09-24 09:43:32 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1524
+ERROR - 2019-09-24 09:43:32 --> Query error: ERRO:  erro de sintaxe em ou próximo a "WHERE"
+LINE 2: WHERE "webloginid" = 'mminchetti'
+        ^ - Invalid query: UPDATE "web_login" SET "senha" = Array
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 09:48:33 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1524
+ERROR - 2019-09-24 09:48:33 --> Query error: ERRO:  erro de sintaxe em ou próximo a "WHERE"
+LINE 2: WHERE "webloginid" = 'mminchetti'
+        ^ - Invalid query: UPDATE "web_login" SET "senha" = Array
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 09:53:10 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 107
+ERROR - 2019-09-24 09:54:18 --> Query error: ERRO:  relação "web_logi1n" não existe
+LINE 1: UPDATE "web_logi1n" SET "senha" = '09974baaf01fd922d366a5eec...
+               ^ - Invalid query: UPDATE "web_logi1n" SET "senha" = '09974baaf01fd922d366a5eec43d7435', "senhavalidade" = '2019-09-24', "senhatoken" = '0TMKBUhj4'
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 09:54:49 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "mminchetti"
+LINE 2: WHERE "webloginid" = 'mminchetti'
+                             ^ - Invalid query: UPDATE "web_login" SET "senha" = '1d815101ab0c113bc1f7eb454a170e4b', "senhavalidade" = '2019-09-24', "senhatoken" = 'f9aZsEbW0'
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 10:13:41 --> Query error: ERRO:  coluna "weblo2ginid" não existe
+LINE 2: WHERE "weblo2ginid" = 'mminchetti'
+              ^
+HINT:  Perhaps you meant to reference the column "web_login.webloginid". - Invalid query: UPDATE "web_login" SET "senha" = '4ae24e3950567cd8889319096c25371c', "senhavalidade" = '2019-09-24', "senhatoken" = 'CUOnWyPj8'
+WHERE "weblo2ginid" = 'mminchetti'
+ERROR - 2019-09-24 10:15:37 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "mminchetti"
+LINE 3: WHERE "webloginid" = 'mminchetti'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 10:18:11 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "mminchetti"
+LINE 3: WHERE "webloginid" = 'mminchetti'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 10:19:17 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "mminchetti"
+LINE 3: WHERE "webloginid" = 'mminchetti'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 10:19:41 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "mminchetti"
+LINE 3: WHERE "webloginid" = 'mminchetti'
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = 'mminchetti'
+ERROR - 2019-09-24 10:20:39 --> Query error: ERRO:  coluna "usuario" não existe
+LINE 3: WHERE "usuario" = 'mminchetti'
+              ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "usuario" = 'mminchetti'
+ERROR - 2019-09-24 10:31:41 --> Query error: ERRO:  coluna "usuario" não existe
+LINE 3: WHERE "usuario" = 'mminchetti'
+              ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "usuario" = 'mminchetti'
+ERROR - 2019-09-24 10:36:50 --> Severity: Notice --> Undefined variable: usuario C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 107
+ERROR - 2019-09-24 10:36:50 --> Severity: Notice --> Undefined variable: usuario C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 109
+ERROR - 2019-09-24 10:36:50 --> Query error: ERRO:  coluna "usuario" não existe
+LINE 3: WHERE "usuario" IS NULL
+              ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "usuario" IS NULL
+ERROR - 2019-09-24 10:38:29 --> Query error: ERRO:  coluna "usuario" não existe
+LINE 3: WHERE "usuario" = 'mminchetti'
+              ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "usuario" = 'mminchetti'
+ERROR - 2019-09-24 10:41:04 --> Query error: ERRO:  coluna "usuario" não existe
+LINE 3: WHERE "usuario" = 'mminchetti'
+              ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "usuario" = 'mminchetti'
+ERROR - 2019-09-24 10:43:15 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 683
+ERROR - 2019-09-24 10:43:15 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "webloginid" = "Array"
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = "Array"
+ERROR - 2019-09-24 10:44:44 --> Severity: error --> Exception: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 124
+ERROR - 2019-09-24 10:46:01 --> Severity: error --> Exception: syntax error, unexpected '=', expecting ',' or ')' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 124
+ERROR - 2019-09-24 10:47:18 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 683
+ERROR - 2019-09-24 10:47:18 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "webloginid" = "Array"
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = "Array"
+ERROR - 2019-09-24 10:50:24 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 683
+ERROR - 2019-09-24 10:50:24 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "webloginid" = "Array"
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = "Array"
+ERROR - 2019-09-24 10:52:00 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_query_builder.php 683
+ERROR - 2019-09-24 10:52:00 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "webloginid" = "Array"
+                             ^ - Invalid query: SELECT COUNT(*) AS "numrows"
+FROM "web_login_senhas_anteriores"
+WHERE "webloginid" = "Array"
+ERROR - 2019-09-24 10:53:04 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 10:53:04 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...riores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+ERROR - 2019-09-24 10:53:33 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 10:53:33 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...riores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+ERROR - 2019-09-24 10:56:36 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 10:56:36 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...riores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+ERROR - 2019-09-24 10:56:47 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 10:56:47 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...riores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+ERROR - 2019-09-24 10:59:16 --> Severity: error --> Exception: Call to undefined function toString() C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 135
+ERROR - 2019-09-24 11:00:51 --> Severity: error --> Exception: Call to undefined function toString() C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 109
+ERROR - 2019-09-24 11:03:42 --> Query error: ERRO:  coluna "{"webloginid":"mminchetti","senha":{"senha":"8199fee075a2397440" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":""mminchetti"",""senha"":{""senha"":""8199fee075a2397440c61252155f31ab"",""senhavalidade"":""2019-09-24"",""senhatoken"":""wo0Yc5utL""}}") VALUES ('')
+ERROR - 2019-09-24 11:05:08 --> Query error: ERRO:  coluna "{"webloginid":"mminchetti","senha":{"senha":"27b0dfb3a4f024a49e" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":""mminchetti"",""senha"":{""senha"":""27b0dfb3a4f024a49ebc1080d156ee54"",""senhavalidade"":""2019-09-24"",""senhatoken"":""JFpvQ64nb""}}") VALUES ('')
+ERROR - 2019-09-24 11:08:23 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 11:08:23 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...riores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES ('mminchetti', Array)
+ERROR - 2019-09-24 11:09:38 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 11:09:38 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 11:10:36 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"3d8b2fdd7424238f3ee451b425" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""3d8b2fdd7424238f3ee451b4253575d7"",""senhavalidade"":""2019-09-24"",""senhatoken"":""2D6dJAxay""}}") VALUES ('')
+ERROR - 2019-09-24 11:12:14 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 123
+ERROR - 2019-09-24 11:12:14 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"745e95753a6f22a3c68f311867" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""745e95753a6f22a3c68f311867578ae3"",""senhavalidade"":""2019-09-24"",""senhatoken"":""Lya9mYTR5""}}") VALUES ('')
+ERROR - 2019-09-24 11:13:05 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"31954c1ff743a860898b4783e5" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""31954c1ff743a860898b4783e55e8ebc"",""senhavalidade"":""2019-09-24"",""senhatoken"":""t4VOfw5mD""}}") VALUES ('')
+ERROR - 2019-09-24 11:14:14 --> Severity: Warning --> Illegal string offset 'webloginid' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 122
+ERROR - 2019-09-24 11:14:14 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"8964425c3d10080f491fc56c70" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""8964425c3d10080f491fc56c70a0296b"",""senhavalidade"":""2019-09-24"",""senhatoken"":""kvCKQbw1H""}}") VALUES ('')
+ERROR - 2019-09-24 11:14:42 --> Severity: Warning --> Illegal string offset 'webloginid' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 122
+ERROR - 2019-09-24 11:14:43 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"b3dbdb3f59d3a079d98b899c2b" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""b3dbdb3f59d3a079d98b899c2be5a13d"",""senhavalidade"":""2019-09-24"",""senhatoken"":""saVkC5D0P""}}") VALUES ('')
+ERROR - 2019-09-24 11:16:39 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 123
+ERROR - 2019-09-24 11:16:39 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"19723cd395b59effd53d9fa12a" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""19723cd395b59effd53d9fa12a2c8658"",""senhavalidade"":""2019-09-24"",""senhatoken"":""ShMC1U93F""}}") VALUES ('')
+ERROR - 2019-09-24 11:24:12 --> Severity: Warning --> Illegal string offset 'webloginid' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 123
+ERROR - 2019-09-24 11:24:12 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"0b993318ff85027845a716a26d" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""0b993318ff85027845a716a26dce9719"",""senhavalidade"":""2019-09-24"",""senhatoken"":""aY1JxCilN""}}") VALUES ('')
+ERROR - 2019-09-24 11:28:09 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"a52d10dcc6b739b3158eaba374" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""a52d10dcc6b739b3158eaba3742017ec"",""senhavalidade"":""2019-09-24"",""senhatoken"":""gFJ2T4Ubn""}}") VALUES ('')
+ERROR - 2019-09-24 13:14:29 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:14:29 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 13:25:48 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:25:48 --> Query error: ERRO:  erro de sintaxe em ou próximo a "0"
+LINE 1: INSERT INTO "web_login_senhas_anteriores" (0) VALUES (Array)
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" (0) VALUES (Array)
+ERROR - 2019-09-24 13:30:39 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"3c088aca157bddba49d27fda6d" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""3c088aca157bddba49d27fda6d6567bf"",""senhavalidade"":""2019-09-24"",""senhatoken"":""gKCy9NWL5""}}") VALUES ('')
+ERROR - 2019-09-24 13:33:51 --> Query error: ERRO:  coluna "{"webloginid":2191,"senha":{"senha":"217008e39a1ceed47ea7965660" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("{""webloginid"":2191,""senha"":{""senha"":""217008e39a1ceed47ea796566095fc02"",""senhavalidade"":""2019-09-24"",""senhatoken"":""yLPaGYAo7""}}") VALUES ('')
+ERROR - 2019-09-24 13:35:06 --> Severity: Warning --> Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 116
+ERROR - 2019-09-24 13:35:06 --> Severity: error --> Exception: Call to undefined function stringfy() C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 116
+ERROR - 2019-09-24 13:36:01 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 116
+ERROR - 2019-09-24 13:38:44 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:38:44 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 13:44:38 --> Severity: Notice --> Trying to get property 'webloginid' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 148
+ERROR - 2019-09-24 13:44:38 --> Severity: Notice --> Trying to get property 'senha' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-09-24 13:44:38 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:44:38 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 13:47:01 --> Severity: Notice --> Trying to get property 'senha' of non-object C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-09-24 13:47:01 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:47:01 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 13:47:25 --> Severity: error --> Exception: syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-09-24 13:47:41 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:47:41 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 13:49:27 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:49:27 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 13:51:12 --> Severity: Notice --> Array to string conversion C:\wamp64\www\system\database\DB_driver.php 1476
+ERROR - 2019-09-24 13:51:12 --> Query error: ERRO:  erro de sintaxe em ou próximo a ")"
+LINE 1: ...has_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+                                                                      ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, Array)
+ERROR - 2019-09-24 13:53:38 --> Query error: ERRO:  coluna "weblogin" da relação "web_login_senhas_anteriores" não existe
+LINE 1: INSERT INTO "web_login_senhas_anteriores" ("weblogin", "senh...
+                                                   ^ - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("weblogin", "senha") VALUES (2191, '{"senha":"d1496a4e35509144b9a1aefd6fcfe97f","senhavalidade":"2019-09-24","senhatoken":"f56NvUKIF"}')
+ERROR - 2019-09-24 13:54:47 --> Query error: ERRO:  valor é muito longo para tipo character varying(32) - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, '{"senha":"f2eede22914bb9364e689669b291bd6c","senhavalidade":"2019-09-24","senhatoken":"jv0lwSUDB"}')
+ERROR - 2019-09-24 14:01:31 --> Query error: ERRO:  valor é muito longo para tipo character varying(64) - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, '{"senha":"9fbc3cf20152614bb2d683a8734dccff","senhavalidade":"2019-09-24","senhatoken":"FHIJjyVaE"}')
+ERROR - 2019-09-24 14:02:30 --> Query error: ERRO:  valor é muito longo para tipo character varying(64) - Invalid query: INSERT INTO "web_login_senhas_anteriores" ("webloginid", "senha") VALUES (2191, '{"senha":"79d902aa5e743a3fe39463172350be63","senhavalidade":"2019-09-24","senhatoken":"mwUtXbzgo"}')
+ERROR - 2019-09-24 14:05:36 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2019-09-24 14:06:39 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2019-09-24 14:07:08 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2019-09-24 14:07:45 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2019-09-24 14:11:28 --> SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2019-09-24 14:40:28 --> Severity: Warning --> Use of undefined constant autenticado - assumed 'autenticado' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 43
+ERROR - 2019-09-24 14:42:33 --> Severity: Warning --> Use of undefined constant autenticado - assumed 'autenticado' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 43
+ERROR - 2019-09-24 14:43:18 --> Severity: Warning --> Use of undefined constant autenticado - assumed 'autenticado' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 43
+ERROR - 2019-09-24 14:43:26 --> Severity: Warning --> Use of undefined constant autenticado - assumed 'autenticado' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 43
+ERROR - 2019-09-24 14:43:28 --> Severity: Warning --> Use of undefined constant autenticado - assumed 'autenticado' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 43
+ERROR - 2019-09-24 14:47:38 --> Severity: Warning --> Use of undefined constant autenticado - assumed 'autenticado' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 43
+ERROR - 2019-09-24 14:51:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:51:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:51:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:51:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:51:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:51:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:51:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:51:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:52:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:52:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:53:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:55:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:55:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:57:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 14:57:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 15:00:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 15:00:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-24 20:31:36 --> 404 Page Not Found: Assets/js

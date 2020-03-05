@@ -1,0 +1,257 @@
+ERROR - 2018-10-01 10:35:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 10:35:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 10:42:37 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 10:42:38 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 10:42:38 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 10:42:38 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 10:42:38 --> Query error: ERRO:  inserção ou atualização em tabela "pedidos" viola restrição de chave estrangeira "pedidos_id_cc_pkey"
+DETAIL:  Chave (id_depto, id_centro_custo)=(44.013.159/0031-31, 100) não está presente na tabela "setor". - Invalid query: INSERT INTO "pedidos" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-01',NULL,'2018-10-01 10:42:37','LOJA',1,'100','44.013.159/0031-31','44.013.159/0031-31','71.340.830/0001-06','71.340.830/0001-06','33021887','0','0',49673,'OBS-MINCHETTI')
+ERROR - 2018-10-01 12:11:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 12:11:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 12:11:13 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 12:11:13 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 12:11:13 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 12:11:13 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 13:42:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 13:42:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 13:42:53 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 13:42:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 13:42:53 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 13:42:53 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 14:43:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 14:43:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 14:45:12 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 14:45:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 14:45:12 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 14:45:12 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 15:03:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:03:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:06:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:06:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:08:05 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:08:05 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:08:05 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 15:08:05 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 15:09:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:09:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:10:06 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:10:06 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:10:06 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 15:10:06 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 15:11:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:11:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:11:17 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:11:17 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:11:17 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 15:11:17 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 15:12:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:12:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:13:02 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:13:02 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:13:02 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 15:13:02 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 15:13:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:13:53 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:14:04 --> Severity: error --> Exception: syntax error, unexpected '$produtos' (T_VARIABLE) C:\laragon\www\webpedidos\application\models\pedido\Requisicao_model.php 44
+ERROR - 2018-10-01 15:14:48 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:14:48 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:14:48 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 15:14:48 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 15:38:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:38:44 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:38:53 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:38:53 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:38:53 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 15:38:53 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 427
+ERROR - 2018-10-01 15:38:53 --> Query error: ERRO:  coluna "aprovar" da relação "pedidos_itens" não existe
+LINE 1: INSERT INTO "pedidos_itens" ("aprovar", "data_emissao", "dat...
+                                     ^ - Invalid query: INSERT INTO "pedidos_itens" ("aprovar", "data_emissao", "data_fechado", "dh_aprovacao", "entrega_local", "entrega_turno", "id_centro_custo", "id_depto", "key_clientes", "key_clientes_aprovador", "key_clientes_solicitante", "key_funcionarios", "key_funcionarios_aprovador", "key_funcionarios_solicitante", "numero", "obs") VALUES ('1','2018-10-01',NULL,'2018-10-01 15:38:53','LOJA',1,'100','44.013.159/0031-31','44.013.159/0031-31','71.340.830/0001-06','71.340.830/0001-06','33021887','0','0',49682,'OBS-MINCHETTI')
+ERROR - 2018-10-01 15:45:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:45:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:50:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:50:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:50:51 --> Severity: Notice --> Undefined property: Template::$produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:50:51 --> Severity: error --> Exception: Call to a member function itensTemplate() on null C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:52:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:52:02 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:54:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:54:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:54:49 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:54:49 --> Severity: Warning --> Invalid argument supplied for foreach() C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 367
+ERROR - 2018-10-01 15:54:49 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 379
+ERROR - 2018-10-01 15:54:49 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 425
+ERROR - 2018-10-01 15:56:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:56:10 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:56:19 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 15:56:19 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 15:58:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 15:58:08 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:01:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:01:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:01:35 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:01:35 --> Query error: ERRO:  relação "template_funcionarios_itens6" não existe
+LINE 2: FROM "template_funcionarios_itens6"
+             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens6"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:06:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:06:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:07:30 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:07:30 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:16:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:16:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:16:36 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:16:36 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:25:38 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:25:38 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:26:18 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 119
+ERROR - 2018-10-01 16:26:18 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:26:18 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:30:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:30:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:30:51 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 365
+ERROR - 2018-10-01 16:30:51 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 119
+ERROR - 2018-10-01 16:30:51 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:30:51 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:31:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:31:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:31:40 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 378
+ERROR - 2018-10-01 16:31:40 --> Severity: Notice --> Undefined variable: produto C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 424
+ERROR - 2018-10-01 16:34:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:34:17 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:35:13 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 119
+ERROR - 2018-10-01 16:35:13 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:35:13 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:36:52 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:36:52 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:37:06 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:37:06 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:49:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:49:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 16:50:11 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 123
+ERROR - 2018-10-01 16:50:11 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:50:11 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 16:50:59 --> Severity: Notice --> Undefined offset: 2 C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 123
+ERROR - 2018-10-01 16:50:59 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 16:50:59 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:00:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:00:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:00:11 --> Severity: error --> Exception: syntax error, unexpected ';', expecting ',' or ')' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 125
+ERROR - 2018-10-01 17:00:57 --> Severity: Compile Error --> Cannot use [] for reading C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 123
+ERROR - 2018-10-01 17:01:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:01:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:01:27 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 123
+ERROR - 2018-10-01 17:01:27 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 123
+ERROR - 2018-10-01 17:01:27 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:01:27 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:03:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:03:41 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:03:49 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 124
+ERROR - 2018-10-01 17:03:49 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:03:49 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:10:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:10:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:10:31 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 124
+ERROR - 2018-10-01 17:10:31 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:10:31 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:12:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:12:01 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:12:08 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 124
+ERROR - 2018-10-01 17:12:08 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 124
+ERROR - 2018-10-01 17:12:08 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:12:08 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:13:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:13:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:13:07 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 124
+ERROR - 2018-10-01 17:13:07 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:13:07 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:14:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:14:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:14:20 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 124
+ERROR - 2018-10-01 17:14:20 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:14:20 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:15:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:15:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:17:40 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 126
+ERROR - 2018-10-01 17:17:40 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:17:40 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:18:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:18:28 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:20:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:20:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:20:50 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 126
+ERROR - 2018-10-01 17:20:50 --> Severity: Notice --> Array to string conversion C:\laragon\www\system\database\DB_query_builder.php 683
+ERROR - 2018-10-01 17:20:50 --> Query error: ERRO:  coluna "Array" não existe
+LINE 3: WHERE "key_templates_funcionarios" = "Array"
+                                             ^ - Invalid query: SELECT "key_produtos" AS "codigo", "quantidade", "key_partnumber" AS "partnumber", (SELECT preco FROM produtos WHERE codigo = key_produtos LIMIT 1) AS preco
+FROM "template_funcionarios_itens"
+WHERE "key_templates_funcionarios" = "Array"
+ERROR - 2018-10-01 17:21:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:21:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-10-01 17:21:36 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 126
+ERROR - 2018-10-01 17:21:36 --> Severity: Notice --> Use of undefined constant id - assumed 'id' C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 130
+ERROR - 2018-10-01 17:21:36 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\models\pedido\Requisicao_model.php 76

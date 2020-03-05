@@ -1,0 +1,89 @@
+ERROR - 2019-09-02 09:19:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 09:19:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 09:21:59 --> Severity: Notice --> Undefined property: Usuario::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-09-02 09:21:59 --> Severity: error --> Exception: Call to a member function trans_start() on null C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 197
+ERROR - 2019-09-02 09:22:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 09:22:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 09:22:54 --> Severity: Notice --> Undefined property: Usuario::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-09-02 09:22:54 --> Severity: error --> Exception: Call to a member function trans_start() on null C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 197
+ERROR - 2019-09-02 09:24:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 09:24:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 09:26:52 --> Query error: ERRO:  valor nulo na coluna "funcionariofilialid" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (2075, 2, null, 33021887, 3, uhuhuhuhhuhu, null, null, null, minchettimarcello@gmail.com, t, 2017-09-29, 2017-09-29). - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "email", "ativo") VALUES (2, '33021887', '3', 'uhuhuhuhhuhu', 'minchettimarcello@gmail.com', 'true')
+ERROR - 2019-09-02 09:26:57 --> Query error: ERRO:  valor nulo na coluna "funcionariofilialid" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (2076, 2, null, 33021887, 3, uhuhuhuhhuhu, null, null, null, minchettimarcello@gmail.com, t, 2017-09-29, 2017-09-29). - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "email", "ativo") VALUES (2, '33021887', '3', 'uhuhuhuhhuhu', 'minchettimarcello@gmail.com', 'true')
+ERROR - 2019-09-02 10:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:15:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:15:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:20:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:20:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:21:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:21:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:21:36 --> Severity: error --> Exception: syntax error, unexpected '$data' (T_VARIABLE) C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 178
+ERROR - 2019-09-02 10:22:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:22:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:22:15 --> Query error: ERRO:  valor nulo na coluna "senha" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (2077, 2, 33021887, 33021887, 3, dddddddd, null, null, null, minchettimarcello@gmail.com, t, 2017-09-29, 2017-09-29). - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "email", "ativo") VALUES (2, '33021887', '33021887', '3', 'dddddddd', 'minchettimarcello@gmail.com', 'true')
+ERROR - 2019-09-02 10:26:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:26:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:44:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:44:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:45:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:45:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:47:22 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "ALEXXX"
+LINE 1: ...ail", "ativo") VALUES (2, '33031817', '33031817', 'ALEXXX', ...
+                                                             ^ - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33031817', '33031817', 'ALEXXX', '44.013.159/0031-31', '33031817', '02/09/2020', '2', 'true')
+ERROR - 2019-09-02 10:48:33 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "alex"
+LINE 1: ...ail", "ativo") VALUES (2, '33031817', '33031817', 'alex', '4...
+                                                             ^ - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33031817', '33031817', 'alex', '44.013.159/0031-31', '33031817', '02/09/2020', '2', 'true')
+ERROR - 2019-09-02 10:48:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:48:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:49:10 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "abbe"
+LINE 1: ...ail", "ativo") VALUES (2, '33021887', '33021887', 'abbe', '4...
+                                                             ^ - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33021887', '33021887', 'abbe', '44.013.159/0031-31', '33021887', '02/09/2020', '3', 'true')
+ERROR - 2019-09-02 10:50:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:50:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:50:50 --> Query error: ERRO:  sintaxe de entrada é inválida para integer: "ddddddsfdcddd"
+LINE 1: ...ail", "ativo") VALUES (2, '33100055', '33100055', 'ddddddsfd...
+                                                             ^ - Invalid query: INSERT INTO "web_login" ("empresasiteid", "funcionariofilialid", "funcionariofilialmatricula", "grupoacessoid", "usuario", "senha", "senhavalidade", "email", "ativo") VALUES (2, '33100055', '33100055', 'ddddddsfdcddd', '44.013.159/0001-16', '33100055', '02/09/2020', '3', 'true')
+ERROR - 2019-09-02 10:53:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 10:53:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:09:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:09:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:19:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:19:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:44:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 11:44:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:10:14 --> Severity: Notice --> Undefined variable: strtoupper C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 42
+ERROR - 2019-09-02 15:10:14 --> Severity: error --> Exception: Function name must be a string C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 42
+ERROR - 2019-09-02 15:10:23 --> Severity: Notice --> Undefined variable: strtoupper C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 42
+ERROR - 2019-09-02 15:10:23 --> Severity: error --> Exception: Function name must be a string C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 42
+ERROR - 2019-09-02 15:11:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:11:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:13:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:13:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:15:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:15:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:17:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:18:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:18:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:22:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:22:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:24:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:24:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:26:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:26:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:26:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:26:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:26:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-02 15:26:14 --> 404 Page Not Found: Assets/js

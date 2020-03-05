@@ -1,0 +1,256 @@
+ERROR - 2018-09-11 10:42:28 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 10:42:28 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 10:42:28 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 10:42:28 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 11:19:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 11:19:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 11:19:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 11:19:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 11:19:31 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-09-11 11:27:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 11:27:09 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 11:47:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 11:47:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 11:51:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 11:51:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:17:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:17:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:17:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:17:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:17:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:17:56 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:19:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:19:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:19:39 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-09-11 13:19:51 --> Query error: ERRO:  coluna tf.key_clientes não existe
+LINE 3: ... "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_cli...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "f.key_clientes". - Invalid query: SELECT "tf"."codigo", "tf"."key_clientes", "f"."nome", "tf"."key_funcionarios", "s"."nome" AS "setor"
+FROM "templates_funcionarios" "tf"
+JOIN "funcionarios" "f" ON ("f"."matricula" = "tf"."key_funcionarios" AND "f"."key_clientes" = tf.key_clientes)
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tf"."key_templates" =0
+ORDER BY "f"."nome" ASC
+ERROR - 2018-09-11 13:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:30:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:30:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:31:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:31:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:32:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:32:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:32:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:32:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 13:33:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:33:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:36:52 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:36:52 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:39:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:39:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:54:13 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:54:13 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:55:13 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 13:55:13 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:00:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:00:22 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:03:59 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:03:59 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:06:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:06:13 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:08:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:08:33 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:09:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:09:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:09:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:09:18 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:12:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:12:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:21:58 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:21:58 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:22:14 --> Severity: Notice --> Undefined property: stdClass::$key_ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:56 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:22:57 --> Severity: Notice --> Undefined property: stdClass::$ghe C:\laragon\www\webpedidos\application\controllers\setor\Setor.php 17
+ERROR - 2018-09-11 14:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:30:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:30:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:31:50 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:31:50 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:34:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:34:40 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:36:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:36:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:36:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:36:00 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:37:21 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:37:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:37:45 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:38:31 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:38:31 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:38:31 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:38:31 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:49:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:49:14 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:51:30 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:51:30 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:51:30 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:51:30 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 14:51:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 14:51:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:23:25 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 15:30:22 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 15:38:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:38:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:39:16 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 15:40:24 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:40:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:41:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:41:36 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:41:47 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 15:43:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:43:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:48:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:48:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:48:32 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 15:49:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:49:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:49:44 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 15:52:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:52:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:53:46 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 15:53:46 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 15:53:47 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 15:53:47 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 15:54:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:54:42 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 15:55:09 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 16:11:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:11:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:12:50 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 16:13:11 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:13:11 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:13:24 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-09-11 16:13:37 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 16:14:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:14:43 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:15:03 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 16:16:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:16:00 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:16:09 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 16:17:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:17:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:17:44 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('44.013.159/0031-31', '75008280')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-09-11 16:19:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:19:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:22:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:22:35 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:25:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:25:03 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:26:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:26:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:27:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:27:47 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:30:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:30:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:37:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:37:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:37:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:37:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:38:25 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                 ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (16, '0', '71.340.830/0001-06', 'ASDASD', 'ASDASD')
+ERROR - 2018-09-11 16:38:44 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                 ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (17, '0', '71.340.830/0001-06', 'ASDASD', 'ASDASD')
+ERROR - 2018-09-11 16:38:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:38:54 --> 404 Page Not Found: Assets/js
+ERROR - 2018-09-11 16:39:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:39:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:39:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:39:32 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 16:40:06 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                 ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (18, '0', '71.340.830/0001-06', 'TESTETEMP', 'AAA')
+ERROR - 2018-09-11 17:10:02 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 17:10:02 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 17:10:02 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 17:10:03 --> 404 Page Not Found: Assets/images
+ERROR - 2018-09-11 17:10:13 --> Query error: ERRO:  coluna "key_funcionarios" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                           ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (19, '0', '71.340.830/0001-06', 'TESTETEMP', 'AAA')
+ERROR - 2018-09-11 17:11:10 --> Query error: ERRO:  coluna "nome" da relação "templates" não existe
+LINE 1: ...s" ("codigo", "key_funcionarios", "key_clientes", "nome", "o...
+                                                             ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (20, '0', '71.340.830/0001-06', 'TESTETEMP', 'AAA')
+ERROR - 2018-09-11 17:11:25 --> Query error: ERRO:  valor nulo na coluna "numero" viola a restrição não-nula
+DETAIL:  Registro que falhou contém (null, null, 71.340.830/0001-06, 2018-09-11, null, null, AAA, null, 21, 0, TESTETEMP). - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (21, '0', '71.340.830/0001-06', 'TESTETEMP', 'AAA')

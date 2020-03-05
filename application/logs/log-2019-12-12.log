@@ -1,0 +1,48 @@
+ERROR - 2019-12-12 15:18:09 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-12 15:19:36 --> Query error: ERRO:  relação "vendas" não existe
+LINE 2: FROM "vendas" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "vendas" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-12 15:28:22 --> Query error: ERRO:  relação "venda2s" não existe
+LINE 2: FROM "venda2s" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "venda2s" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-12 15:28:40 --> Query error: ERRO:  relação "venda2s" não existe
+LINE 2: FROM "venda2s" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "venda2s" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-12 15:36:10 --> Query error: ERRO:  relação "venda2s" não existe
+LINE 2: FROM "venda2s" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "venda2s" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-12 15:37:18 --> Query error: ERRO:  relação "venda2s" não existe
+LINE 2: FROM "venda2s" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "venda2s" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-12 15:42:03 --> Query error: ERRO:  relação "venda2s" não existe
+LINE 2: FROM "venda2s" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "venda2s" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'
+ERROR - 2019-12-12 15:42:08 --> Query error: ERRO:  relação "venda2s" não existe
+LINE 2: FROM "venda2s" "v"
+             ^ - Invalid query: SELECT "rm", "data_emissao", "recebido"
+FROM "venda2s" "v"
+WHERE "v"."key_funcionarios" = '33100093'
+AND "v"."key_clientes" = '44.013.159%2F0001-16'

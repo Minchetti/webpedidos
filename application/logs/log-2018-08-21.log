@@ -1,0 +1,34 @@
+ERROR - 2018-08-21 09:40:48 --> Query error: ERRO:  coluna tm.key_funcionarios não existe
+LINE 3: JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funci...
+                                                     ^ - Invalid query: SELECT "tm"."codigo", "f"."nome" AS "funcionario", "s"."nome" AS "setor", "s"."id_centro_custo" AS "cc", "tm"."codigo", "tm"."nome" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+JOIN "funcionarios" "f" ON "f"."matricula" = "tm"."key_funcionarios"
+JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "f"."matricula" = '0'
+ORDER BY "tm"."codigo" DESC
+ERROR - 2018-08-21 09:47:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-21 09:47:26 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-21 09:56:37 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('29.884.476/0001-14', ''...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('29.884.476/0001-14', '')
+WHERE "descricao" LIKE  '1%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-21 09:57:18 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 59
+ERROR - 2018-08-21 09:57:18 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 59
+ERROR - 2018-08-21 09:57:19 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                 ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (16, '0', '', 'TESTE', 'TEMPLATE CRIADO PARA TESTE')
+ERROR - 2018-08-21 09:57:35 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 59
+ERROR - 2018-08-21 09:57:35 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Template.php 59
+ERROR - 2018-08-21 09:57:35 --> Query error: ERRO:  coluna "codigo" da relação "templates" não existe
+LINE 1: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_...
+                                 ^ - Invalid query: INSERT INTO "templates" ("codigo", "key_funcionarios", "key_clientes", "nome", "obs") VALUES (17, '0', '', 'TESTE', 'TEMPLATE CRIADO PARA TESTE')
+ERROR - 2018-08-21 10:59:52 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0008-92', 'B...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0008-92', 'BH00001')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10

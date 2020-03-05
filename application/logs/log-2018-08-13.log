@@ -1,0 +1,129 @@
+ERROR - 2018-08-13 09:45:11 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 09:45:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 09:45:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 10:22:11 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 10:22:12 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 10:40:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 10:40:18 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 10:40:41 --> Severity: Notice --> Use of undefined constant console - assumed 'console' C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 10:40:41 --> Severity: Warning --> log() expects parameter 1 to be float, string given C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 10:40:41 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 11:03:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:03:37 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:06:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:06:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:07:51 --> Severity: Notice --> Use of undefined constant console - assumed 'console' C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 11:07:51 --> Severity: Warning --> log() expects parameter 1 to be float, string given C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 11:07:51 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 11:14:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:14:07 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:14:17 --> Severity: Notice --> Use of undefined constant console - assumed 'console' C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 11:14:17 --> Severity: Warning --> log() expects parameter 1 to be float, string given C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 11:14:17 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0065-80', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0065-80', 'JOIN00001')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 11:20:44 --> Severity: Notice --> Use of undefined constant console - assumed 'console' C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 11:20:44 --> Severity: Warning --> log() expects parameter 1 to be float, string given C:\laragon\www\webpedidos\application\controllers\produto\Produto.php 9
+ERROR - 2018-08-13 11:20:44 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('', '')
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('', '')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-13 11:30:23 --> 404 Page Not Found: produto/Permitidos/index
+ERROR - 2018-08-13 11:40:05 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:40:06 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:51:52 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('', '')
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('', '')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10 OFFSET -10
+ERROR - 2018-08-13 11:52:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:52:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 11:52:13 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 14:15:58 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:15:58 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:16:06 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 14:23:20 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:23:21 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:26:11 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 14:47:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:47:55 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:48:14 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 14:48:45 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'C...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0077-14', 'CAB00004')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 14:49:56 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:49:57 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:50:18 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 14:52:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:52:25 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-13 14:53:00 --> Query error: ERRO:  função fc_web_produtos_permitidos_ghe(unknown, unknown) não existe
+LINE 2: FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'J...
+             ^
+HINT:  Nenhuma função corresponde com o nome e os tipos de argumentos informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos_ghe('44.013.159/0031-31', 'JUN100038')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2018-08-13 14:53:00 --> Severity: error --> Exception: Call to a member function result() on boolean C:\laragon\www\webpedidos\application\models\produto\Produto_model.php 33
+ERROR - 2018-08-13 14:58:56 --> 404 Page Not Found: Seimens/index
+ERROR - 2018-08-13 14:59:06 --> 404 Page Not Found: Siemens/index

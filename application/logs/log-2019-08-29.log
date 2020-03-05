@@ -1,0 +1,160 @@
+ERROR - 2019-08-29 10:52:36 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 109
+ERROR - 2019-08-29 14:59:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 14:59:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 14:59:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 14:59:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:05:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:06:09 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-08-29 15:06:09 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo") VALUES (NULL, '2', 'siemens123', TRUE)
+ERROR - 2019-08-29 15:11:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:11:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:25:22 --> Severity: error --> Exception: syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 60
+ERROR - 2019-08-29 15:26:21 --> Severity: error --> Exception: syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 60
+ERROR - 2019-08-29 15:26:40 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 60
+ERROR - 2019-08-29 15:26:41 --> Severity: error --> Exception: syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 60
+ERROR - 2019-08-29 15:26:50 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:27:10 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:27:10 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:27:11 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:27:34 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:28:18 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:28:18 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:28:19 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:28:19 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:28:19 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 116
+ERROR - 2019-08-29 15:29:54 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 125
+ERROR - 2019-08-29 15:30:11 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 125
+ERROR - 2019-08-29 15:30:14 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 125
+ERROR - 2019-08-29 15:30:19 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 125
+ERROR - 2019-08-29 15:32:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:32:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:32:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:32:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:30 --> Severity: Notice --> Undefined variable: tpadmi C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 73
+ERROR - 2019-08-29 15:33:31 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-08-29 15:33:31 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 15:33:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:33:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:34:00 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-08-29 15:34:00 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 15:43:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:43:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:43:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:43:06 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:43:24 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-08-29 15:43:24 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 15:47:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:47:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:47:50 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 149
+ERROR - 2019-08-29 15:47:50 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 15:59:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 15:59:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:00:46 --> Severity: Notice --> Undefined property: Usuario::$grupo_acesso C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:00:46 --> Severity: Notice --> Undefined property: Usuario::$grupo_acesso C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 136
+ERROR - 2019-08-29 16:00:46 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:00:46 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:04:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:04:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:04:40 --> Severity: Notice --> Undefined property: Usuario::$grupo_acesso C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:04:40 --> Severity: Notice --> Undefined property: Usuario::$grupo_acesso C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 136
+ERROR - 2019-08-29 16:04:40 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:04:40 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:04:40 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php:137) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-08-29 16:05:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:05:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:05:12 --> Severity: Notice --> Undefined property: Usuario::$grupo_acesso C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:05:12 --> Severity: Notice --> Undefined property: Usuario::$grupo_acesso C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 137
+ERROR - 2019-08-29 16:05:12 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:05:12 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:05:12 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php:139) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-08-29 16:11:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:11:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:11:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:11:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:15:54 --> Severity: Notice --> Undefined variable: grupo_acesso C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 135
+ERROR - 2019-08-29 16:15:54 --> Severity: Notice --> Undefined property: Usuario::$ C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:15:54 --> Severity: Notice --> Undefined variable: grupo_acesso C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 136
+ERROR - 2019-08-29 16:15:54 --> Severity: Notice --> Undefined property: Usuario::$ C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:15:54 --> Severity: Notice --> Undefined property: Usuario::$grupo_acesso C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 138
+ERROR - 2019-08-29 16:15:54 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:15:54 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:15:54 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php:140) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-08-29 16:16:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:16:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:17:08 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:17:08 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:20:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:20:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:20:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:20:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:20:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:20:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:21:10 --> Severity: Notice --> Undefined property: Usuario::$private C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:21:10 --> Severity: Notice --> Undefined property: Usuario::$nome C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:21:10 --> Severity: Notice --> Undefined property: Usuario::$private C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:21:10 --> Severity: Notice --> Trying to get property 'nome' of non-object C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 141
+ERROR - 2019-08-29 16:21:10 --> Severity: Notice --> Undefined property: Usuario::$Usuario_model C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-29 16:21:10 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:21:10 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:21:11 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\wamp64\www\system\core\Exceptions.php:271) C:\wamp64\www\system\core\Common.php 570
+ERROR - 2019-08-29 16:42:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:42:24 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:42:45 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:42:45 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:43:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:43:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:43:21 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:43:21 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:44:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:44:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:44:24 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:44:24 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')
+ERROR - 2019-08-29 16:47:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:47:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:47:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:47:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-29 16:48:23 --> Severity: Notice --> Undefined variable: mensagem C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 150
+ERROR - 2019-08-29 16:48:23 --> Query error: ERRO:  relação "usuario" não existe
+LINE 1: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha"...
+                    ^ - Invalid query: INSERT INTO "usuario" ("primacesso", "grupo_acesso", "senha", "ativo", "key_clientes") VALUES (NULL, '2', 'siemens123', TRUE, '')

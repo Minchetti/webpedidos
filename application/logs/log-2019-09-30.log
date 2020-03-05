@@ -1,0 +1,97 @@
+ERROR - 2019-09-30 00:04:20 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 235
+ERROR - 2019-09-30 00:04:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 00:04:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 00:11:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 00:11:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 00:11:48 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 235
+ERROR - 2019-09-30 11:06:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 11:06:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 13:27:30 --> Severity: Notice --> Undefined property: Relatorio::$db C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-09-30 13:27:31 --> Severity: error --> Exception: Call to a member function distinct() on null C:\wamp64\www\webpedidos\application\models\relatorio\relatorio_model.php 159
+ERROR - 2019-09-30 14:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 14:54:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:44:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:47:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:47:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:47:59 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;smtp.example.com&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 231
+ERROR - 2019-09-30 15:51:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:51:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:51:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:51:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 15:52:04 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 231
+ERROR - 2019-09-30 16:11:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:11:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:12:01 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;smtp.example.com&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 231
+ERROR - 2019-09-30 16:16:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:16:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:17:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:17:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:17:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:17:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:17:52 --> Severity: Warning --> mail(): Failed to connect to mailserver at &quot;smtp.example.com&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 244
+ERROR - 2019-09-30 16:19:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:19:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:19:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:19:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:19:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:19:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:20:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:20:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:20:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:20:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:20:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:20:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:20:49 --> Severity: Warning --> mail(): SMTP server response: 530 5.7.0 Must issue a STARTTLS command first. z46sm8335403qth.62 - gsmtp C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 244
+ERROR - 2019-09-30 16:40:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:40:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:40:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:40:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 16:40:33 --> Severity: Warning --> mail(): SMTP server response: 530 5.7.0 Must issue a STARTTLS command first. v139sm6359723qkb.53 - gsmtp C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 244
+ERROR - 2019-09-30 20:55:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 20:55:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 20:55:31 --> Severity: error --> Exception: Class 'Mailer' not found C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 166
+ERROR - 2019-09-30 21:09:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:09:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:09:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:09:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:10:11 --> Severity: Warning --> require(PHPMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 155
+ERROR - 2019-09-30 21:10:11 --> Severity: Compile Error --> require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 155
+ERROR - 2019-09-30 21:12:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:12:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:12:46 --> Severity: Warning --> require(vendor/phpmailer/phpmailer/phpMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 155
+ERROR - 2019-09-30 21:12:46 --> Severity: Compile Error --> require(): Failed opening required 'vendor/phpmailer/phpmailer/phpMailerAutoload.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 155
+ERROR - 2019-09-30 21:19:39 --> Severity: Warning --> require(vendor/phpmailer/phpmailer/phpMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 4
+ERROR - 2019-09-30 21:19:39 --> Severity: Compile Error --> require(): Failed opening required 'vendor/phpmailer/phpmailer/phpMailerAutoload.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 4
+ERROR - 2019-09-30 21:21:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:21:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:21:35 --> Severity: Warning --> require(../../vendor/phpmailer/phpmailer/phpMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 155
+ERROR - 2019-09-30 21:21:35 --> Severity: Compile Error --> require(): Failed opening required '../../vendor/phpmailer/phpmailer/phpMailerAutoload.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 155
+ERROR - 2019-09-30 21:33:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:33:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:33:41 --> Severity: error --> Exception: Class 'Mailer' not found C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 166
+ERROR - 2019-09-30 21:35:27 --> Severity: error --> Exception: syntax error, unexpected ')' C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 167
+ERROR - 2019-09-30 21:35:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:35:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:46:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:46:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:59:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 21:59:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 22:01:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 22:01:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 22:02:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 22:02:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-09-30 22:29:49 --> Severity: Warning --> require(phpmailer/phpMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 201
+ERROR - 2019-09-30 22:29:50 --> Severity: Compile Error --> require(): Failed opening required 'phpmailer/phpMailerAutoload.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 201
+ERROR - 2019-09-30 22:32:47 --> Severity: Warning --> require(../phpmailer/phpMailerAutoload.php): failed to open stream: No such file or directory C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 201
+ERROR - 2019-09-30 22:32:47 --> Severity: Compile Error --> require(): Failed opening required '../phpmailer/phpMailerAutoload.php' (include_path='.;C:\php\pear') C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 201
+ERROR - 2019-09-30 22:33:55 --> Severity: Notice --> Undefined variable: nome C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 227
+ERROR - 2019-09-30 22:33:55 --> Severity: Notice --> Undefined variable: nome C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 231
+ERROR - 2019-09-30 22:37:53 --> Severity: Notice --> Undefined variable: nome C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 227
+ERROR - 2019-09-30 22:37:53 --> Severity: Notice --> Undefined variable: nome C:\wamp64\www\webpedidos\application\controllers\Autenticacao.php 231

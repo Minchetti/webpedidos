@@ -1,0 +1,106 @@
+ERROR - 2018-08-30 14:09:14 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:09:14 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:09:14 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:09:14 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:09:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:09:30 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:09:39 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:09:39 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:09:39 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:09:39 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:11:27 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:11:27 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:18:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:18:04 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:18:20 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:18:20 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:18:20 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:18:20 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:18:27 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:18:27 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:18:27 --> Severity: Notice --> Array to string conversion C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:19:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:19:34 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:19:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:19:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:19:58 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:19:59 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:20:52 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:20:52 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:20:52 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:20:52 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:20:52 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:23:37 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:23:37 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:23:37 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:23:37 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:23:37 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:23:37 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:23:37 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:24:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:24:19 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:25:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:25:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:25:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:25:16 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:25:26 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:25:26 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:25:26 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:25:26 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:25:26 --> Severity: Notice --> Use of undefined constant system - assumed 'system' C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:25:26 --> Severity: Notice --> Use of undefined constant out - assumed 'out' C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:25:26 --> Severity: error --> Exception: Call to undefined function println() C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 128
+ERROR - 2018-08-30 14:28:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:28:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:28:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:28:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:28:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:28:45 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:29:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:29:32 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:30:37 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:30:37 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:30:37 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:30:37 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:31:15 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:31:15 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:31:15 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:31:15 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:32:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:32:15 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:32:24 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:32:25 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:32:25 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:32:25 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:32:46 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:32:46 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:32:46 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:32:46 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:34:50 --> Severity: Notice --> Undefined offset: 0 C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:34:50 --> Severity: Notice --> Trying to get property of non-object C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 77
+ERROR - 2018-08-30 14:34:50 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 115
+ERROR - 2018-08-30 14:34:50 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 119
+ERROR - 2018-08-30 14:40:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:40:39 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:40:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:40:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:40:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:40:54 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 14:41:01 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 117
+ERROR - 2018-08-30 14:41:01 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 121
+ERROR - 2018-08-30 14:46:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 14:46:23 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 15:38:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 15:38:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 15:38:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 15:38:43 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 15:38:52 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 118
+ERROR - 2018-08-30 15:38:52 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 122
+ERROR - 2018-08-30 15:39:59 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 118
+ERROR - 2018-08-30 15:39:59 --> Severity: Notice --> Undefined index: key_clientes C:\laragon\www\webpedidos\application\controllers\pedido\Requisicao.php 122
+ERROR - 2018-08-30 15:58:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 15:58:49 --> 404 Page Not Found: Assets/js
+ERROR - 2018-08-30 16:47:23 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 16:47:23 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 16:47:23 --> 404 Page Not Found: Assets/images
+ERROR - 2018-08-30 16:47:24 --> 404 Page Not Found: Assets/images

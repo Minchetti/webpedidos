@@ -1,0 +1,388 @@
+ERROR - 2020-02-03 14:03:24 --> Severity: error --> Exception: syntax error, unexpected '$ano' (T_VARIABLE), expecting ',' or ')' C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 612
+ERROR - 2020-02-03 15:22:55 --> Severity: error --> Exception: syntax error, unexpected '$ano' (T_VARIABLE), expecting ',' or ')' C:\wamp64\www\webpedidos\application\controllers\pedido\Requisicao.php 612
+ERROR - 2020-02-03 15:23:52 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '120'
+ERROR - 2020-02-03 15:26:28 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '120'
+ERROR - 2020-02-03 15:27:38 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 15:57:56 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:57:56 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:57:56 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '0'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:57:56 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-1'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:57:56 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-2'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:57:56 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-3'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:59:08 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:59:08 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:59:09 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '0'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:59:09 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-1'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:59:09 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-2'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 15:59:09 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-3'
+AND extract (year from data_emissao) IS NULL
+ERROR - 2020-02-03 16:00:32 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:00:32 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:00:33 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '0'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:00:33 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-1'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:00:33 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-2'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:00:33 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-3'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:01:02 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:01:02 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:01:02 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '0'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:01:02 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-1'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:01:02 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-2'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:01:02 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '-3'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:17:21 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:17:21 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:17:21 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:17:21 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:17:22 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:17:22 --> Query error: ERRO:  coluna "nume3ro" não existe
+LINE 1: SELECT "nume3ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume3ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:18:22 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:18:22 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:18:22 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:18:22 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:18:22 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:18:22 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:22:55 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '2'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:22:55 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '1'
+AND extract (year from data_emissao) = '2020'
+ERROR - 2020-02-03 16:22:55 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '12'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:22:55 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '11'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:22:56 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '10'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 16:22:56 --> Query error: ERRO:  coluna "nume2ro" não existe
+LINE 1: SELECT "nume2ro"
+               ^
+HINT:  Perhaps you meant to reference the column "pedidos.numero". - Invalid query: SELECT "nume2ro"
+FROM "pedidos"
+WHERE "key_funcionarios_solicitante" = '33100093'
+AND extract (month from data_emissao) = '9'
+AND extract (year from data_emissao) = '2019'
+ERROR - 2020-02-03 17:04:38 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:04:38 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:05:32 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:05:32 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:05:39 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:05:39 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:05:51 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:05:51 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:06:02 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:06:02 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:06:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:06:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:19:58 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:19:58 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:05 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:35 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:35 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:36 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:36 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:46 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:46 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:55 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:20:55 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:21:02 --> 404 Page Not Found: Assets/js
+ERROR - 2020-02-03 17:21:02 --> 404 Page Not Found: Assets/js

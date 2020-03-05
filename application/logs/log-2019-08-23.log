@@ -1,0 +1,25 @@
+ERROR - 2019-08-23 13:32:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:32:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:37:50 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 72
+ERROR - 2019-08-23 13:37:50 --> Severity: Notice --> Undefined property: Usuario::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-23 13:37:50 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 134
+ERROR - 2019-08-23 13:38:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:38:36 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:38:57 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given C:\wamp64\www\webpedidos\application\controllers\usuario\Usuario.php 72
+ERROR - 2019-08-23 13:38:57 --> Severity: Notice --> Undefined property: Usuario::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-23 13:38:57 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 134
+ERROR - 2019-08-23 13:40:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:40:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:41:24 --> Severity: Notice --> Undefined property: Usuario::$database C:\wamp64\www\system\core\Model.php 77
+ERROR - 2019-08-23 13:41:24 --> Severity: error --> Exception: Call to a member function select() on null C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 134
+ERROR - 2019-08-23 13:54:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:54:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:54:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:54:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:54:52 --> Severity: Notice --> Undefined variable: template C:\wamp64\www\webpedidos\application\models\usuario\Usuario_model.php 152
+ERROR - 2019-08-23 13:55:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:55:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:58:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:58:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:59:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-23 13:59:31 --> 404 Page Not Found: Assets/js

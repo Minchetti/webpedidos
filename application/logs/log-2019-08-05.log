@@ -1,0 +1,1505 @@
+ERROR - 2019-08-05 09:38:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:38:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:39:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:39:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:39:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:39:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:39:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:39:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 09:39:48 --> Query error: ERRO:  coluna tm.codigo não existe
+LINE 6: WHERE "tm"."codigo" = 72
+              ^
+HINT:  Perhaps you meant to reference the column "u.codigo". - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."codigo" = 72
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:40:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:40:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:40:15 --> Query error: ERRO:  coluna tm.codigo não existe
+LINE 6: WHERE "tm"."codigo" = 65
+              ^
+HINT:  Perhaps you meant to reference the column "u.codigo". - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."codigo" = 65
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:41:38 --> Query error: ERRO:  coluna tm.codigo não existe
+LINE 6: WHERE "tm"."codigo" = 65
+              ^
+HINT:  Perhaps you meant to reference the column "u.codigo". - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."codigo" = 65
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:42:15 --> Query error: ERRO:  coluna tm.codigo não existe
+LINE 6: WHERE "tm"."codigo" = 65
+              ^
+HINT:  Perhaps you meant to reference the column "u.codigo". - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."codigo" = 65
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:42:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:42:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:42:37 --> Query error: ERRO:  coluna tm.nome não existe
+LINE 6: WHERE "tm"."nome" LIKE '%MAL%'
+              ^ - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."nome" LIKE '%MAL%'
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:44:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:44:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:44:09 --> Query error: ERRO:  coluna tm.codigo não existe
+LINE 6: WHERE "tm"."codigo" = 72
+              ^
+HINT:  Perhaps you meant to reference the column "u.codigo". - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."codigo" = 72
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:44:12 --> Query error: ERRO:  coluna tm.nome não existe
+LINE 6: WHERE "tm"."nome" LIKE '%MAL%'
+              ^ - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."nome" LIKE '%MAL%'
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:48:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:48:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:48:58 --> Query error: ERRO:  coluna tm.codigo não existe
+LINE 6: WHERE "tm"."codigo" = 76
+              ^
+HINT:  Perhaps you meant to reference the column "u.codigo". - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."codigo" = 76
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:56:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:56:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:56:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:56:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:56:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:56:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:56:14 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 76
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 76
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:57:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:57:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:57:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:57:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:57:38 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 66
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 66
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:58:51 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 89
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 89
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:58:52 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 89
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 89
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 09:59:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 09:59:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:03:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:03:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:03:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:03:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:03:52 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 78
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 78
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:04:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:04:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:04:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:04:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:04:41 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 78
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 78
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:06:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:06:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:06:15 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 76
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 76
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:08:59 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 76
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 76
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:11:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:11:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:11:40 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 76
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 76
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:12:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:12:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:13:02 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 84
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 84
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:14 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 86
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 86
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:14:16 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 86
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 86
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:14:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:14:54 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 76
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 76
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:15:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:15:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:15:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:15:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:15:31 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 180
+ERROR - 2019-08-05 10:15:31 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 86
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 86
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:16:41 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 86
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 86
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:16:44 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 86
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 86
+AND "tm"."descricao" LIKE '%ADASD%'
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:16:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:16:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:16:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:16:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:32:50 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 66
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 66
+AND "tm"."descricao" LIKE '%HIRAN%'
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:33:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:33:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:33:19 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 180
+ERROR - 2019-08-05 10:33:19 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 66
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 66
+AND "tm"."descricao" LIKE '%HIRAN%'
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:33:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:33:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:33:41 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 180
+ERROR - 2019-08-05 10:33:41 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 66
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 66
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:36:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:36:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:36:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:36:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:36:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:36:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:36:23 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 178
+ERROR - 2019-08-05 10:36:26 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 178
+ERROR - 2019-08-05 10:36:26 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 180
+ERROR - 2019-08-05 10:36:26 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 66
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 66
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:37:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:37:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:37:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:37:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:37:01 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 178
+ERROR - 2019-08-05 10:37:03 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 178
+ERROR - 2019-08-05 10:37:03 --> Severity: Warning --> Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) C:\wamp64\www\webpedidos\application\controllers\pedido\Template.php 180
+ERROR - 2019-08-05 10:37:03 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 66
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 66
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:38:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:38:19 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:38:23 --> Query error: ERRO:  operador não existe: character varying = integer
+LINE 6: WHERE "tm"."numero" = 66
+                            ^
+HINT:  Nenhum operador corresponde com o nome e o(s) tipo(s) de argumento(s) informados. Você precisa adicionar conversões de tipo explícitas. - Invalid query: SELECT "tm"."numero", "f"."nome" AS "funcionario", "tm"."id_centro_custo" AS "setor", "tm"."descricao" AS "descricao", "tm"."obs", "tm"."data_cadastro"
+FROM "templates" "tm"
+LEFT JOIN "usuario" "u" ON "u"."codigo" = "tm"."key_usuario"
+JOIN "funcionarios" "f" ON "f"."matricula" = "u"."key_funcionarios"
+LEFT JOIN "setor" "s" ON ("s"."id_centro_custo" = "f"."key_setor" AND "s"."id_depto" = f.key_clientes)
+WHERE "tm"."numero" = 66
+AND "tm"."key_usuario" = 174
+ORDER BY "tm"."numero" DESC
+ERROR - 2019-08-05 10:38:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:38:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:39:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:39:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:39:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:39:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:40:09 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('01.449.930/0001-90', '80115120')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10 OFFSET -10
+ERROR - 2019-08-05 10:43:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:43:07 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:43:28 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('01.449.930/0001-90', '80115120')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10 OFFSET -10
+ERROR - 2019-08-05 10:45:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:45:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:46:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:46:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:46:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:46:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:46:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:46:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:46:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:46:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:46:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:46:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:47:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:47:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:47:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:47:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:47:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:47:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:47:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:47:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:48:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:48:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:51:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:51:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:51:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:53:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:53:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:54:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:54:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:54:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:54:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:55:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 10:55:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:55:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:55:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:55:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:56:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:56:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:56:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:56:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:57:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:57:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:59:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 10:59:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:00:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:00:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:01:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:01:15 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('01.449.930/0001-90', '80115120')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10 OFFSET -10
+ERROR - 2019-08-05 11:01:23 --> Query error: ERRO:  OFFSET não deve ser negativo - Invalid query: SELECT "key_produtos" AS "codigo", "key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('01.449.930/0001-90', '80115120')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10 OFFSET -10
+ERROR - 2019-08-05 11:01:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:01:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:01:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:01:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:01:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:05:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:13:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:13:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:13:53 --> Severity: error --> Exception: syntax error, unexpected 'var' (T_VAR) C:\wamp64\www\webpedidos\application\models\produto\Produto_model.php 50
+ERROR - 2019-08-05 11:14:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:14:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:14:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:14:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:14:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:14:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:14:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:15:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:15:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:15:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:15:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:15:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:15:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:16:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:16:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:18:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:18:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:18:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:18:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:18:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:18:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:19:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:19:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:19:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:19:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:19:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:19:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:19:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:21:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:21:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:23:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:23:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:23:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:23:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:25:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:25:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:25:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:25:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:26:12 --> Severity: Notice --> Undefined variable: query C:\wamp64\www\webpedidos\application\models\produto\Produto_model.php 76
+ERROR - 2019-08-05 11:26:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:26:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:29:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:29:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:30:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:30:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:30:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:30:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:31:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:31:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:31:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:31:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:31:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:35:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:35:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:35:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:35:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:36:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:36:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:37:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:37:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:37:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:37:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:37:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:37:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:37:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:42:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:42:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:43:07 --> Query error: ERRO:  coluna "3key_partnumber" não existe
+LINE 1: SELECT "key_produtos" AS "codigo", "3key_partnumber" AS "par...
+                                           ^
+HINT:  Perhaps you meant to reference the column "fc_web_produtos_permitidos.key_partnumber". - Invalid query: SELECT "key_produtos" AS "codigo", "3key_partnumber" AS "partnumber", "unidade", "descricao", "op_ca" AS "ca", "preco"
+FROM fc_web_produtos_permitidos('01.449.930/0001-90', '80115120')
+WHERE "descricao" LIKE  '%'
+ LIMIT 10
+ERROR - 2019-08-05 11:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:45:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:45:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:45:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:45:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:45:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:47:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:47:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:47:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:26 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:28 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:31 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:32 --> Severity: Warning --> Invalid argument supplied for foreach() C:\wamp64\www\webpedidos\application\controllers\produto\Produto.php 28
+ERROR - 2019-08-05 11:47:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:47:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:47:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:48:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:48:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:48:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:48:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:49:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:49:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:49:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:49:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:49:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:49:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 11:49:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 11:49:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:30:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:30:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:30:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:30:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:30:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:30:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:32:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:32:20 --> Severity: error --> Exception: syntax error, unexpected '=' C:\wamp64\www\webpedidos\application\models\produto\Produto_model.php 53
+ERROR - 2019-08-05 14:32:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:32:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:32:39 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:39 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:32:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:33:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:33:09 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:33:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:33:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:33:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:33:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:33:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:33:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:33:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:33:30 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:34:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:34:20 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:34:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:34:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:34:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:34:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:34:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:34:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:34:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:35:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:17 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:17 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:30 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:30 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:35:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:36:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:36:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:36:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:37:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:37:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:37:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:37:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:37:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:37:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:37:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:37:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:37:35 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:38:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:38:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:38:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:39:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:39:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:39:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:39:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:40:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:40:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:40:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:40:28 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:40:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:40:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:41:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:43:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:43:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:43:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:43:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:44:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:44:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:44:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:44:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:44:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:44:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:44:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:44:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:44:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:44:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:46:42 --> Could not find the language line "insert_batch() called with no data"
+ERROR - 2019-08-05 14:47:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:47:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:47:30 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:47:30 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:47:32 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 14:48:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:48:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:48:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:48:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:49:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:49:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:49:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:49:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:49:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:49:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:51:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:52:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:52:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:52:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:52:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:54:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:54:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:54:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:54:49 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:54:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:54:50 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:55:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 14:55:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:00:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:00:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:00:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:00:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:00:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:00:15 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:02:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:02:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:02:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:02:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:02:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:02:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:03:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:03:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:04:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:04:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:04:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:05:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:05:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:05:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:05:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:06:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:06:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:06:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:06:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:06:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:07:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:07:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:07:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:07:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:07:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:07:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:07:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:07:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:07:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:08:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:08:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:08:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:08:54 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:09:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:09:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:09:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:09:35 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:09:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:09:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:10:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:10:23 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:10:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:10:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:11:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:11:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:11:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:11:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:12:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:12:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:12:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:16:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:16:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:16:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:16:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:16:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:17:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:40 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:17:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:18:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:18:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:18:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:18:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:18:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:18:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:18:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:18:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:20:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:20:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:20:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:20:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:20:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:20:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:21:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:21:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:22:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:22:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:24:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:24:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:24:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:24:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:24:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:24:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:24:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:24:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:25:44 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:25:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:25:45 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:25:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:26:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:26:08 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:26:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:26:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:26:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:26:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:26:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:26:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:27:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:27:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:27:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:27:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:27:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:27:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:27:33 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:28:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:28:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:28:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:28:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:28:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:28:31 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:28:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:28:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:28:34 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:28:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:28:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:29:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:29:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:29:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:29:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:29:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:29:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:29:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:29:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:29:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:29:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:29:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:31:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:31:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:31:40 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:31:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:31:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:32:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:32:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:35:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:35:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:35:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:35:18 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:38:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:38:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:38:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:38:39 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:46:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:46:17 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:46:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:46:22 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:50:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:50:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:50:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:50:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:51:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:51:53 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:52:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:52:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:54:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:54:21 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:54:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:54:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:54:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:54:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:55:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:55:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:55:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:55:04 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:56:13 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:56:14 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:56:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:28 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 15:56:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:56:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:57:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:57:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:57:20 --> Severity: Notice --> Undefined variable: offset2 C:\wamp64\www\webpedidos\application\models\produto\Produto_model.php 89
+ERROR - 2019-08-05 15:58:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:58:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:58:17 --> Severity: Notice --> Undefined variable: offset2 C:\wamp64\www\webpedidos\application\models\produto\Produto_model.php 89
+ERROR - 2019-08-05 15:59:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:59:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:59:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 15:59:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:00:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:00:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:00:22 --> Severity: Notice --> Undefined variable: offset2 C:\wamp64\www\webpedidos\application\models\produto\Produto_model.php 89
+ERROR - 2019-08-05 16:01:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:01:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:01:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:01:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:01:16 --> Severity: Notice --> Undefined variable: offset2 C:\wamp64\www\webpedidos\application\models\produto\Produto_model.php 89
+ERROR - 2019-08-05 16:02:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:02:46 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:02:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:02:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:02:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:02:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:02:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:02:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:02:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:02:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:02:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:02:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:29 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:38 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:03:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:04:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:05:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:05:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:05:10 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:05:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:05:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:05:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:05:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:05:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:05:36 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:07:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:07:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:10:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:10:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:10:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:10:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:10:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:10:59 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:12:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:12:51 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:12:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:12:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:12:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:12:55 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:13:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:13:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:13:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:13:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:13:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:13:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:13:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:13:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:13:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:13:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:14:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:14:02 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:14:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:14:32 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:14:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:14:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:15:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:15:05 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:15:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:15:29 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:15:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:15:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:16:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:16:25 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:03 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:17:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:17:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:17:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:17:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:17:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:17:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:17:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:17:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:18:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:18:17 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:17 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:18 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:20 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:18:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:21:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:21:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:21:42 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:21:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:21:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:21:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:22:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:22:01 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:25:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:25:37 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:25:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:25:38 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:25:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:25:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:25:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:25:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:25:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:25:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:25:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:26:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:26:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:26:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:26:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:26:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:26:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:26:56 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:26:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:26:57 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:26:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:26:58 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:27:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:13 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:27:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:32:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:32:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:32:04 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:39:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:39:00 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:39:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:12 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:14 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:39:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:39:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:39:43 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:39:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:54 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:39:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:40:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:40:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:40:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:40:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:40:41 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:40:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:40:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:40:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:40:44 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:41:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:41:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:41:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:41:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:41:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:41:52 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:42:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:03 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:06 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:10 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:42:16 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:42:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:24 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:25 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:26 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:42:27 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:43:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:43:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:43:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:43:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:43:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:49:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:49:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:50:11 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:50:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:50:12 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:50:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:21 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:23 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:50:27 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:50:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:45 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:46 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:50:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:51:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:51:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:51:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:51:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:51:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:51:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:19 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:52:26 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 16:52:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:42 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:52:59 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:58:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:58:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:58:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:58:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:58:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:07 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:15 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:16 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 16:59:37 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:00:08 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:01:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:01:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:01:33 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:01:34 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:05:47 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:05:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:05:48 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:06:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:02 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:05 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:09 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:11 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:06:22 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:07:30 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:07:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:07:31 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:07:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:43 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:47 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:48 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:49 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:50 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:51 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:52 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:07:53 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:27:41 --> 404 Page Not Found: Assets/js
+ERROR - 2019-08-05 17:27:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:55 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:56 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:57 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:27:58 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:28:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:28:00 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:28:01 --> 404 Page Not Found: Assets/images
+ERROR - 2019-08-05 17:28:01 --> 404 Page Not Found: Assets/images
